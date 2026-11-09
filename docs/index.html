@@ -70,16 +70,16 @@
 <ul>
   <li><strong>What shipped:</strong> The existing trainer (v13 static build) imported into this repo under <code>app/</code>, including source files, test scripts, and the built <code>dist/</code>; PRD v1 on this page; screenshot of the running app above. The trainer predates the course; the course work is the repo integration, the PRD, and the weekly builds from here.</li>
   <li><strong>Things learned with AI:</strong> Terminal basics, learned while shipping this build: navigating with cd and ls, copying files with cp (quoting paths that contain spaces), and the core git loop of status, add, commit, and push. Also learned to read the output instead of trusting a success message: my first commit silently skipped the built app because of a .gitignore rule, which only showed up in the commit's file list.</li>
-  <li><strong>What broke / changed in PRD:</strong> The first push silently omitted the entire built app because the repo template's .gitignore ignores <code>dist/</code> folders. Caught by reading the commit's file list (16 text files, no app code); fixed with a force-add in a second commit the same day. PRD change: the headline workflow narrowed from general GTO drilling (the app has 10 modes) to villain-specific spot training.</li>
+  <li><strong>What broke / changed in PRD:</strong> The first push silently omitted the entire built app because the repo template's .gitignore ignores <code>dist/</code> folders. Caught by reading the commit's file list (16 text files, no app code); fixed with a force-add in a second commit the same day. PRD change: the headline workflow narrowed from general GTO drilling (the app has 11 modes) to villain-specific spot training.</li>
   <li><strong>Cost &amp; time this week:</strong> $0.00 · 2 hours</li>
 </ul>
 
 <h3>Build 2 · Smallest Local Version &amp; PostHog (Due Nov 16)</h3>
 
 <ul>
-  <li><strong>What shipped:</strong> [Local working slice, PostHog verified on this page and the local app, PRD v2, and local setup in AGENTS.md]</li>
-  <li><strong>What broke / changed in PRD:</strong> [Fill in]</li>
-  <li><strong>Cost &amp; time this week:</strong> $[0.00] · [0] hours</li>
+  <li><strong>What shipped:</strong> Trainer v21 in app/dist: refreshed game data, and corrected opponent merges so each villain's hand history sits under one profile: K Bon merged into Alex, and Crawfish merged into Ruining. PostHog analytics (custom events in the local app, plus the snippet on this page) is the remaining item in this build and lands in v22.</li>
+  <li><strong>What broke / changed in PRD:</strong> PRD v2: opponent identities consolidated. The same players were tracked under two names (K Bon / Alex and Crawfish / Ruining), which split their hand histories and skewed the villain reads the trainer drills against. Data correctness took priority over new features in this build.</li>
+  <li><strong>Cost &amp; time this week:</strong> $0.00 · about 1 hour</li>
 </ul>
 
 <h3>Build 3 · Build.exe: The Core Workflow (Due Nov 23)</h3>
