@@ -1,0 +1,1880 @@
+{
+  "id": "open-BTN-CO",
+  "spot": "Facing an Open",
+  "hero": "BTN",
+  "villain": "CO",
+  "targets": {
+    "3-Bet": 12.5,
+    "Call": 3,
+    "Fold": 84.5
+  },
+  "denominator": "all hands",
+  "eligible": [
+    "AA",
+    "AKs",
+    "AQs",
+    "AJs",
+    "ATs",
+    "A9s",
+    "A8s",
+    "A7s",
+    "A6s",
+    "A5s",
+    "A4s",
+    "A3s",
+    "A2s",
+    "AKo",
+    "KK",
+    "KQs",
+    "KJs",
+    "KTs",
+    "K9s",
+    "K8s",
+    "K7s",
+    "K6s",
+    "K5s",
+    "K4s",
+    "K3s",
+    "K2s",
+    "AQo",
+    "KQo",
+    "QQ",
+    "QJs",
+    "QTs",
+    "Q9s",
+    "Q8s",
+    "Q7s",
+    "Q6s",
+    "Q5s",
+    "Q4s",
+    "Q3s",
+    "Q2s",
+    "AJo",
+    "KJo",
+    "QJo",
+    "JJ",
+    "JTs",
+    "J9s",
+    "J8s",
+    "J7s",
+    "J6s",
+    "J5s",
+    "J4s",
+    "J3s",
+    "J2s",
+    "ATo",
+    "KTo",
+    "QTo",
+    "JTo",
+    "TT",
+    "T9s",
+    "T8s",
+    "T7s",
+    "T6s",
+    "T5s",
+    "T4s",
+    "T3s",
+    "T2s",
+    "A9o",
+    "K9o",
+    "Q9o",
+    "J9o",
+    "T9o",
+    "99",
+    "98s",
+    "97s",
+    "96s",
+    "95s",
+    "94s",
+    "93s",
+    "92s",
+    "A8o",
+    "K8o",
+    "Q8o",
+    "J8o",
+    "T8o",
+    "98o",
+    "88",
+    "87s",
+    "86s",
+    "85s",
+    "84s",
+    "83s",
+    "82s",
+    "A7o",
+    "K7o",
+    "Q7o",
+    "J7o",
+    "T7o",
+    "97o",
+    "87o",
+    "77",
+    "76s",
+    "75s",
+    "74s",
+    "73s",
+    "72s",
+    "A6o",
+    "K6o",
+    "Q6o",
+    "J6o",
+    "T6o",
+    "96o",
+    "86o",
+    "76o",
+    "66",
+    "65s",
+    "64s",
+    "63s",
+    "62s",
+    "A5o",
+    "K5o",
+    "Q5o",
+    "J5o",
+    "T5o",
+    "95o",
+    "85o",
+    "75o",
+    "65o",
+    "55",
+    "54s",
+    "53s",
+    "52s",
+    "A4o",
+    "K4o",
+    "Q4o",
+    "J4o",
+    "T4o",
+    "94o",
+    "84o",
+    "74o",
+    "64o",
+    "54o",
+    "44",
+    "43s",
+    "42s",
+    "A3o",
+    "K3o",
+    "Q3o",
+    "J3o",
+    "T3o",
+    "93o",
+    "83o",
+    "73o",
+    "63o",
+    "53o",
+    "43o",
+    "33",
+    "32s",
+    "A2o",
+    "K2o",
+    "Q2o",
+    "J2o",
+    "T2o",
+    "92o",
+    "82o",
+    "72o",
+    "62o",
+    "52o",
+    "42o",
+    "32o",
+    "22"
+  ],
+  "source": "Poker Academy \u00b7 BTN vs CO named frequencies; remaining allocation heuristic",
+  "label": "Constructed from published frequencies \u00b7 heuristic allocation",
+  "notes": "A8s\u2013A3s use 85% within the published 77\u201399% band (heuristic selection); residual cells are constructed. Named hand frequencies retained.",
+  "cells": [
+    {
+      "hand": "AA",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": 0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "AKs",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": 0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "AQs",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": 0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "AJs",
+      "frequencies": {
+        "3-Bet": 0.46,
+        "Call": 0.54,
+        "Fold": 0.0
+      },
+      "frequency": 0.54,
+      "action": "Call"
+    },
+    {
+      "hand": "ATs",
+      "frequencies": {
+        "3-Bet": 0.26,
+        "Call": 0.74,
+        "Fold": 0.0
+      },
+      "frequency": 0.74,
+      "action": "Call"
+    },
+    {
+      "hand": "A9s",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": -0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "A8s",
+      "frequencies": {
+        "3-Bet": 0.85,
+        "Call": 0.0,
+        "Fold": 0.15
+      },
+      "frequency": 0.85,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "A7s",
+      "frequencies": {
+        "3-Bet": 0.85,
+        "Call": 0.0,
+        "Fold": 0.15
+      },
+      "frequency": 0.85,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "A6s",
+      "frequencies": {
+        "3-Bet": 0.85,
+        "Call": 0.0,
+        "Fold": 0.15
+      },
+      "frequency": 0.85,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "A5s",
+      "frequencies": {
+        "3-Bet": 0.85,
+        "Call": 0.0,
+        "Fold": 0.15
+      },
+      "frequency": 0.85,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "A4s",
+      "frequencies": {
+        "3-Bet": 0.85,
+        "Call": 0.0,
+        "Fold": 0.15
+      },
+      "frequency": 0.85,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "A3s",
+      "frequencies": {
+        "3-Bet": 0.85,
+        "Call": 0.0,
+        "Fold": 0.15
+      },
+      "frequency": 0.85,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "A2s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.665,
+        "Fold": 0.335
+      },
+      "frequency": 0.665,
+      "action": "Call"
+    },
+    {
+      "hand": "AKo",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": 0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "KK",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": 0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "KQs",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": -0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "KJs",
+      "frequencies": {
+        "3-Bet": 0.86,
+        "Call": 0.0,
+        "Fold": 0.14
+      },
+      "frequency": 0.86,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "KTs",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 1.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "Call"
+    },
+    {
+      "hand": "K9s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 1.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "Call"
+    },
+    {
+      "hand": "K8s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 1.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "Call"
+    },
+    {
+      "hand": "K7s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K6s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K5s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K4s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K3s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K2s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "AQo",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": 0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "KQo",
+      "frequencies": {
+        "3-Bet": 0.84,
+        "Call": 0.0,
+        "Fold": 0.16
+      },
+      "frequency": 0.84,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "QQ",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": 0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "QJs",
+      "frequencies": {
+        "3-Bet": -0.0,
+        "Call": 1.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "Call"
+    },
+    {
+      "hand": "QTs",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q9s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q8s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q7s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q6s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q5s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q4s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q3s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q2s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "AJo",
+      "frequencies": {
+        "3-Bet": 0.95,
+        "Call": 0.0,
+        "Fold": 0.05
+      },
+      "frequency": 0.95,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "KJo",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "QJo",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "JJ",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": -0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "JTs",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 1.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "Call"
+    },
+    {
+      "hand": "J9s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J8s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J7s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J6s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J5s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J4s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J3s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J2s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "ATo",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": 0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "KTo",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "QTo",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "JTo",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "TT",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": -0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "T9s",
+      "frequencies": {
+        "3-Bet": 0.87,
+        "Call": 0.0,
+        "Fold": 0.13
+      },
+      "frequency": 0.87,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "T8s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T7s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T6s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T5s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T4s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T3s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T2s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "A9o",
+      "frequencies": {
+        "3-Bet": 0.88916667,
+        "Call": 0.0,
+        "Fold": 0.11083333
+      },
+      "frequency": 0.88916667,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "K9o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q9o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J9o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T9o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "99",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": -0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "98s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "97s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "96s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "95s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "94s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "93s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "92s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "A8o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K8o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q8o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J8o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T8o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "98o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "88",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": -0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "87s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "86s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "85s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "84s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "83s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "82s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "A7o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K7o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q7o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J7o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T7o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "97o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "87o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "77",
+      "frequencies": {
+        "3-Bet": 1.0,
+        "Call": -0.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "76s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "75s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "74s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "73s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "72s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "A6o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K6o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q6o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J6o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T6o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "96o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "86o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "76o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "66",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 1.0,
+        "Fold": 0.0
+      },
+      "frequency": 1.0,
+      "action": "Call"
+    },
+    {
+      "hand": "65s",
+      "frequencies": {
+        "3-Bet": 0.85,
+        "Call": 0.0,
+        "Fold": 0.15
+      },
+      "frequency": 0.85,
+      "action": "3-Bet"
+    },
+    {
+      "hand": "64s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "63s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "62s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "A5o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K5o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q5o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J5o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T5o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "95o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "85o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "75o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "65o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "55",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 1.0,
+        "Fold": -0.0
+      },
+      "frequency": 1.0,
+      "action": "Call"
+    },
+    {
+      "hand": "54s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "53s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "52s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "A4o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K4o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q4o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J4o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T4o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "94o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "84o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "74o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "64o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "54o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "44",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "43s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "42s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "A3o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K3o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q3o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J3o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T3o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "93o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "83o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "73o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "63o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "53o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "43o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "33",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "32s",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "A2o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "K2o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "Q2o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "J2o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "T2o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "92o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "82o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "72o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "62o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "52o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "42o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "32o",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    },
+    {
+      "hand": "22",
+      "frequencies": {
+        "3-Bet": 0.0,
+        "Call": 0.0,
+        "Fold": 1.0
+      },
+      "frequency": 1.0,
+      "action": "Fold"
+    }
+  ],
+  "game": "No-Limit Hold'em cash; no rake",
+  "stack": 100
+}

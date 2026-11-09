@@ -1,0 +1,194 @@
+[
+  {
+    "id": 0,
+    "group": "Concepts",
+    "title": "SPR (stack-to-pot ratio)",
+    "text": "SPR (stack-to-pot ratio): effective stack divided by pot size. Low SPR means shallower, simpler decisions; high SPR means deeper stacks and a more complex game tree.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 1,
+    "group": "Concepts",
+    "title": "EQ (equity)",
+    "text": "EQ (equity): your percentage share of the pot if the hand ran out to showdown many times; raw win probability, independent of future betting.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 2,
+    "group": "Concepts",
+    "title": "EV (expected value)",
+    "text": "EV (expected value): the average amount won or lost by an action over many repetitions; EV = (probability of winning x amount won) minus (probability of losing x amount lost). Worked example from the notes: calling a $50 bet into a $100 pot with 40% equity: EV = (0.40 x $150) minus (0.60 x $50) = $60 minus $30 = +$30, a profitable call.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 3,
+    "group": "Concepts",
+    "title": "ISO (isolation raise)",
+    "text": "ISO (isolation raise): raising to isolate one opponent and reduce the field, mainly against limpers.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 4,
+    "group": "Concepts",
+    "title": "Bunching effect",
+    "text": "Bunching effect: mass folding before you act skews the remaining players' ranges toward stronger hands, so push tighter than a standard calculator suggests. Strongest in late position at shallow stacks; near zero in early position. It flips with limps instead of folds: limpers hold capped, weak ranges, which depletes the deck of premiums in the blinds and lets you ISO wider from late position.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 5,
+    "group": "Math",
+    "title": "Rule of 2 and 4",
+    "text": "Rule of 2 and 4: on the flop, outs x 4 approximates equity percent; on the turn, outs x 2.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 6,
+    "group": "Math",
+    "title": "Pot normalization",
+    "text": "Pot normalization: normalize the pot to 1 and express the bet as a fraction b. Pot odds = b / (2b + 1). Example: a half-pot bet gives 3-to-1 odds, 25% pot odds; call if your equity exceeds it.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 7,
+    "group": "Math",
+    "title": "Alpha",
+    "text": "Alpha: the minimum percentage of the time a bet must force a fold to be immediately profitable; alpha = b / (b + 1). Quarter-pot bluff: alpha = 20%. Alpha is primarily a bluffing metric because it only matters when you need folds to profit.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 8,
+    "group": "Math",
+    "title": "MDF = 1 minus alpha",
+    "text": "MDF = 1 minus alpha: the minimum percentage of your range you must defend (call or raise) so the bet is not automatically profitable. Quarter-pot bet: MDF 80%. Half-pot bet: MDF 67%.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 9,
+    "group": "Math",
+    "title": "Convergence at the margin",
+    "text": "Convergence at the margin: pot odds are hand-level (does this hand have enough equity to call), MDF is range-level (am I defending often enough to not be exploitable). They meet at the weakest hand in the defending range, which has equity about equal to the pot odds threshold and is exactly break-even against a GTO bettor. Worked example (quarter-pot bet): pot odds about 17%, alpha 20%, MDF 80%, and the bottom of the 80% defending range has about 17% equity and flat EV. Adjustment rule from the notes: if villain underbluffs, the bottom hands become losing calls, so fold more than MDF dictates; if villain overbluffs (for example on the river), defend more and call lighter.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 10,
+    "group": "Math",
+    "title": "Fold equity discounting",
+    "text": "Fold equity discounting: when players behind you can raise, you may not see the next card, so required equity = pot odds percent divided by the probability you see the next street. Example: pot odds 20% with a 30% raise risk means you see the next street 70% of the time, so true required equity = 20% / 0.70 = 28.5%. Speculative hands (suited connectors, draws, small pairs) take the full penalty because they must fold to a raise; strong hands are less affected. When you close the action, raise risk is zero and pot odds are face value.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 11,
+    "group": "Math",
+    "title": "Implied odds vs equity realization",
+    "text": "Implied odds vs equity realization: drawing hands like 67s have low raw equity but high implied odds and want multiway pots and volume of opponents to get paid when they hit; made-hand holdings like TT have strong raw equity to protect and want fewer opponents, so ISO raise to reduce the field.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 12,
+    "group": "Preflop Heuristics",
+    "title": "Play a distribution of hands strong relative to the random hands yet to act; if a player has already",
+    "text": "Play a distribution of hands strong relative to the random hands yet to act; if a player has already entered the pot, your range must also be strong relative to that player's range (CO raising over an UTG limp is tighter than CO opening folded-to).",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 13,
+    "group": "Preflop Heuristics",
+    "title": "Hands that mix strategies (sometimes raise, sometimes fold) are threshold hands",
+    "text": "Hands that mix strategies (sometimes raise, sometimes fold) are threshold hands.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 14,
+    "group": "Preflop Heuristics",
+    "title": "When opening wider than usual exploitatively and facing a 3-bet, it is fine to over-fold",
+    "text": "When opening wider than usual exploitatively and facing a 3-bet, it is fine to over-fold.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 15,
+    "group": "Preflop Heuristics",
+    "title": "Pure open-limping is almost never GTO except from the SB, because a raise builds the pot with equity",
+    "text": "Pure open-limping is almost never GTO except from the SB, because a raise builds the pot with equity and applies fold equity, while a limp does neither. Limp/fold is not a GTO strategy: if a hand is too weak to raise, fold it. Limp/raise exists only in the SB vs BB dynamic.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 16,
+    "group": "Preflop Heuristics",
+    "title": "SB structure",
+    "text": "SB structure: a raise range (strong hands plus some bluffs), a limp range (medium hands that do not want to bloat the pot, plus traps), and occasional limp/re-raise traps with AA and KK so the BB cannot attack every limp.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 17,
+    "group": "Preflop Heuristics",
+    "title": "Passive-table exception (exploitative, not GTO)",
+    "text": "Passive-table exception (exploitative, not GTO): where nobody isolates limpers and pots are multiway, over-limping behind gains value because implied odds rise and speculative hands gain; it works because opponents play incorrectly.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 18,
+    "group": "Position Principles",
+    "title": "CO vs 3-bets",
+    "text": "CO vs 3-bets: CO 4-bets and calls less against a BB 3-bet than against an SB 3-bet, even though the BB's overall range is wider. Mechanism: the BB can cheaply flat the open and close the action, so its medium hands go into calls and its 3-bet range is condensed and strong; the SB plays mostly 3-bet-or-fold out of position, so its 3-bet range is wider and weaker on average. Defend less against the stronger distribution.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 19,
+    "group": "Position Principles",
+    "title": "UTG vs a 3-bet, response frequencies",
+    "text": "UTG vs a 3-bet, response frequencies: vs LJ/HJ/CO about 10 to 11% 4-bet, 37 to 38% call, about 52% fold; vs BTN 8% 4-bet, 47% call, 44% fold. The early and middle positions are near-identical; the discontinuity is between CO and BTN. Why less 4-betting vs BTN: the button's range is wide and polarized, so a 4-bet folds the bluffs and runs into the value, and a 5-bet jam forces you off your hand for zero equity realization; medium and premium hands realize more by flatting and capturing bluffs postflop. Why more vs LJ/HJ/CO: their ranges are tight and linear with a large foldable middle (QQ, JJ, AK that 3-bet but cannot continue against a UTG 4-bet), so fold equity is high and the continuing range builds big pots against your premiums. 4-bet composition: AA, KK, AK always; QQ mixed; bluffs are A5s and A4s at small frequency, folding to a 5-bet; JJ and below mostly flat or fold. Slowplay some AA/KK vs BTN specifically, so the flatting range stays uncapped and traps the button's bluffs; vs early position, just 4-bet them.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 20,
+    "group": "Position Principles",
+    "title": "Equity realization note",
+    "text": "Equity realization note: higher preflop equity does not automatically mean raise. 4-betting narrows the opponent's range, a 5-bet jam can force a fold for 0% realization, and playing out of position in a bloated pot reduces realization further; flatting guarantees seeing all streets against the full range including bluffs.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 21,
+    "group": "Position Principles",
+    "title": "BB cold 4-betting (facing an open plus a 3-bet)",
+    "text": "BB cold 4-betting (facing an open plus a 3-bet): 4-bet or fold, no cold calling (splitting leaks information and lets opponents realize equity cheaply). Premiums (AA, KK, QQ, AKs, AKo, AQs) always 4-bet. Against tight ranges (LJ/HJ involved) value only; against medium (CO/BTN) add some bluffs; against wide (BTN/SB) add more bluffs. Only the bluff portion scales with opponent width; premiums stay constant. For mixed pairings (for example UTG open, BTN 3-bet), default to the tighter player's tier: the opener anchors the danger level.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 22,
+    "group": "Position Principles",
+    "title": "Playing vs open raises, the three 3-bet constructions",
+    "text": "Playing vs open raises, the three 3-bet constructions: (1) Exploitative: 3-bet more against weak or wide openers, but know that active players behind can cold 4-bet wider if they spot the adjustment. (2) Polarized, against 4-bet-heavy villains: value (AA, KK, AKs) plus blocker bluffs (A5s, A4s, which block AA and AK and fold cleanly to a 5-bet); middle-equity hands (AJo, KJs) flat instead, because they are dominated by the 4-bet-continuing range. (3) Linear, against call-heavy villains: strong high-equity hands that dominate the flatting range and play well postflop (AQs, AJs, KQs, JJ, TT); deprioritize bluffs because fold equity is low.",
+    "source": "Tiger's study notes",
+    "label": "Personal notes, not solver output"
+  },
+  {
+    "id": 23,
+    "group": "Personal Exploit Notes (Label Exactly",
+    "title": "MES against Ben",
+    "text": "MES against Ben: call heavier. Ben opens wide preflop, is a call station postflop, and is aggressive when checked to. (MES is the user's shorthand in his notes; display it as written.)",
+    "source": "Tiger's study notes",
+    "label": "Personal exploit notes, not GTO"
+  }
+]
