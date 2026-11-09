@@ -27,7 +27,7 @@
 
 <h2>Product Showcase (Prototype / Live App / 2-Min Video)</h2>
 
-<p><strong>Current Status:</strong> Build 1: local prototype in this repo (app code under <code>app/</code>). A live build also runs at
+<p><strong>Current Status:</strong> Build 2: trainer v22 in this repo (app code under <code>app/</code>), with PostHog analytics instrumented in the app and on this page. A live build also runs at
 <a href="https://potgeometry.com">potgeometry.com</a>.</p>
 
 <p><strong>Demo:</strong></p>
@@ -49,6 +49,7 @@
 
 <ul>
   <li><strong>In Scope (Core Workflow):</strong> Select a villain profile, drill villain spots generated from that player's tracked data, receive graded exploit feedback with the stat behind it (frequency and n), and review mistakes.</li>
+  <li><strong>In Scope (Build 2, Analytics):</strong> Anonymous usage measurement with PostHog. The app sends pageviews and three custom events (mode selected, drill answered with correct or incorrect, drill completed) to PostHog; this page sends pageviews. No accounts and no personal data; progress still lives only in localStorage.</li>
   <li><strong>Out of Scope #1:</strong> Not a solver. No real-time solving or GTO computation; all ranges are precomputed reference data.</li>
   <li><strong>Out of Scope #2:</strong> No real-money play, no online-site integration, and no live in-game assistance of any kind.</li>
   <li><strong>Out of Scope #3:</strong> No accounts or cloud sync in this build. Progress is stored locally in the browser with export/import.</li>
@@ -58,14 +59,14 @@
 
 <p><strong>Riskiest Assumption:</strong> Villain profiles are only as good as the tracked hand data behind them. Small samples mislead, so every stat in the app is displayed with its sample size, and profiles must keep being fed new hands to stay accurate.</p>
 
-<p><strong>Simple Architecture:</strong> [User picks a villain and mode] → [Static web app (HTML/CSS/JS, no server)] → [Bundled JSON data: preflop charts, villain spots, learn cards] → [Graded drill feedback; progress saved in browser localStorage]</p>
+<p><strong>Simple Architecture:</strong> [User picks a villain and mode] → [Static web app (HTML/CSS/JS, no server)] → [Bundled JSON data: preflop charts, villain spots, learn cards] → [Graded drill feedback; progress saved in browser localStorage] → [Anonymous usage events sent to PostHog: mode selected, drill answered, drill completed]</p>
 
 <h3>4. Unit Economics &amp; Analytics Snapshot (Updated Weekly)</h3>
 
 <ul>
   <li><strong>Cumulative Build Spend:</strong> $0 in new spend. Hosting is static (GitHub Pages); AI build tools are existing subscriptions.</li>
   <li><strong>Est. Cost Per User Run:</strong> $0. The app is fully static with no runtime inference or API calls.</li>
-  <li><strong>User Evidence (Analytics from Build 2):</strong> PostHog snippet installed on this page in Build 2; app-side custom events (mode selected, drill answered, drill completed) arrive with trainer v22.</li>
+  <li><strong>User Evidence (Analytics from Build 2):</strong> PostHog snippet installed on this page in Build 2; app-side custom events (mode selected, drill answered, drill completed) shipped in trainer v22.</li>
   <li><strong>Sponsor Call (Week 6):</strong> TBD</li>
 </ul>
 
@@ -85,7 +86,7 @@
 <h3>Build 2 · Smallest Local Version &amp; PostHog (Due Nov 16)</h3>
 
 <ul>
-  <li><strong>What shipped:</strong> Trainer v21 in app/dist: refreshed game data, and corrected opponent merges so each villain's hand history sits under one profile: K Bon merged into Alex, and Crawfish merged into Ruining. PostHog analytics (custom events in the local app, plus the snippet on this page) is the remaining item in this build and lands in v22.</li>
+  <li><strong>What shipped:</strong> Trainer v21 in app/dist: refreshed game data, and corrected opponent merges so each villain's hand history sits under one profile: K Bon merged into Alex, and Crawfish merged into Ruining. Trainer v22 followed in the same build: PostHog analytics added to the app (snippet plus custom events: mode selected, drill answered, drill completed), and the PostHog snippet added to this page.</li>
   <li><strong>What broke / changed in PRD:</strong> PRD v2: opponent identities consolidated. The same players were tracked under two names (K Bon / Alex and Crawfish / Ruining), which split their hand histories and skewed the villain reads the trainer drills against. Data correctness took priority over new features in this build.</li>
   <li><strong>Cost &amp; time this week:</strong> $0.00 · about 1 hour</li>
 </ul>
