@@ -3,15 +3,15 @@
 > Give this file to your coding agent and check that it is using these instructions. Keep the stack, commands, and ground rules current.
 
 ## 1. Project Overview
-- **What this repo builds:** [1–2 sentence summary]
-- **Primary user & core workflow:** [See the living PRD in `docs/index.html`]
-- **Tech stack:** [e.g., Python 3.12 / FastAPI / Next.js / SQLite / OpenRouter API]
+- **What this repo builds:** Pot Geometry, a poker drill trainer that prepares a player for the specific opponents in his recurring home game, plus the course Product Page in docs/.
+- **Primary user & core workflow:** A regular in a recurring home game. He picks a villain or a generated study plan, answers decision spots, gets graded feedback tied to that villain's logged tendencies, then reviews mistakes and past sessions.
+- **Tech stack:** Static HTML, CSS, and vanilla JavaScript. No build step: the built app is committed under app/dist and served as-is (also live at potgeometry.com). PostHog via CDN snippet for analytics. All progress stored in browser localStorage.
 
 ## 2. Commands
-- **Install dependencies:** `[e.g., npm install / uv sync]`
-- **Run locally:** `[e.g., npm run dev]`
-- **Run deterministic tests:** `[e.g., pytest / npm test]`
-- **Run model evals:** `[e.g., python tests/eval.py]`
+- **Install dependencies:** None. There is no package manager or build step in this repo.
+- **Run locally:** `python3 -m http.server 8000 --directory app/dist`, then open http://localhost:8000 (a local server is required; the service worker and data files do not load from file://).
+- **Run deterministic tests:** No automated suite is committed in this repo. Verification is manual drill flows plus the plan in tests/README.md.
+- **Run model evals:** Not applicable. The app makes no model calls.
 
 ## 3. Non-Negotiable Engineering Rules
 1. **Plan before coding:** Before touching multiple files, propose a brief plan and wait for approval.
