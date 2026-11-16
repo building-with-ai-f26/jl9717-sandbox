@@ -170,24 +170,24 @@
     "forbidden": [
      "check"
     ],
-    "why": "Alex c-bets only 33.9% (n=221) and folds to flop bets 65.6% (n=317). After he checks, bet.",
+    "why": "Alex c-bets only 33.5% (n=245) and folds to flop bets 66.8% (n=349). After he checks, bet.",
     "rule": "Bet 50-66% pot with weak hands and draws after he checks as the raiser."
    },
    "driverStats": [
     {
      "ref": "alex.cbet_flop",
      "label": "Flop c-bet %",
-     "value_pct": 33.9,
-     "n": 221,
+     "value_pct": 33.5,
+     "n": 245,
      "status": "graded"
     },
     {
      "ref": "alex.fold_to_bet_flop",
      "label": "Folds to a flop bet %",
-     "value_pct": 65.6,
-     "n": 317,
+     "value_pct": 66.8,
+     "n": 349,
      "status": "graded",
-     "benchmark_pct": 37.2,
+     "benchmark_pct": 37.1,
      "benchmark_approximate": true
     }
    ],
@@ -254,24 +254,24 @@
     "forbidden": [
      "check"
     ],
-    "why": "Alex c-bets only 33.9% (n=221) and folds to flop bets 65.6% (n=317). After he checks, bet.",
+    "why": "Alex c-bets only 33.5% (n=245) and folds to flop bets 66.8% (n=349). After he checks, bet.",
     "rule": "Bet 50-66% pot with weak hands and draws after he checks as the raiser."
    },
    "driverStats": [
     {
      "ref": "alex.cbet_flop",
      "label": "Flop c-bet %",
-     "value_pct": 33.9,
-     "n": 221,
+     "value_pct": 33.5,
+     "n": 245,
      "status": "graded"
     },
     {
      "ref": "alex.fold_to_bet_flop",
      "label": "Folds to a flop bet %",
-     "value_pct": 65.6,
-     "n": 317,
+     "value_pct": 66.8,
+     "n": 349,
      "status": "graded",
-     "benchmark_pct": 37.2,
+     "benchmark_pct": 37.1,
      "benchmark_approximate": true
     }
    ],
@@ -341,22 +341,22 @@
      "fold"
     ],
     "forbidden": [],
-    "why": "Only 18.2% of Alex's shown-down river bets were weak hands (n=22) and he wins 72.3% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "why": "Only 21.7% of Alex's shown-down river bets were weak hands (n=23) and he wins 69.4% of showdowns. Fold bluff-catchers and call with top pair or better.",
     "rule": "Call with top pair or better; fold bluff-catchers."
    },
    "driverStats": [
     {
      "ref": "alex.river_aggression_weak_at_showdown",
      "label": "Weak hands in shown-down river bets %",
-     "value_pct": 18.2,
-     "n": 22,
+     "value_pct": 21.7,
+     "n": 23,
      "status": "hidden"
     },
     {
      "ref": "alex.wsd",
      "label": "Wins at showdown %",
-     "value_pct": 72.3,
-     "n": 148,
+     "value_pct": 69.4,
+     "n": 170,
      "status": "graded"
     }
    ],
@@ -425,22 +425,22 @@
      "call"
     ],
     "forbidden": [],
-    "why": "Only 18.2% of Alex's shown-down river bets were weak hands (n=22) and he wins 72.3% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "why": "Only 21.7% of Alex's shown-down river bets were weak hands (n=23) and he wins 69.4% of showdowns. Fold bluff-catchers and call with top pair or better.",
     "rule": "Call with top pair or better; fold bluff-catchers."
    },
    "driverStats": [
     {
      "ref": "alex.river_aggression_weak_at_showdown",
      "label": "Weak hands in shown-down river bets %",
-     "value_pct": 18.2,
-     "n": 22,
+     "value_pct": 21.7,
+     "n": 23,
      "status": "hidden"
     },
     {
      "ref": "alex.wsd",
      "label": "Wins at showdown %",
-     "value_pct": 72.3,
-     "n": 148,
+     "value_pct": 69.4,
+     "n": 170,
      "status": "graded"
     }
    ],
@@ -493,22 +493,22 @@
      "check_or_fold"
     ],
     "forbidden": [],
-    "why": "Ruining limps 24.7% of the time when first in (n=864) and folds the big blind to opens 13.6% of the time. Raise to 4-5bb with a wide range.",
+    "why": "Ruining limps 24.3% of the time when first in (n=913) and folds the big blind to opens 14.0% of the time. Raise to 4-5bb with a wide range.",
     "rule": "Raise 4-5bb with a wide range over his limp; he calls raises too often to fold out."
    },
    "driverStats": [
     {
      "ref": "ruining.open_limp_when_first_in",
      "label": "Limps when first in %",
-     "value_pct": 24.7,
-     "n": 864,
+     "value_pct": 24.3,
+     "n": 913,
      "status": "graded"
     },
     {
      "ref": "ruining.bb_fold_vs_open",
      "label": "Folds BB vs open %",
-     "value_pct": 13.6,
-     "n": 367,
+     "value_pct": 14.0,
+     "n": 393,
      "status": "graded"
     }
    ],
@@ -560,22 +560,22 @@
      "raise_4_5bb"
     ],
     "forbidden": [],
-    "why": "Ruining limps 24.7% of the time when first in (n=864) and folds the big blind to opens 13.6% of the time. Raise to 4-5bb with a wide range.",
+    "why": "Ruining limps 24.3% of the time when first in (n=913) and folds the big blind to opens 14.0% of the time. Raise to 4-5bb with a wide range.",
     "rule": "Raise 4-5bb with a wide range over his limp; he calls raises too often to fold out."
    },
    "driverStats": [
     {
      "ref": "ruining.open_limp_when_first_in",
      "label": "Limps when first in %",
-     "value_pct": 24.7,
-     "n": 864,
+     "value_pct": 24.3,
+     "n": 913,
      "status": "graded"
     },
     {
      "ref": "ruining.bb_fold_vs_open",
      "label": "Folds BB vs open %",
-     "value_pct": 13.6,
-     "n": 367,
+     "value_pct": 14.0,
+     "n": 393,
      "status": "graded"
     }
    ],
@@ -650,17 +650,17 @@
     "forbidden": [
      "check"
     ],
-    "why": "Ruining folds to river bets 58.1% of the time versus a ~42.3% benchmark (n=124). Bet your missed hands.",
+    "why": "Ruining folds to river bets 58.5% of the time versus a ~~42.1% benchmark (n=130). Bet your missed hands.",
     "rule": "Bet 50-75% pot with missed hands."
    },
    "driverStats": [
     {
      "ref": "ruining.fold_to_bet_river",
      "label": "Folds to a river bet %",
-     "value_pct": 58.1,
-     "n": 124,
+     "value_pct": 58.5,
+     "n": 130,
      "status": "graded",
-     "benchmark_pct": 42.3,
+     "benchmark_pct": 42.1,
      "benchmark_approximate": true
     }
    ],
@@ -736,17 +736,17 @@
     "forbidden": [
      "check"
     ],
-    "why": "Ruining folds to river bets 58.1% of the time versus a ~42.3% benchmark (n=124). Bet your missed hands.",
+    "why": "Ruining folds to river bets 58.5% of the time versus a ~~42.1% benchmark (n=130). Bet your missed hands.",
     "rule": "Bet 50-75% pot with missed hands."
    },
    "driverStats": [
     {
      "ref": "ruining.fold_to_bet_river",
      "label": "Folds to a river bet %",
-     "value_pct": 58.1,
-     "n": 124,
+     "value_pct": 58.5,
+     "n": 130,
      "status": "graded",
-     "benchmark_pct": 42.3,
+     "benchmark_pct": 42.1,
      "benchmark_approximate": true
     }
    ],
@@ -818,17 +818,17 @@
     "forbidden": [
      "check"
     ],
-    "why": "Alex folds to turn bets 58.2% of the time versus a ~38.7% benchmark (n=194). Keep betting the turn.",
+    "why": "Alex folds to turn bets 57.5% of the time versus a ~~38.9% benchmark (n=214). Keep betting the turn.",
     "rule": "Bet 66-75% pot on the turn with weak hands and draws."
    },
    "driverStats": [
     {
      "ref": "alex.fold_to_bet_turn",
      "label": "Folds to a turn bet %",
-     "value_pct": 58.2,
-     "n": 194,
+     "value_pct": 57.5,
+     "n": 214,
      "status": "graded",
-     "benchmark_pct": 38.7,
+     "benchmark_pct": 38.9,
      "benchmark_approximate": true
     }
    ],
@@ -900,17 +900,17 @@
     "forbidden": [
      "check"
     ],
-    "why": "Alex folds to turn bets 58.2% of the time versus a ~38.7% benchmark (n=194). Keep betting the turn.",
+    "why": "Alex folds to turn bets 57.5% of the time versus a ~~38.9% benchmark (n=214). Keep betting the turn.",
     "rule": "Bet 66-75% pot on the turn with weak hands and draws."
    },
    "driverStats": [
     {
      "ref": "alex.fold_to_bet_turn",
      "label": "Folds to a turn bet %",
-     "value_pct": 58.2,
-     "n": 194,
+     "value_pct": 57.5,
+     "n": 214,
      "status": "graded",
-     "benchmark_pct": 38.7,
+     "benchmark_pct": 38.9,
      "benchmark_approximate": true
     }
    ],
@@ -984,15 +984,15 @@
     "forbidden": [
      "check"
     ],
-    "why": "Ruining shows a pair or worse at 56.1% of showdowns (n=237), so he pays off thin value bets.",
+    "why": "Ruining shows a pair or worse at 55.0% of showdowns (n=262), so he pays off thin value bets.",
     "rule": "Bet 33-50% pot with second pair or weak top pair."
    },
    "driverStats": [
     {
      "ref": "ruining.showdown_weak_hands",
      "label": "Shows a pair or worse at showdown %",
-     "value_pct": 56.1,
-     "n": 237,
+     "value_pct": 55.0,
+     "n": 262,
      "status": "graded"
     }
    ],
@@ -1068,15 +1068,15 @@
     "forbidden": [
      "check"
     ],
-    "why": "Ruining shows a pair or worse at 56.1% of showdowns (n=237), so he pays off thin value bets.",
+    "why": "Ruining shows a pair or worse at 55.0% of showdowns (n=262), so he pays off thin value bets.",
     "rule": "Bet 33-50% pot with second pair or weak top pair."
    },
    "driverStats": [
     {
      "ref": "ruining.showdown_weak_hands",
      "label": "Shows a pair or worse at showdown %",
-     "value_pct": 56.1,
-     "n": 237,
+     "value_pct": 55.0,
+     "n": 262,
      "status": "graded"
     }
    ],
@@ -1133,7 +1133,7 @@
     "forbidden": [
      "3bet"
     ],
-    "why": "Ben folds to a 3-bet only 8.0% of the time (n=112). A bluff 3-bet needs folds, so call or fold instead.",
+    "why": "Ben folds to a 3-bet only 8.0% of the time (n=113). A bluff 3-bet needs folds, so call or fold instead.",
     "rule": "Never 3-bet bluff; call playable hands and fold the rest."
    },
    "driverStats": [
@@ -1141,7 +1141,7 @@
      "ref": "ben.fold_to_3bet",
      "label": "Folds to a 3-bet %",
      "value_pct": 8.0,
-     "n": 112,
+     "n": 113,
      "status": "graded"
     }
    ],
@@ -1196,7 +1196,7 @@
     "forbidden": [
      "3bet"
     ],
-    "why": "Ben folds to a 3-bet only 8.0% of the time (n=112). A bluff 3-bet needs folds, so call or fold instead.",
+    "why": "Ben folds to a 3-bet only 8.0% of the time (n=113). A bluff 3-bet needs folds, so call or fold instead.",
     "rule": "Never 3-bet bluff; call playable hands and fold the rest."
    },
    "driverStats": [
@@ -1204,7 +1204,7 @@
      "ref": "ben.fold_to_3bet",
      "label": "Folds to a 3-bet %",
      "value_pct": 8.0,
-     "n": 112,
+     "n": 113,
      "status": "graded"
     }
    ],
@@ -1260,22 +1260,22 @@
      "call"
     ],
     "forbidden": [],
-    "why": "Ben 3-bets 25.9% of the time (n=761), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
+    "why": "Ben 3-bets 25.8% of the time (n=779), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
     "rule": "Call wider in position with suited and playable hands; 4-bet only for value; fold weak offsuit hands."
    },
    "driverStats": [
     {
      "ref": "ben.three_bet",
      "label": "Overall 3-bet %",
-     "value_pct": 25.9,
-     "n": 761,
+     "value_pct": 25.8,
+     "n": 779,
      "status": "graded"
     },
     {
      "ref": "ben.bb_3bet_vs_open",
      "label": "BB 3-bet vs open %",
-     "value_pct": 29.3,
-     "n": 341,
+     "value_pct": 28.8,
+     "n": 347,
      "status": "graded"
     }
    ],
@@ -1331,22 +1331,22 @@
      "fold"
     ],
     "forbidden": [],
-    "why": "Ben 3-bets 25.9% of the time (n=761), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
+    "why": "Ben 3-bets 25.8% of the time (n=779), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
     "rule": "Call wider in position with suited and playable hands; 4-bet only for value; fold weak offsuit hands."
    },
    "driverStats": [
     {
      "ref": "ben.three_bet",
      "label": "Overall 3-bet %",
-     "value_pct": 25.9,
-     "n": 761,
+     "value_pct": 25.8,
+     "n": 779,
      "status": "graded"
     },
     {
      "ref": "ben.bb_3bet_vs_open",
      "label": "BB 3-bet vs open %",
-     "value_pct": 29.3,
-     "n": 341,
+     "value_pct": 28.8,
+     "n": 347,
      "status": "graded"
     }
    ],
@@ -1419,22 +1419,22 @@
      "call"
     ],
     "forbidden": [],
-    "why": "Only 21.3% of Ben's shown-down river bets were weak hands (n=47) and he wins 62.7% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "why": "Only 20.8% of Ben's shown-down river bets were weak hands (n=48) and he wins 59.5% of showdowns. Fold bluff-catchers and call with top pair or better.",
     "rule": "Call with top pair or better; fold bluff-catchers."
    },
    "driverStats": [
     {
      "ref": "ben.river_aggression_weak_at_showdown",
      "label": "Weak hands in shown-down river bets %",
-     "value_pct": 21.3,
-     "n": 47,
+     "value_pct": 20.8,
+     "n": 48,
      "status": "lean"
     },
     {
      "ref": "ben.wsd",
      "label": "Wins at showdown %",
-     "value_pct": 62.7,
-     "n": 212,
+     "value_pct": 59.5,
+     "n": 227,
      "status": "graded"
     }
    ],
@@ -1503,22 +1503,22 @@
      "fold"
     ],
     "forbidden": [],
-    "why": "Only 21.3% of Ben's shown-down river bets were weak hands (n=47) and he wins 62.7% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "why": "Only 20.8% of Ben's shown-down river bets were weak hands (n=48) and he wins 59.5% of showdowns. Fold bluff-catchers and call with top pair or better.",
     "rule": "Call with top pair or better; fold bluff-catchers."
    },
    "driverStats": [
     {
      "ref": "ben.river_aggression_weak_at_showdown",
      "label": "Weak hands in shown-down river bets %",
-     "value_pct": 21.3,
-     "n": 47,
+     "value_pct": 20.8,
+     "n": 48,
      "status": "lean"
     },
     {
      "ref": "ben.wsd",
      "label": "Wins at showdown %",
-     "value_pct": 62.7,
-     "n": 212,
+     "value_pct": 59.5,
+     "n": 227,
      "status": "graded"
     }
    ],
@@ -1851,22 +1851,22 @@
      "call"
     ],
     "forbidden": [],
-    "why": "Ben 3-bets 25.9% of the time (n=761), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
+    "why": "Ben 3-bets 25.8% of the time (n=779), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
     "rule": "Call wider in position with suited and playable hands; 4-bet only for value; fold weak offsuit hands."
    },
    "driverStats": [
     {
      "ref": "ben.three_bet",
      "label": "Overall 3-bet %",
-     "value_pct": 25.9,
-     "n": 761,
+     "value_pct": 25.8,
+     "n": 779,
      "status": "graded"
     },
     {
      "ref": "ben.bb_3bet_vs_open",
      "label": "BB 3-bet vs open %",
-     "value_pct": 29.3,
-     "n": 341,
+     "value_pct": 28.8,
+     "n": 347,
      "status": "graded"
     }
    ],
@@ -1917,22 +1917,22 @@
      "fold"
     ],
     "forbidden": [],
-    "why": "Ben 3-bets 25.9% of the time (n=761), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
+    "why": "Ben 3-bets 25.8% of the time (n=779), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
     "rule": "Call wider in position with suited and playable hands; 4-bet only for value; fold weak offsuit hands."
    },
    "driverStats": [
     {
      "ref": "ben.three_bet",
      "label": "Overall 3-bet %",
-     "value_pct": 25.9,
-     "n": 761,
+     "value_pct": 25.8,
+     "n": 779,
      "status": "graded"
     },
     {
      "ref": "ben.bb_3bet_vs_open",
      "label": "BB 3-bet vs open %",
-     "value_pct": 29.3,
-     "n": 341,
+     "value_pct": 28.8,
+     "n": 347,
      "status": "graded"
     }
    ],
@@ -1983,7 +1983,7 @@
     "forbidden": [
      "3bet"
     ],
-    "why": "Ben folds to a 3-bet only 8.0% of the time (n=112). A bluff 3-bet needs folds, so call or fold instead.",
+    "why": "Ben folds to a 3-bet only 8.0% of the time (n=113). A bluff 3-bet needs folds, so call or fold instead.",
     "rule": "Never 3-bet bluff; call playable hands and fold the rest."
    },
    "driverStats": [
@@ -1991,7 +1991,7 @@
      "ref": "ben.fold_to_3bet",
      "label": "Folds to a 3-bet %",
      "value_pct": 8.0,
-     "n": 112,
+     "n": 113,
      "status": "graded"
     }
    ],
@@ -2043,7 +2043,7 @@
     "forbidden": [
      "3bet"
     ],
-    "why": "Ben folds to a 3-bet only 8.0% of the time (n=112). A bluff 3-bet needs folds, so call or fold instead.",
+    "why": "Ben folds to a 3-bet only 8.0% of the time (n=113). A bluff 3-bet needs folds, so call or fold instead.",
     "rule": "Never 3-bet bluff; call playable hands and fold the rest."
    },
    "driverStats": [
@@ -2051,7 +2051,7 @@
      "ref": "ben.fold_to_3bet",
      "label": "Folds to a 3-bet %",
      "value_pct": 8.0,
-     "n": 112,
+     "n": 113,
      "status": "graded"
     }
    ],
@@ -2117,22 +2117,22 @@
      "call"
     ],
     "forbidden": [],
-    "why": "Only 21.3% of Ben's shown-down river bets were weak hands (n=47) and he wins 62.7% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "why": "Only 20.8% of Ben's shown-down river bets were weak hands (n=48) and he wins 59.5% of showdowns. Fold bluff-catchers and call with top pair or better.",
     "rule": "Call with top pair or better; fold bluff-catchers."
    },
    "driverStats": [
     {
      "ref": "ben.river_aggression_weak_at_showdown",
      "label": "Weak hands in shown-down river bets %",
-     "value_pct": 21.3,
-     "n": 47,
+     "value_pct": 20.8,
+     "n": 48,
      "status": "lean"
     },
     {
      "ref": "ben.wsd",
      "label": "Wins at showdown %",
-     "value_pct": 62.7,
-     "n": 212,
+     "value_pct": 59.5,
+     "n": 227,
      "status": "graded"
     }
    ],
@@ -2198,22 +2198,22 @@
      "fold"
     ],
     "forbidden": [],
-    "why": "Only 21.3% of Ben's shown-down river bets were weak hands (n=47) and he wins 62.7% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "why": "Only 20.8% of Ben's shown-down river bets were weak hands (n=48) and he wins 59.5% of showdowns. Fold bluff-catchers and call with top pair or better.",
     "rule": "Call with top pair or better; fold bluff-catchers."
    },
    "driverStats": [
     {
      "ref": "ben.river_aggression_weak_at_showdown",
      "label": "Weak hands in shown-down river bets %",
-     "value_pct": 21.3,
-     "n": 47,
+     "value_pct": 20.8,
+     "n": 48,
      "status": "lean"
     },
     {
      "ref": "ben.wsd",
      "label": "Wins at showdown %",
-     "value_pct": 62.7,
-     "n": 212,
+     "value_pct": 59.5,
+     "n": 227,
      "status": "graded"
     }
    ],
@@ -2276,24 +2276,24 @@
     "forbidden": [
      "check"
     ],
-    "why": "Alex c-bets only 33.9% (n=221) and folds to flop bets 65.6% (n=317). After he checks, bet.",
+    "why": "Alex c-bets only 33.5% (n=245) and folds to flop bets 66.8% (n=349). After he checks, bet.",
     "rule": "Bet 50-66% pot with weak hands and draws after he checks as the raiser."
    },
    "driverStats": [
     {
      "ref": "alex.cbet_flop",
      "label": "Flop c-bet %",
-     "value_pct": 33.9,
-     "n": 221,
+     "value_pct": 33.5,
+     "n": 245,
      "status": "graded"
     },
     {
      "ref": "alex.fold_to_bet_flop",
      "label": "Folds to a flop bet %",
-     "value_pct": 65.6,
-     "n": 317,
+     "value_pct": 66.8,
+     "n": 349,
      "status": "graded",
-     "benchmark_pct": 37.2,
+     "benchmark_pct": 37.1,
      "benchmark_approximate": true
     }
    ],
@@ -2356,24 +2356,24 @@
     "forbidden": [
      "check"
     ],
-    "why": "Alex c-bets only 33.9% (n=221) and folds to flop bets 65.6% (n=317). After he checks, bet.",
+    "why": "Alex c-bets only 33.5% (n=245) and folds to flop bets 66.8% (n=349). After he checks, bet.",
     "rule": "Bet 50-66% pot with weak hands and draws after he checks as the raiser."
    },
    "driverStats": [
     {
      "ref": "alex.cbet_flop",
      "label": "Flop c-bet %",
-     "value_pct": 33.9,
-     "n": 221,
+     "value_pct": 33.5,
+     "n": 245,
      "status": "graded"
     },
     {
      "ref": "alex.fold_to_bet_flop",
      "label": "Folds to a flop bet %",
-     "value_pct": 65.6,
-     "n": 317,
+     "value_pct": 66.8,
+     "n": 349,
      "status": "graded",
-     "benchmark_pct": 37.2,
+     "benchmark_pct": 37.1,
      "benchmark_approximate": true
     }
    ],
@@ -2440,17 +2440,17 @@
     "forbidden": [
      "check"
     ],
-    "why": "Alex folds to turn bets 58.2% of the time versus a ~38.7% benchmark (n=194). Keep betting the turn.",
+    "why": "Alex folds to turn bets 57.5% of the time versus a ~~38.9% benchmark (n=214). Keep betting the turn.",
     "rule": "Bet 66-75% pot on the turn with weak hands and draws."
    },
    "driverStats": [
     {
      "ref": "alex.fold_to_bet_turn",
      "label": "Folds to a turn bet %",
-     "value_pct": 58.2,
-     "n": 194,
+     "value_pct": 57.5,
+     "n": 214,
      "status": "graded",
-     "benchmark_pct": 38.7,
+     "benchmark_pct": 38.9,
      "benchmark_approximate": true
     }
    ],
@@ -2517,17 +2517,17 @@
     "forbidden": [
      "check"
     ],
-    "why": "Alex folds to turn bets 58.2% of the time versus a ~38.7% benchmark (n=194). Keep betting the turn.",
+    "why": "Alex folds to turn bets 57.5% of the time versus a ~~38.9% benchmark (n=214). Keep betting the turn.",
     "rule": "Bet 66-75% pot on the turn with weak hands and draws."
    },
    "driverStats": [
     {
      "ref": "alex.fold_to_bet_turn",
      "label": "Folds to a turn bet %",
-     "value_pct": 58.2,
-     "n": 194,
+     "value_pct": 57.5,
+     "n": 214,
      "status": "graded",
-     "benchmark_pct": 38.7,
+     "benchmark_pct": 38.9,
      "benchmark_approximate": true
     }
    ],
@@ -2591,22 +2591,22 @@
      "fold"
     ],
     "forbidden": [],
-    "why": "Only 18.2% of Alex's shown-down river bets were weak hands (n=22) and he wins 72.3% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "why": "Only 21.7% of Alex's shown-down river bets were weak hands (n=23) and he wins 69.4% of showdowns. Fold bluff-catchers and call with top pair or better.",
     "rule": "Call with top pair or better; fold bluff-catchers."
    },
    "driverStats": [
     {
      "ref": "alex.river_aggression_weak_at_showdown",
      "label": "Weak hands in shown-down river bets %",
-     "value_pct": 18.2,
-     "n": 22,
+     "value_pct": 21.7,
+     "n": 23,
      "status": "hidden"
     },
     {
      "ref": "alex.wsd",
      "label": "Wins at showdown %",
-     "value_pct": 72.3,
-     "n": 148,
+     "value_pct": 69.4,
+     "n": 170,
      "status": "graded"
     }
    ],
@@ -2670,22 +2670,22 @@
      "call"
     ],
     "forbidden": [],
-    "why": "Only 18.2% of Alex's shown-down river bets were weak hands (n=22) and he wins 72.3% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "why": "Only 21.7% of Alex's shown-down river bets were weak hands (n=23) and he wins 69.4% of showdowns. Fold bluff-catchers and call with top pair or better.",
     "rule": "Call with top pair or better; fold bluff-catchers."
    },
    "driverStats": [
     {
      "ref": "alex.river_aggression_weak_at_showdown",
      "label": "Weak hands in shown-down river bets %",
-     "value_pct": 18.2,
-     "n": 22,
+     "value_pct": 21.7,
+     "n": 23,
      "status": "hidden"
     },
     {
      "ref": "alex.wsd",
      "label": "Wins at showdown %",
-     "value_pct": 72.3,
-     "n": 148,
+     "value_pct": 69.4,
+     "n": 170,
      "status": "graded"
     }
    ],
@@ -2733,22 +2733,22 @@
      "raise_4_5bb"
     ],
     "forbidden": [],
-    "why": "Ruining limps 24.7% of the time when first in (n=864) and folds the big blind to opens 13.6% of the time. Raise to 4-5bb with a wide range.",
+    "why": "Ruining limps 24.3% of the time when first in (n=913) and folds the big blind to opens 14.0% of the time. Raise to 4-5bb with a wide range.",
     "rule": "Raise 4-5bb with a wide range over his limp; he calls raises too often to fold out."
    },
    "driverStats": [
     {
      "ref": "ruining.open_limp_when_first_in",
      "label": "Limps when first in %",
-     "value_pct": 24.7,
-     "n": 864,
+     "value_pct": 24.3,
+     "n": 913,
      "status": "graded"
     },
     {
      "ref": "ruining.bb_fold_vs_open",
      "label": "Folds BB vs open %",
-     "value_pct": 13.6,
-     "n": 367,
+     "value_pct": 14.0,
+     "n": 393,
      "status": "graded"
     }
    ],
@@ -2796,22 +2796,22 @@
      "check_or_fold"
     ],
     "forbidden": [],
-    "why": "Ruining limps 24.7% of the time when first in (n=864) and folds the big blind to opens 13.6% of the time. Raise to 4-5bb with a wide range.",
+    "why": "Ruining limps 24.3% of the time when first in (n=913) and folds the big blind to opens 14.0% of the time. Raise to 4-5bb with a wide range.",
     "rule": "Raise 4-5bb with a wide range over his limp; he calls raises too often to fold out."
    },
    "driverStats": [
     {
      "ref": "ruining.open_limp_when_first_in",
      "label": "Limps when first in %",
-     "value_pct": 24.7,
-     "n": 864,
+     "value_pct": 24.3,
+     "n": 913,
      "status": "graded"
     },
     {
      "ref": "ruining.bb_fold_vs_open",
      "label": "Folds BB vs open %",
-     "value_pct": 13.6,
-     "n": 367,
+     "value_pct": 14.0,
+     "n": 393,
      "status": "graded"
     }
    ],
@@ -2884,17 +2884,17 @@
     "forbidden": [
      "check"
     ],
-    "why": "Ruining folds to river bets 58.1% of the time versus a ~42.3% benchmark (n=124). Bet your missed hands.",
+    "why": "Ruining folds to river bets 58.5% of the time versus a ~~42.1% benchmark (n=130). Bet your missed hands.",
     "rule": "Bet 50-75% pot with missed hands."
    },
    "driverStats": [
     {
      "ref": "ruining.fold_to_bet_river",
      "label": "Folds to a river bet %",
-     "value_pct": 58.1,
-     "n": 124,
+     "value_pct": 58.5,
+     "n": 130,
      "status": "graded",
-     "benchmark_pct": 42.3,
+     "benchmark_pct": 42.1,
      "benchmark_approximate": true
     }
    ],
@@ -2966,17 +2966,17 @@
     "forbidden": [
      "check"
     ],
-    "why": "Ruining folds to river bets 58.1% of the time versus a ~42.3% benchmark (n=124). Bet your missed hands.",
+    "why": "Ruining folds to river bets 58.5% of the time versus a ~~42.1% benchmark (n=130). Bet your missed hands.",
     "rule": "Bet 50-75% pot with missed hands."
    },
    "driverStats": [
     {
      "ref": "ruining.fold_to_bet_river",
      "label": "Folds to a river bet %",
-     "value_pct": 58.1,
-     "n": 124,
+     "value_pct": 58.5,
+     "n": 130,
      "status": "graded",
-     "benchmark_pct": 42.3,
+     "benchmark_pct": 42.1,
      "benchmark_approximate": true
     }
    ],
@@ -3048,15 +3048,15 @@
     "forbidden": [
      "check"
     ],
-    "why": "Ruining shows a pair or worse at 56.1% of showdowns (n=237), so he pays off thin value bets.",
+    "why": "Ruining shows a pair or worse at 55.0% of showdowns (n=262), so he pays off thin value bets.",
     "rule": "Bet 33-50% pot with second pair or weak top pair."
    },
    "driverStats": [
     {
      "ref": "ruining.showdown_weak_hands",
      "label": "Shows a pair or worse at showdown %",
-     "value_pct": 56.1,
-     "n": 237,
+     "value_pct": 55.0,
+     "n": 262,
      "status": "graded"
     }
    ],
@@ -3128,15 +3128,15 @@
     "forbidden": [
      "check"
     ],
-    "why": "Ruining shows a pair or worse at 56.1% of showdowns (n=237), so he pays off thin value bets.",
+    "why": "Ruining shows a pair or worse at 55.0% of showdowns (n=262), so he pays off thin value bets.",
     "rule": "Bet 33-50% pot with second pair or weak top pair."
    },
    "driverStats": [
     {
      "ref": "ruining.showdown_weak_hands",
      "label": "Shows a pair or worse at showdown %",
-     "value_pct": 56.1,
-     "n": 237,
+     "value_pct": 55.0,
+     "n": 262,
      "status": "graded"
     }
    ],
@@ -3188,15 +3188,15 @@
     "forbidden": [
      "3bet"
     ],
-    "why": "Ruining folds to a 3-bet only 13.5% of the time (n=111). A bluff 3-bet needs folds, so call or fold instead.",
+    "why": "Ruining folds to a 3-bet only 13.0% of the time (n=115). A bluff 3-bet needs folds, so call or fold instead.",
     "rule": "Never 3-bet bluff; call playable hands and fold the rest."
    },
    "driverStats": [
     {
      "ref": "ruining.fold_to_3bet",
      "label": "Folds to a 3-bet %",
-     "value_pct": 13.5,
-     "n": 111,
+     "value_pct": 13.0,
+     "n": 115,
      "status": "graded"
     }
    ],
@@ -3248,15 +3248,15 @@
     "forbidden": [
      "3bet"
     ],
-    "why": "Ruining folds to a 3-bet only 13.5% of the time (n=111). A bluff 3-bet needs folds, so call or fold instead.",
+    "why": "Ruining folds to a 3-bet only 13.0% of the time (n=115). A bluff 3-bet needs folds, so call or fold instead.",
     "rule": "Never 3-bet bluff; call playable hands and fold the rest."
    },
    "driverStats": [
     {
      "ref": "ruining.fold_to_3bet",
      "label": "Folds to a 3-bet %",
-     "value_pct": 13.5,
-     "n": 111,
+     "value_pct": 13.0,
+     "n": 115,
      "status": "graded"
     }
    ],

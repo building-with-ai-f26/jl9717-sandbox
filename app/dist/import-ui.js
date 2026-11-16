@@ -253,7 +253,7 @@ function findImportedSpot(id){return importedSpots.find(s=>s.id===id)||null}
 
 /* ---------- candidate spots ---------- */
 function importAliases(){
- const map={};for(const [name,p] of Object.entries(importBase?.profiles.players||opponentProfiles.players)){const log=p.latest_session?.log_name;if(log&&log!==name)map[log]=name}
+ const map={...(importBase?.profiles.meta?.confirmed_aliases||{})};for(const [name,p] of Object.entries(importBase?.profiles.players||opponentProfiles.players)){const log=p.latest_session?.log_name;if(log&&log!==name)map[log]=name}
  return {...map,...(profileDeltas.aliases||{})};
 }
 function parseAliasText(text){
