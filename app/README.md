@@ -1,4 +1,4 @@
-# Tiger’s GTO Trainer
+# Pot Geometry
 
 Buildless static app; serve `dist/` over HTTP. No runtime dependencies or external requests. Service worker caches all runtime files after first load. Progress, mistakes, settings, and daily history retain their existing browser-storage keys and formats. The shared Count the Outs / Estimate Equity shuffle bag uses the additive `gtoTrainer.equityRotation.v1` key and survives session changes and reloads. Export/import backs up progress and mistakes.
 
