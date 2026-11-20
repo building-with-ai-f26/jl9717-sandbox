@@ -20,3 +20,22 @@
 4. **Verify changes:** Run relevant checks. For a reproducible logic bug, use a failing test to demonstrate the fix when practical. Record manual checks and known limitations; follow the selected Build 4 evaluation track.
 5. **Zero secrets in code:** Never hardcode API keys, tokens, or credentials. Always read from environment variables (`.env`) and update `.env.example` when new variables are needed.
 6. **Stop when looping:** If a fix fails twice in a row, stop, summarize what failed, and ask the human before trying a third approach.
+7. **Check the ship list:** After every commit or push, read the commit's file list and confirm it matches what you meant to ship. Born from a real mistake in Build 1: the first push silently omitted the entire built app because the repo template's .gitignore ignores dist/ folders. The commit reported success; only the file list showed the app was missing.
+
+## 4. Shipping
+
+- **How a change reaches users:** Edits made in ChatGPT publish straight to the live site at https://potgeometry.com (hosted through ChatGPT Sites). There is no staging environment and no build step.
+- **Squarespace is DNS only:** Squarespace holds the domain registration and DNS records for potgeometry.com. It does not host the site.
+- **GitHub is the rollback path, not the deploy path:** Pushing to this repo does not change the live site, and the live site can be ahead of this repo. After any live edit that matters, push the same change here so the version history stays usable for rollback.
+- **Before publishing:** Run the app locally (see Commands) and click through the core workflow: pick a villain, answer a spot, check the graded feedback and the mistake review.
+- **After publishing:** Open potgeometry.com, hard-refresh, and confirm the change is live and the core workflow still runs.
+
+## 5. Ask Me First
+
+Stop and ask the human before:
+
+- Adding any new external service, endpoint, or third-party script, analytics included.
+- Adding, rotating, or removing any key of any kind, including public analytics keys.
+- Changing the bundled data files under app/dist/data (opponent profiles, villain spots, hand-history-derived stats) or how they are generated.
+- Touching the domain, DNS, or hosting setup.
+- Changing how visitor data is stored (localStorage keys, import/export formats).
