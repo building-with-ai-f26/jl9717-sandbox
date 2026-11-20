@@ -106,7 +106,7 @@
   <li><strong>What shipped:</strong> The app confirmed live at its real domain, potgeometry.com, with the core workflow (pick a villain, drill spots, graded feedback, mistake review) running end to end for a classmate. The product was renamed Pot Geometry on this page. The full security audit was run against the live site's own files and published as SECURITY.md at the top of the repo, and AGENTS.md gained a Shipping section, an Ask me first list, and a rule born from the Build 1 gitignore mistake.</li>
   <li><strong>Things learned with AI:</strong> How to audit an app that has no server: most standard checks (row-level security, private storage, spending caps) do not apply, and the real work is the key search and reading the one input surface, the hand-history import, as an attacker. Also learned that a public analytics key is not a leaked secret: the PostHog key can only send events in and cannot read anything back.</li>
   <li><strong>What broke / changed in PRD:</strong> Nothing in the app code broke; the audit needed no code fixes. PRD v3 records the decisions this build forced: hosting through ChatGPT Sites with Squarespace as DNS only, no database (bundled JSON plus browser localStorage), and the security posture written up in SECURITY.md. One process gap accepted openly: edits publish straight to the live site with no staging or review step, with the GitHub history as the rollback path.</li>
-  <li><strong>Cost &amp; time this week:</strong> $0.00 · [HOURS] hours</li>
+  <li><strong>Cost &amp; time this week:</strong> $0.00 · .5 hours</li>
 </ul>
 
 <h3>Build 4 · Test.py: Choose Track A or Track B (Due Nov 30)</h3>
