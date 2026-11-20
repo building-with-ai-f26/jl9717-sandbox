@@ -27,8 +27,9 @@
 
 <h2>Product Showcase (Prototype / Live App / 2-Min Video)</h2>
 
-<p><strong>Current Status:</strong> Build 2: trainer v22 in this repo (app code under <code>app/</code>), with PostHog analytics instrumented in the app and on this page. A live build also runs at
-<a href="https://potgeometry.com">potgeometry.com</a>.</p>
+<p><strong>Current Status:</strong> Build 3: the app is live at
+<a href="https://potgeometry.com">potgeometry.com</a> (hosted through ChatGPT Sites; Squarespace holds only the domain's DNS), with the full security audit written up in
+<a href="https://github.com/building-with-ai-f26/jl9717-sandbox/blob/main/SECURITY.md">SECURITY.md</a> at the top of the repo. The app code in this repo sits under <code>app/</code>; the live site can be ahead of the repo, and the repo is the version history used for rollback. PostHog analytics and session replay are running in the app and on this page.</p>
 
 <p><strong>Demo:</strong></p>
 <img class="shot" src="trainer-screenshot.png" alt="Screenshot of the GTO Trainer drill screen">
@@ -64,10 +65,18 @@
 <h3>4. Unit Economics &amp; Analytics Snapshot (Updated Weekly)</h3>
 
 <ul>
-  <li><strong>Cumulative Build Spend:</strong> $0 in new spend. Hosting is static (GitHub Pages); AI build tools are existing subscriptions.</li>
+  <li><strong>Cumulative Build Spend:</strong> $0 in new spend. Hosting is static (ChatGPT Sites at potgeometry.com; this page is on GitHub Pages); AI build tools are existing subscriptions.</li>
   <li><strong>Est. Cost Per User Run:</strong> $0. The app is fully static with no runtime inference or API calls.</li>
   <li><strong>User Evidence (Analytics from Build 2):</strong> PostHog snippet installed on this page in Build 2; app-side custom events (mode selected, drill answered, drill completed) shipped in trainer v22.</li>
   <li><strong>Sponsor Call (Week 6):</strong> TBD</li>
+</ul>
+
+<h3>5. Hosting, Data &amp; Security Decisions (PRD v3, Build 3)</h3>
+
+<ul>
+  <li><strong>Hosting:</strong> The app is served as static files through ChatGPT Sites at the custom domain potgeometry.com. Squarespace holds the domain registration and DNS only; it does not host the site. There is no build step and no staging environment: edits publish straight to the live site, so the repo's GitHub history is the rollback path. This page (the Product Page) is hosted separately on GitHub Pages.</li>
+  <li><strong>Database:</strong> None, by decision. There is no server and no accounts. Study content ships as bundled JSON files with the site; everything a visitor creates (drill progress, settings, imported ranges and hand histories) stays in that visitor's own browser localStorage and is never sent anywhere.</li>
+  <li><strong>Security:</strong> No secret keys exist anywhere in the app, because there is no server for them to live on; a full search of the live code finds only the public PostHog project key, which is write-only by design. All content that comes from imported files is escaped before it is rendered, the progress-backup import validates structure before applying anything, and there is no dynamic code execution anywhere in the codebase. The full audit, check by check, is in SECURITY.md at the top of the repo. One accepted gap: edits publish straight to production with no review gate, mitigated by the GitHub rollback history and by there being no server-side user data at risk.</li>
 </ul>
 
 <h2>Weekly Build Log</h2>
@@ -91,12 +100,13 @@
   <li><strong>Cost &amp; time this week:</strong> $0.00 · about 1 hour</li>
 </ul>
 
-<h3>Build 3 · Build.exe: The Core Workflow (Due Nov 23)</h3>
+<h3>Build 3 · Go Live &amp; Security Audit (Due Nov 23)</h3>
 
 <ul>
-  <li><strong>What shipped:</strong> [End-to-end workflow working with real inputs + PostHog funnel events]</li>
-  <li><strong>What broke / changed in PRD:</strong> [Fill in]</li>
-  <li><strong>Cost &amp; time this week:</strong> $[0.00] · [0] hours</li>
+  <li><strong>What shipped:</strong> The app confirmed live at its real domain, potgeometry.com, with the core workflow (pick a villain, drill spots, graded feedback, mistake review) running end to end for a classmate. The product was renamed Pot Geometry on this page. The full security audit was run against the live site's own files and published as SECURITY.md at the top of the repo, and AGENTS.md gained a Shipping section, an Ask me first list, and a rule born from the Build 1 gitignore mistake.</li>
+  <li><strong>Things learned with AI:</strong> How to audit an app that has no server: most standard checks (row-level security, private storage, spending caps) do not apply, and the real work is the key search and reading the one input surface, the hand-history import, as an attacker. Also learned that a public analytics key is not a leaked secret: the PostHog key can only send events in and cannot read anything back.</li>
+  <li><strong>What broke / changed in PRD:</strong> Nothing in the app code broke; the audit needed no code fixes. PRD v3 records the decisions this build forced: hosting through ChatGPT Sites with Squarespace as DNS only, no database (bundled JSON plus browser localStorage), and the security posture written up in SECURITY.md. One process gap accepted openly: edits publish straight to the live site with no staging or review step, with the GitHub history as the rollback path.</li>
+  <li><strong>Cost &amp; time this week:</strong> $0.00 · [HOURS] hours</li>
 </ul>
 
 <h3>Build 4 · Test.py: Choose Track A or Track B (Due Nov 30)</h3>
