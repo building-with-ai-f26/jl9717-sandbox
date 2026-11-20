@@ -1,0 +1,3608 @@
+{
+ "meta": {
+  "version": 1,
+  "note": "baseline is null everywhere: GTO baselines for 4-handed and 6-handed must come from solver exports Tiger supplies. Exploit answers are rule-based from opponent_profiles.json. A driver stat with n under 100 makes the spot lean (not graded).",
+  "hero": "Tiger",
+  "counts": {
+   "real": 22,
+   "fabricated": 25
+  }
+ },
+ "templates": {
+  "defend_vs_wide_3bettor": {
+   "title": "Defend vs a wide 3-bettor",
+   "street": "preflop",
+   "options": [
+    "fold",
+    "call",
+    "4bet"
+   ],
+   "rule": "Call wider in position with suited and playable hands; 4-bet only for value; fold weak offsuit hands."
+  },
+  "three_bet_bluff_vs_non_folder": {
+   "title": "Do not 3-bet bluff a player who will not fold",
+   "street": "preflop",
+   "options": [
+    "fold",
+    "call",
+    "3bet"
+   ],
+   "rule": "Never 3-bet bluff; call playable hands and fold the rest."
+  },
+  "iso_raise_limper": {
+   "title": "Raise over the limper",
+   "street": "preflop",
+   "options": [
+    "check_or_fold",
+    "raise_4_5bb"
+   ],
+   "rule": "Raise 4-5bb with a wide range over his limp; he calls raises too often to fold out."
+  },
+  "big_open_defense": {
+   "title": "Defend vs an oversized open",
+   "street": "preflop",
+   "options": [
+    "fold",
+    "call",
+    "3bet_value"
+   ],
+   "rule": "Tighten the calling range against a 5bb open; 3-bet for value."
+  },
+  "defend_vs_wide_cbet": {
+   "title": "Defend vs a wide c-bettor",
+   "street": "flop",
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "rule": "Call with any piece or a draw, raise strong hands; fold pure air."
+  },
+  "river_vs_value_heavy_bettor": {
+   "title": "River bet from a value-heavy bettor",
+   "street": "river",
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "rule": "Call with top pair or better; fold bluff-catchers."
+  },
+  "river_bluff_vs_over_folder": {
+   "title": "Bluff the river vs an over-folder",
+   "street": "river",
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "rule": "Bet 50-75% pot with missed hands."
+  },
+  "thin_value_vs_caller": {
+   "title": "Bet thin for value vs a caller",
+   "street": "river",
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "rule": "Bet 33-50% pot with second pair or weak top pair."
+  },
+  "stab_vs_low_cbettor": {
+   "title": "Stab after he checks the flop",
+   "street": "flop",
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "rule": "Bet 50-66% pot with weak hands and draws after he checks as the raiser."
+  },
+  "barrel_vs_over_folder": {
+   "title": "Barrel the turn vs an over-folder",
+   "street": "turn",
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "rule": "Bet 66-75% pot on the turn with weak hands and draws."
+  }
+ },
+ "spots": [
+  {
+   "id": "alex-stab-vs-low-cbettor-real-1",
+   "kind": "villain_real",
+   "template": "stab_vs_low_cbettor",
+   "title": "Stab after he checks the flop",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 58,
+   "heroPos": "BB",
+   "villainPos": "SB",
+   "street": "flop",
+   "heroHand": [
+    "7d",
+    "Tc"
+   ],
+   "board": [
+    "8h",
+    "5c",
+    "3d"
+   ],
+   "history": [
+    "Ruining (BTN) folds",
+    "Alex (SB) raises to 2.0bb",
+    "Tiger (BB) calls 1.0bb",
+    "--- FLOP [8h 5c 3d]",
+    "Alex (SB) checks"
+   ],
+   "potBb": 4.0,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_50pct",
+    "acceptable": [
+     "bet_50pct",
+     "bet_66pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Alex c-bets only 34.6% (n=205) and folds to flop bets 64.9% (n=268). After he checks, bet.",
+    "rule": "Bet 50-66% pot with weak hands and draws after he checks as the raiser."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.cbet_flop",
+     "label": "Flop c-bet %",
+     "value_pct": 34.6,
+     "n": 205,
+     "status": "graded"
+    },
+    {
+     "ref": "alex.fold_to_bet_flop",
+     "label": "Folds to a flop bet %",
+     "value_pct": 64.9,
+     "n": 268,
+     "status": "graded",
+     "benchmark_pct": 36.6
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "344Loss_5-24",
+    "psHandId": 250000000099
+   },
+   "whatTigerDid": "checks",
+   "difficulty": 2,
+   "tags": [
+    "stab_vs_low_cbettor",
+    "alex",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "alex-stab-vs-low-cbettor-real-2",
+   "kind": "villain_real",
+   "template": "stab_vs_low_cbettor",
+   "title": "Stab after he checks the flop",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 140,
+   "heroPos": "BB",
+   "villainPos": "SB",
+   "street": "flop",
+   "heroHand": [
+    "Qd",
+    "5d"
+   ],
+   "board": [
+    "4s",
+    "Jd",
+    "Ks"
+   ],
+   "history": [
+    "Ruining (BTN) folds",
+    "Alex (SB) raises to 3.0bb",
+    "Tiger (BB) calls 2.0bb",
+    "--- FLOP [4s Jd Ks]",
+    "Alex (SB) checks"
+   ],
+   "potBb": 6.0,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_50pct",
+    "acceptable": [
+     "bet_50pct",
+     "bet_66pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Alex c-bets only 34.6% (n=205) and folds to flop bets 64.9% (n=268). After he checks, bet.",
+    "rule": "Bet 50-66% pot with weak hands and draws after he checks as the raiser."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.cbet_flop",
+     "label": "Flop c-bet %",
+     "value_pct": 34.6,
+     "n": 205,
+     "status": "graded"
+    },
+    {
+     "ref": "alex.fold_to_bet_flop",
+     "label": "Folds to a flop bet %",
+     "value_pct": 64.9,
+     "n": 268,
+     "status": "graded",
+     "benchmark_pct": 36.6
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "10Loss_6-21",
+    "psHandId": 250000001597
+   },
+   "whatTigerDid": "checks",
+   "difficulty": 2,
+   "tags": [
+    "stab_vs_low_cbettor",
+    "alex",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "alex-river-vs-value-heavy-bettor-real-1",
+   "kind": "villain_real",
+   "template": "river_vs_value_heavy_bettor",
+   "title": "River bet from a value-heavy bettor",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 73,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "5h",
+    "6h"
+   ],
+   "board": [
+    "Js",
+    "Qd",
+    "3c",
+    "8c",
+    "9d"
+   ],
+   "history": [
+    "Tiger (BTN) calls 1.0bb",
+    "Ruining (SB) folds",
+    "Alex (BB) raises to 3.5bb",
+    "Tiger (BTN) calls 2.5bb",
+    "--- FLOP [Js Qd 3c]",
+    "Alex (BB) checks",
+    "Tiger (BTN) checks",
+    "--- TURN [Js Qd 3c 8c]",
+    "Alex (BB) checks",
+    "Tiger (BTN) checks",
+    "--- RIVER [Js Qd 3c 8c 9d]",
+    "Alex (BB) bets 7.5bb"
+   ],
+   "potBb": 15.0,
+   "toCallBb": 7.5,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [],
+    "why": "Only 20.0% of Alex's shown-down river bets were weak hands (n=20) and he wins 75.4% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "rule": "Call with top pair or better; fold bluff-catchers."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.river_aggression_weak_at_showdown",
+     "label": "Weak hands in shown-down river bets %",
+     "value_pct": 20.0,
+     "n": 20,
+     "status": "hidden"
+    },
+    {
+     "ref": "alex.wsd",
+     "label": "Wins at showdown %",
+     "value_pct": 75.4,
+     "n": 126,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "344Loss_5-24",
+    "psHandId": 250000000078
+   },
+   "whatTigerDid": "folds",
+   "difficulty": 2,
+   "tags": [
+    "river_vs_value_heavy_bettor",
+    "alex",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "lean"
+  },
+  {
+   "id": "alex-river-vs-value-heavy-bettor-real-2",
+   "kind": "villain_real",
+   "template": "river_vs_value_heavy_bettor",
+   "title": "River bet from a value-heavy bettor",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 71,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "6s",
+    "Ts"
+   ],
+   "board": [
+    "Th",
+    "Qs",
+    "5h",
+    "Tc",
+    "8h"
+   ],
+   "history": [
+    "Tiger (BTN) calls 1.0bb",
+    "Ruining (SB) folds",
+    "Alex (BB) checks",
+    "--- FLOP [Th Qs 5h]",
+    "Alex (BB) bets 1.9bb",
+    "Tiger (BTN) calls 1.9bb",
+    "--- TURN [Th Qs 5h Tc]",
+    "Alex (BB) checks",
+    "Tiger (BTN) checks",
+    "--- RIVER [Th Qs 5h Tc 8h]",
+    "Alex (BB) bets 6.2bb"
+   ],
+   "potBb": 12.5,
+   "toCallBb": 6.2,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Only 20.0% of Alex's shown-down river bets were weak hands (n=20) and he wins 75.4% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "rule": "Call with top pair or better; fold bluff-catchers."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.river_aggression_weak_at_showdown",
+     "label": "Weak hands in shown-down river bets %",
+     "value_pct": 20.0,
+     "n": 20,
+     "status": "hidden"
+    },
+    {
+     "ref": "alex.wsd",
+     "label": "Wins at showdown %",
+     "value_pct": 75.4,
+     "n": 126,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "344Loss_5-24",
+    "psHandId": 250000000084
+   },
+   "whatTigerDid": "raises $9.36 to $15.60",
+   "difficulty": 2,
+   "tags": [
+    "river_vs_value_heavy_bettor",
+    "alex",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "lean"
+  },
+  {
+   "id": "ruining-iso-raise-limper-real-1",
+   "kind": "villain_real",
+   "template": "iso_raise_limper",
+   "title": "Raise over the limper",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 110,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "pre",
+   "heroHand": [
+    "4h",
+    "9d"
+   ],
+   "board": [],
+   "history": [
+    "Ruining (BTN) calls 1.0bb",
+    "Alex (SB) folds"
+   ],
+   "potBb": 2.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check_or_fold",
+    "raise_4_5bb"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "check_or_fold",
+    "acceptable": [
+     "check_or_fold"
+    ],
+    "forbidden": [],
+    "why": "Ruining limps 25.0% of the time when first in (n=831) and folds the big blind to opens 12.7% of the time. Raise to 4-5bb with a wide range.",
+    "rule": "Raise 4-5bb with a wide range over his limp; he calls raises too often to fold out."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.open_limp_when_first_in",
+     "label": "Limps when first in %",
+     "value_pct": 25.0,
+     "n": 831,
+     "status": "graded"
+    },
+    {
+     "ref": "ruining.bb_fold_vs_open",
+     "label": "Folds BB vs open %",
+     "value_pct": 12.7,
+     "n": 346,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "344Loss_5-24",
+    "psHandId": 250000000040
+   },
+   "whatTigerDid": "checks",
+   "difficulty": 2,
+   "tags": [
+    "iso_raise_limper",
+    "ruining",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ruining-iso-raise-limper-real-2",
+   "kind": "villain_real",
+   "template": "iso_raise_limper",
+   "title": "Raise over the limper",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 160,
+   "heroPos": "BB",
+   "villainPos": "BTN/SB",
+   "street": "pre",
+   "heroHand": [
+    "Kh",
+    "5s"
+   ],
+   "board": [],
+   "history": [
+    "Ruining (BTN/SB) calls 0.5bb"
+   ],
+   "potBb": 2.0,
+   "toCallBb": 0.0,
+   "options": [
+    "check_or_fold",
+    "raise_4_5bb"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "raise_4_5bb",
+    "acceptable": [
+     "raise_4_5bb"
+    ],
+    "forbidden": [],
+    "why": "Ruining limps 25.0% of the time when first in (n=831) and folds the big blind to opens 12.7% of the time. Raise to 4-5bb with a wide range.",
+    "rule": "Raise 4-5bb with a wide range over his limp; he calls raises too often to fold out."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.open_limp_when_first_in",
+     "label": "Limps when first in %",
+     "value_pct": 25.0,
+     "n": 831,
+     "status": "graded"
+    },
+    {
+     "ref": "ruining.bb_fold_vs_open",
+     "label": "Folds BB vs open %",
+     "value_pct": 12.7,
+     "n": 346,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "45Loss_6-6",
+    "psHandId": 250000000609
+   },
+   "whatTigerDid": "checks",
+   "difficulty": 2,
+   "tags": [
+    "iso_raise_limper",
+    "ruining",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 2-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ruining-river-bluff-vs-over-folder-real-1",
+   "kind": "villain_real",
+   "template": "river_bluff_vs_over_folder",
+   "title": "Bluff the river vs an over-folder",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 194,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "river",
+   "heroHand": [
+    "2d",
+    "3c"
+   ],
+   "board": [
+    "Ts",
+    "Tc",
+    "4d",
+    "5h",
+    "8c"
+   ],
+   "history": [
+    "Ruining (BTN) raises to 3.5bb",
+    "Alex (SB) folds",
+    "Tiger (BB) calls 2.5bb",
+    "--- FLOP [Ts Tc 4d]",
+    "Tiger (BB) checks",
+    "Ruining (BTN) checks",
+    "--- TURN [Ts Tc 4d 5h]",
+    "Tiger (BB) checks",
+    "Ruining (BTN) checks",
+    "--- RIVER [Ts Tc 4d 5h 8c]"
+   ],
+   "potBb": 7.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_66pct",
+    "acceptable": [
+     "bet_50pct",
+     "bet_66pct",
+     "bet_75pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Ruining folds to river bets 57.6% of the time versus a 42.3% benchmark (n=118). Bet your missed hands.",
+    "rule": "Bet 50-75% pot with missed hands."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.fold_to_bet_river",
+     "label": "Folds to a river bet %",
+     "value_pct": 57.6,
+     "n": 118,
+     "status": "graded",
+     "benchmark_pct": 42.3
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "10Loss_6-21",
+    "psHandId": 250000001644
+   },
+   "whatTigerDid": "checks",
+   "difficulty": 2,
+   "tags": [
+    "river_bluff_vs_over_folder",
+    "ruining",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ruining-river-bluff-vs-over-folder-real-2",
+   "kind": "villain_real",
+   "template": "river_bluff_vs_over_folder",
+   "title": "Bluff the river vs an over-folder",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 132,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "river",
+   "heroHand": [
+    "Qc",
+    "9h"
+   ],
+   "board": [
+    "7s",
+    "7h",
+    "2c",
+    "3h",
+    "Ad"
+   ],
+   "history": [
+    "Ruining (BTN) raises to 3.5bb",
+    "Alex (SB) folds",
+    "Tiger (BB) calls 2.5bb",
+    "--- FLOP [7s 7h 2c]",
+    "Tiger (BB) checks",
+    "Ruining (BTN) checks",
+    "--- TURN [7s 7h 2c 3h]",
+    "Tiger (BB) checks",
+    "Ruining (BTN) bets 3.8bb",
+    "Tiger (BB) calls 3.8bb",
+    "--- RIVER [7s 7h 2c 3h Ad]"
+   ],
+   "potBb": 15.0,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_66pct",
+    "acceptable": [
+     "bet_50pct",
+     "bet_66pct",
+     "bet_75pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Ruining folds to river bets 57.6% of the time versus a 42.3% benchmark (n=118). Bet your missed hands.",
+    "rule": "Bet 50-75% pot with missed hands."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.fold_to_bet_river",
+     "label": "Folds to a river bet %",
+     "value_pct": 57.6,
+     "n": 118,
+     "status": "graded",
+     "benchmark_pct": 42.3
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "10Loss_6-21",
+    "psHandId": 250000001513
+   },
+   "whatTigerDid": "checks",
+   "difficulty": 2,
+   "tags": [
+    "river_bluff_vs_over_folder",
+    "ruining",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "alex-barrel-vs-over-folder-real-1",
+   "kind": "villain_real",
+   "template": "barrel_vs_over_folder",
+   "title": "Barrel the turn vs an over-folder",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 119,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "turn",
+   "heroHand": [
+    "Ah",
+    "2h"
+   ],
+   "board": [
+    "7h",
+    "Th",
+    "9c",
+    "Jd"
+   ],
+   "history": [
+    "Tiger (BTN) raises to 3.5bb",
+    "Ruining (SB) folds",
+    "Alex (BB) calls 2.5bb",
+    "--- FLOP [7h Th 9c]",
+    "Alex (BB) checks",
+    "Tiger (BTN) bets 3.8bb",
+    "Alex (BB) calls 3.8bb",
+    "--- TURN [7h Th 9c Jd]",
+    "Alex (BB) checks"
+   ],
+   "potBb": 15.0,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_66pct",
+    "acceptable": [
+     "bet_66pct",
+     "bet_75pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Alex folds to turn bets 58.9% of the time versus a 38.0% benchmark (n=168). Keep betting the turn.",
+    "rule": "Bet 66-75% pot on the turn with weak hands and draws."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.fold_to_bet_turn",
+     "label": "Folds to a turn bet %",
+     "value_pct": 58.9,
+     "n": 168,
+     "status": "graded",
+     "benchmark_pct": 38.0
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "10Loss_6-21",
+    "psHandId": 250000001566
+   },
+   "whatTigerDid": "checks",
+   "difficulty": 2,
+   "tags": [
+    "barrel_vs_over_folder",
+    "alex",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "alex-barrel-vs-over-folder-real-2",
+   "kind": "villain_real",
+   "template": "barrel_vs_over_folder",
+   "title": "Barrel the turn vs an over-folder",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 139,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "turn",
+   "heroHand": [
+    "8c",
+    "2c"
+   ],
+   "board": [
+    "Th",
+    "Tc",
+    "Qc",
+    "3d"
+   ],
+   "history": [
+    "Tiger (BTN) raises to 2.9bb",
+    "Ruining (SB) folds",
+    "Alex (BB) calls 1.9bb",
+    "--- FLOP [Th Tc Qc]",
+    "Alex (BB) checks",
+    "Tiger (BTN) bets 4.7bb",
+    "Alex (BB) calls 4.7bb",
+    "--- TURN [Th Tc Qc 3d]",
+    "Alex (BB) checks"
+   ],
+   "potBb": 15.6,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_66pct",
+    "acceptable": [
+     "bet_66pct",
+     "bet_75pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Alex folds to turn bets 58.9% of the time versus a 38.0% benchmark (n=168). Keep betting the turn.",
+    "rule": "Bet 66-75% pot on the turn with weak hands and draws."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.fold_to_bet_turn",
+     "label": "Folds to a turn bet %",
+     "value_pct": 58.9,
+     "n": 168,
+     "status": "graded",
+     "benchmark_pct": 38.0
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "4Gain_5-23",
+    "psHandId": 250000000240
+   },
+   "whatTigerDid": "checks",
+   "difficulty": 2,
+   "tags": [
+    "barrel_vs_over_folder",
+    "alex",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ruining-thin-value-vs-caller-real-1",
+   "kind": "villain_real",
+   "template": "thin_value_vs_caller",
+   "title": "Bet thin for value vs a caller",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "SB",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "9h",
+    "8d"
+   ],
+   "board": [
+    "3d",
+    "Qs",
+    "9s",
+    "4d",
+    "Qd"
+   ],
+   "history": [
+    "Alex (BTN) folds",
+    "Tiger (SB) calls 0.5bb",
+    "Ruining (BB) checks",
+    "--- FLOP [3d Qs 9s]",
+    "Tiger (SB) bets 1.5bb",
+    "Ruining (BB) calls 1.5bb",
+    "--- TURN [3d Qs 9s 4d]",
+    "Tiger (SB) bets 2.5bb",
+    "Ruining (BB) calls 2.5bb",
+    "--- RIVER [3d Qs 9s 4d Qd]"
+   ],
+   "potBb": 10.0,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_33pct",
+    "acceptable": [
+     "bet_33pct",
+     "bet_50pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Ruining shows a pair or worse at 56.3% of showdowns (n=231), so he pays off thin value bets.",
+    "rule": "Bet 33-50% pot with second pair or weak top pair."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.showdown_weak_hands",
+     "label": "Shows a pair or worse at showdown %",
+     "value_pct": 56.3,
+     "n": 231,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "344Loss_5-24",
+    "psHandId": 250000000038
+   },
+   "whatTigerDid": "bets $5.00",
+   "difficulty": 2,
+   "tags": [
+    "thin_value_vs_caller",
+    "ruining",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ruining-thin-value-vs-caller-real-2",
+   "kind": "villain_real",
+   "template": "thin_value_vs_caller",
+   "title": "Bet thin for value vs a caller",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 94,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "7d",
+    "7s"
+   ],
+   "board": [
+    "9s",
+    "9h",
+    "5s",
+    "4h",
+    "Ad"
+   ],
+   "history": [
+    "Alex (CO) folds",
+    "Tiger (BTN) raises to 3.5bb",
+    "Ben (SB) folds",
+    "Ruining (BB) calls 2.5bb",
+    "--- FLOP [9s 9h 5s]",
+    "Ruining (BB) bets 5.6bb",
+    "Tiger (BTN) calls 5.6bb",
+    "--- TURN [9s 9h 5s 4h]",
+    "Ruining (BB) bets 9.4bb",
+    "Tiger (BTN) calls 9.4bb",
+    "--- RIVER [9s 9h 5s 4h Ad]",
+    "Ruining (BB) checks"
+   ],
+   "potBb": 37.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_33pct",
+    "acceptable": [
+     "bet_33pct",
+     "bet_50pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Ruining shows a pair or worse at 56.3% of showdowns (n=231), so he pays off thin value bets.",
+    "rule": "Bet 33-50% pot with second pair or weak top pair."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.showdown_weak_hands",
+     "label": "Shows a pair or worse at showdown %",
+     "value_pct": 56.3,
+     "n": 231,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "45Loss_6-6",
+    "psHandId": 250000000572
+   },
+   "whatTigerDid": "checks",
+   "difficulty": 2,
+   "tags": [
+    "thin_value_vs_caller",
+    "ruining",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 4-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ben-three-bet-bluff-vs-non-folder-real-1",
+   "kind": "villain_real",
+   "template": "three_bet_bluff_vs_non_folder",
+   "title": "Do not 3-bet bluff a player who will not fold",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 72,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "pre",
+   "heroHand": [
+    "Ad",
+    "5d"
+   ],
+   "board": [],
+   "history": [
+    "Ruining (CO) folds",
+    "Ben (BTN) raises to 3.5bb",
+    "Alex (SB) folds"
+   ],
+   "potBb": 5.0,
+   "toCallBb": 2.5,
+   "options": [
+    "fold",
+    "call",
+    "3bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [
+     "3bet"
+    ],
+    "why": "Ben folds to a 3-bet only 7.7% of the time (n=104). A bluff 3-bet needs folds, so call or fold instead.",
+    "rule": "Never 3-bet bluff; call playable hands and fold the rest."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.fold_to_3bet",
+     "label": "Folds to a 3-bet %",
+     "value_pct": 7.7,
+     "n": 104,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "45Loss_6-6",
+    "psHandId": 250000000558
+   },
+   "whatTigerDid": "calls $2.50",
+   "difficulty": 2,
+   "tags": [
+    "three_bet_bluff_vs_non_folder",
+    "ben",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 4-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ben-three-bet-bluff-vs-non-folder-real-2",
+   "kind": "villain_real",
+   "template": "three_bet_bluff_vs_non_folder",
+   "title": "Do not 3-bet bluff a player who will not fold",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 180,
+   "heroPos": "SB",
+   "villainPos": "BTN",
+   "street": "pre",
+   "heroHand": [
+    "7c",
+    "8c"
+   ],
+   "board": [],
+   "history": [
+    "Ben (BTN) raises to 2.0bb"
+   ],
+   "potBb": 3.5,
+   "toCallBb": 1.5,
+   "options": [
+    "fold",
+    "call",
+    "3bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [
+     "3bet"
+    ],
+    "why": "Ben folds to a 3-bet only 7.7% of the time (n=104). A bluff 3-bet needs folds, so call or fold instead.",
+    "rule": "Never 3-bet bluff; call playable hands and fold the rest."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.fold_to_3bet",
+     "label": "Folds to a 3-bet %",
+     "value_pct": 7.7,
+     "n": 104,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "480Gain_6-21",
+    "psHandId": 250000001257
+   },
+   "whatTigerDid": "raises $5.00 to $7.00",
+   "difficulty": 2,
+   "tags": [
+    "three_bet_bluff_vs_non_folder",
+    "ben",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ben-defend-vs-wide-3bettor-real-1",
+   "kind": "villain_real",
+   "template": "defend_vs_wide_3bettor",
+   "title": "Defend vs a wide 3-bettor",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 195,
+   "heroPos": "SB",
+   "villainPos": "BB",
+   "street": "pre",
+   "heroHand": [
+    "Ah",
+    "Qd"
+   ],
+   "board": [],
+   "history": [
+    "Ruining (CO) folds",
+    "Alex (BTN) folds",
+    "Tiger (SB) raises to 3.0bb",
+    "Ben (BB) raises to 7.5bb"
+   ],
+   "potBb": 10.5,
+   "toCallBb": 4.5,
+   "options": [
+    "fold",
+    "call",
+    "4bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Ben 3-bets 25.4% of the time (n=713), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
+    "rule": "Call wider in position with suited and playable hands; 4-bet only for value; fold weak offsuit hands."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.three_bet",
+     "label": "Overall 3-bet %",
+     "value_pct": 25.4,
+     "n": 713,
+     "status": "graded"
+    },
+    {
+     "ref": "ben.bb_3bet_vs_open",
+     "label": "BB 3-bet vs open %",
+     "value_pct": 28.6,
+     "n": 311,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "45Loss_6-6",
+    "psHandId": 250000000571
+   },
+   "whatTigerDid": "calls $4.50",
+   "difficulty": 2,
+   "tags": [
+    "defend_vs_wide_3bettor",
+    "ben",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 4-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ben-defend-vs-wide-3bettor-real-2",
+   "kind": "villain_real",
+   "template": "defend_vs_wide_3bettor",
+   "title": "Defend vs a wide 3-bettor",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 174,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "pre",
+   "heroHand": [
+    "Th",
+    "9d"
+   ],
+   "board": [],
+   "history": [
+    "Alex (CO) folds",
+    "Tiger (BTN) raises to 2.0bb",
+    "Ruining (SB) calls 1.5bb",
+    "Ben (BB) raises to 8.0bb"
+   ],
+   "potBb": 12.0,
+   "toCallBb": 6.0,
+   "options": [
+    "fold",
+    "call",
+    "4bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [],
+    "why": "Ben 3-bets 25.4% of the time (n=713), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
+    "rule": "Call wider in position with suited and playable hands; 4-bet only for value; fold weak offsuit hands."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.three_bet",
+     "label": "Overall 3-bet %",
+     "value_pct": 25.4,
+     "n": 713,
+     "status": "graded"
+    },
+    {
+     "ref": "ben.bb_3bet_vs_open",
+     "label": "BB 3-bet vs open %",
+     "value_pct": 28.6,
+     "n": 311,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "780Loss_6-27",
+    "psHandId": 250000002124
+   },
+   "whatTigerDid": "calls $6.00",
+   "difficulty": 2,
+   "tags": [
+    "defend_vs_wide_3bettor",
+    "ben",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 4-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "ben-river-vs-value-heavy-bettor-real-1",
+   "kind": "villain_real",
+   "template": "river_vs_value_heavy_bettor",
+   "title": "River bet from a value-heavy bettor",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 130,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "river",
+   "heroHand": [
+    "Qs",
+    "Jh"
+   ],
+   "board": [
+    "3h",
+    "Jd",
+    "4c",
+    "9s",
+    "Tc"
+   ],
+   "history": [
+    "Ruining (CO) folds",
+    "Ben (BTN) raises to 7.5bb",
+    "Alex (SB) calls 7.0bb",
+    "Tiger (BB) calls 6.5bb",
+    "--- FLOP [3h Jd 4c]",
+    "Alex (SB) checks",
+    "Tiger (BB) bets 11.2bb",
+    "Ben (BTN) calls 11.2bb",
+    "Alex (SB) folds",
+    "--- TURN [3h Jd 4c 9s]",
+    "Tiger (BB) bets 22.5bb",
+    "Ben (BTN) calls 22.5bb",
+    "--- RIVER [3h Jd 4c 9s Tc]",
+    "Tiger (BB) checks",
+    "Ben (BTN) bets 88.4bb"
+   ],
+   "potBb": 178.4,
+   "toCallBb": 88.4,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Only 22.7% of Ben's shown-down river bets were weak hands (n=44) and he wins 63.1% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "rule": "Call with top pair or better; fold bluff-catchers."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.river_aggression_weak_at_showdown",
+     "label": "Weak hands in shown-down river bets %",
+     "value_pct": 22.7,
+     "n": 44,
+     "status": "lean"
+    },
+    {
+     "ref": "ben.wsd",
+     "label": "Wins at showdown %",
+     "value_pct": 63.1,
+     "n": 195,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "780Loss_6-27",
+    "psHandId": 250000002146
+   },
+   "whatTigerDid": "calls $88.43",
+   "difficulty": 2,
+   "tags": [
+    "river_vs_value_heavy_bettor",
+    "ben",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 4-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "lean"
+  },
+  {
+   "id": "ben-river-vs-value-heavy-bettor-real-2",
+   "kind": "villain_real",
+   "template": "river_vs_value_heavy_bettor",
+   "title": "River bet from a value-heavy bettor",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 185,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "As",
+    "2c"
+   ],
+   "board": [
+    "Jd",
+    "6h",
+    "8d",
+    "Ks",
+    "6d"
+   ],
+   "history": [
+    "Tiger (BTN) raises to 3.5bb",
+    "Brandon Chun (SB) folds",
+    "Ben (BB) calls 2.5bb",
+    "--- FLOP [Jd 6h 8d]",
+    "Ben (BB) checks",
+    "Tiger (BTN) checks",
+    "--- TURN [Jd 6h 8d Ks]",
+    "Ben (BB) checks",
+    "Tiger (BTN) checks",
+    "--- RIVER [Jd 6h 8d Ks 6d]",
+    "Ben (BB) bets 7.5bb"
+   ],
+   "potBb": 15.0,
+   "toCallBb": 7.5,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [],
+    "why": "Only 22.7% of Ben's shown-down river bets were weak hands (n=44) and he wins 63.1% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "rule": "Call with top pair or better; fold bluff-catchers."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.river_aggression_weak_at_showdown",
+     "label": "Weak hands in shown-down river bets %",
+     "value_pct": 22.7,
+     "n": 44,
+     "status": "lean"
+    },
+    {
+     "ref": "ben.wsd",
+     "label": "Wins at showdown %",
+     "value_pct": 63.1,
+     "n": 195,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "480Gain_6-21",
+    "psHandId": 250000001270
+   },
+   "whatTigerDid": "folds",
+   "difficulty": 2,
+   "tags": [
+    "river_vs_value_heavy_bettor",
+    "ben",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "lean"
+  },
+  {
+   "id": "rob-big-open-defense-real-1",
+   "kind": "villain_real",
+   "template": "big_open_defense",
+   "title": "Defend vs an oversized open",
+   "villain": "Rob",
+   "tableSize": 4,
+   "effectiveStackBb": 82,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "pre",
+   "heroHand": [
+    "4s",
+    "2h"
+   ],
+   "board": [],
+   "history": [
+    "Rob (BTN) raises to 4.5bb",
+    "Ben (SB) folds"
+   ],
+   "potBb": 6.0,
+   "toCallBb": 3.5,
+   "options": [
+    "fold",
+    "call",
+    "3bet_value"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [],
+    "why": "Rob opens to a median 5.0bb versus 3.5bb for the others (n=158). The bigger price means you need a stronger hand to defend.",
+    "rule": "Tighten the calling range against a 5bb open; 3-bet for value."
+   },
+   "driverStats": [
+    {
+     "ref": "rob.sizing.open_raise_bb_median",
+     "label": "Median open (bb)",
+     "value": 5.0,
+     "n": 158,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "Breakeven_5-30",
+    "psHandId": 250000000255
+   },
+   "whatTigerDid": "calls $1.75",
+   "difficulty": 2,
+   "tags": [
+    "big_open_defense",
+    "rob",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "rob-big-open-defense-real-2",
+   "kind": "villain_real",
+   "template": "big_open_defense",
+   "title": "Defend vs an oversized open",
+   "villain": "Rob",
+   "tableSize": 4,
+   "effectiveStackBb": 72,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "pre",
+   "heroHand": [
+    "Kd",
+    "Qc"
+   ],
+   "board": [],
+   "history": [
+    "Rob (BTN) raises to 5.5bb",
+    "Ruining (SB) folds"
+   ],
+   "potBb": 7.0,
+   "toCallBb": 4.5,
+   "options": [
+    "fold",
+    "call",
+    "3bet_value"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Rob opens to a median 5.0bb versus 3.5bb for the others (n=158). The bigger price means you need a stronger hand to defend.",
+    "rule": "Tighten the calling range against a 5bb open; 3-bet for value."
+   },
+   "driverStats": [
+    {
+     "ref": "rob.sizing.open_raise_bb_median",
+     "label": "Median open (bb)",
+     "value": 5.0,
+     "n": 158,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "56Win_6-11",
+    "psHandId": 250000001218
+   },
+   "whatTigerDid": "calls $4.50",
+   "difficulty": 2,
+   "tags": [
+    "big_open_defense",
+    "rob",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "graded"
+  },
+  {
+   "id": "rob-defend-vs-wide-cbet-real-1",
+   "kind": "villain_real",
+   "template": "defend_vs_wide_cbet",
+   "title": "Defend vs a wide c-bettor",
+   "villain": "Rob",
+   "tableSize": 4,
+   "effectiveStackBb": 72,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "flop",
+   "heroHand": [
+    "Kd",
+    "Qc"
+   ],
+   "board": [
+    "Js",
+    "6h",
+    "9d"
+   ],
+   "history": [
+    "Rob (BTN) raises to 5.5bb",
+    "Ruining (SB) folds",
+    "Tiger (BB) calls 4.5bb",
+    "--- FLOP [Js 6h 9d]",
+    "Tiger (BB) checks",
+    "Rob (BTN) bets 5.8bb"
+   ],
+   "potBb": 17.2,
+   "toCallBb": 5.8,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Rob c-bets 68.4% of the time (n=136) and folds to c-bets 45.1% (n=82), so his bets include a lot of air. Continue with a piece or a draw.",
+    "rule": "Call with any piece or a draw, raise strong hands; fold pure air."
+   },
+   "driverStats": [
+    {
+     "ref": "rob.cbet_flop",
+     "label": "Flop c-bet %",
+     "value_pct": 68.4,
+     "n": 136,
+     "status": "graded"
+    },
+    {
+     "ref": "rob.fold_to_cbet",
+     "label": "Folds to a c-bet %",
+     "value_pct": 45.1,
+     "n": 82,
+     "status": "lean"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "56Win_6-11",
+    "psHandId": 250000001218
+   },
+   "whatTigerDid": "calls $5.75",
+   "difficulty": 2,
+   "tags": [
+    "defend_vs_wide_cbet",
+    "rob",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "lean"
+  },
+  {
+   "id": "rob-defend-vs-wide-cbet-real-2",
+   "kind": "villain_real",
+   "template": "defend_vs_wide_cbet",
+   "title": "Defend vs a wide c-bettor",
+   "villain": "Rob",
+   "tableSize": 4,
+   "effectiveStackBb": 82,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "flop",
+   "heroHand": [
+    "4s",
+    "2h"
+   ],
+   "board": [
+    "8h",
+    "Kc",
+    "2s"
+   ],
+   "history": [
+    "Rob (BTN) raises to 4.5bb",
+    "Ben (SB) folds",
+    "Tiger (BB) calls 3.5bb",
+    "--- FLOP [8h Kc 2s]",
+    "Tiger (BB) checks",
+    "Rob (BTN) bets 4.7bb"
+   ],
+   "potBb": 14.2,
+   "toCallBb": 4.7,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Rob c-bets 68.4% of the time (n=136) and folds to c-bets 45.1% (n=82), so his bets include a lot of air. Continue with a piece or a draw.",
+    "rule": "Call with any piece or a draw, raise strong hands; fold pure air."
+   },
+   "driverStats": [
+    {
+     "ref": "rob.cbet_flop",
+     "label": "Flop c-bet %",
+     "value_pct": 68.4,
+     "n": 136,
+     "status": "graded"
+    },
+    {
+     "ref": "rob.fold_to_cbet",
+     "label": "Folds to a c-bet %",
+     "value_pct": 45.1,
+     "n": 82,
+     "status": "lean"
+    }
+   ],
+   "source": {
+    "type": "hand_history",
+    "file": "Breakeven_5-30",
+    "psHandId": 250000000255
+   },
+   "whatTigerDid": "calls $2.37",
+   "difficulty": 2,
+   "tags": [
+    "defend_vs_wide_cbet",
+    "rob",
+    "real"
+   ],
+   "tableSizeNote": "Dealt 3-handed at the time; the 4-handed toggle is the nearest match.",
+   "status": "lean"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "defend_vs_wide_3bettor",
+   "title": "Defend vs a wide 3-bettor",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "CO",
+   "villainPos": "BTN",
+   "street": "preflop",
+   "heroHand": [
+    "7h",
+    "6h"
+   ],
+   "board": [],
+   "history": [
+    "Hero (CO) raises to 2.5bb",
+    "Ben (BTN) 3-bets to 9bb",
+    "SB folds",
+    "BB folds"
+   ],
+   "potBb": 13.0,
+   "toCallBb": 6.5,
+   "options": [
+    "fold",
+    "call",
+    "4bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Ben 3-bets 25.4% of the time (n=713), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
+    "rule": "Call wider in position with suited and playable hands; 4-bet only for value; fold weak offsuit hands."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.three_bet",
+     "label": "Overall 3-bet %",
+     "value_pct": 25.4,
+     "n": 713,
+     "status": "graded"
+    },
+    {
+     "ref": "ben.bb_3bet_vs_open",
+     "label": "BB 3-bet vs open %",
+     "value_pct": 28.6,
+     "n": 311,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "defend_vs_wide_3bettor",
+    "ben",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ben-defend-vs-wide-3bettor-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "defend_vs_wide_3bettor",
+   "title": "Defend vs a wide 3-bettor",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "preflop",
+   "heroHand": [
+    "Qs",
+    "Jd"
+   ],
+   "board": [],
+   "history": [
+    "Hero (BTN) raises to 3bb",
+    "SB folds",
+    "Ben (BB) 3-bets to 11bb"
+   ],
+   "potBb": 14.5,
+   "toCallBb": 8.0,
+   "options": [
+    "fold",
+    "call",
+    "4bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [],
+    "why": "Ben 3-bets 25.4% of the time (n=713), so his 3-bet range is wide. Defend more hands in position and keep 4-bets for value.",
+    "rule": "Call wider in position with suited and playable hands; 4-bet only for value; fold weak offsuit hands."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.three_bet",
+     "label": "Overall 3-bet %",
+     "value_pct": 25.4,
+     "n": 713,
+     "status": "graded"
+    },
+    {
+     "ref": "ben.bb_3bet_vs_open",
+     "label": "BB 3-bet vs open %",
+     "value_pct": 28.6,
+     "n": 311,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "defend_vs_wide_3bettor",
+    "ben",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ben-defend-vs-wide-3bettor-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "three_bet_bluff_vs_non_folder",
+   "title": "Do not 3-bet bluff a player who will not fold",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "CO",
+   "street": "preflop",
+   "heroHand": [
+    "Ah",
+    "4s"
+   ],
+   "board": [],
+   "history": [
+    "Ben (CO) raises to 2.5bb"
+   ],
+   "potBb": 4.0,
+   "toCallBb": 2.5,
+   "options": [
+    "fold",
+    "call",
+    "3bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [
+     "3bet"
+    ],
+    "why": "Ben folds to a 3-bet only 7.7% of the time (n=104). A bluff 3-bet needs folds, so call or fold instead.",
+    "rule": "Never 3-bet bluff; call playable hands and fold the rest."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.fold_to_3bet",
+     "label": "Folds to a 3-bet %",
+     "value_pct": 7.7,
+     "n": 104,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "three_bet_bluff_vs_non_folder",
+    "ben",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ben-three-bet-bluff-vs-non-folder-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "three_bet_bluff_vs_non_folder",
+   "title": "Do not 3-bet bluff a player who will not fold",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "SB",
+   "villainPos": "CO",
+   "street": "preflop",
+   "heroHand": [
+    "Ks",
+    "7s"
+   ],
+   "board": [],
+   "history": [
+    "Ben (CO) raises to 2.5bb",
+    "BTN folds"
+   ],
+   "potBb": 4.0,
+   "toCallBb": 2.0,
+   "options": [
+    "fold",
+    "call",
+    "3bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [
+     "3bet"
+    ],
+    "why": "Ben folds to a 3-bet only 7.7% of the time (n=104). A bluff 3-bet needs folds, so call or fold instead.",
+    "rule": "Never 3-bet bluff; call playable hands and fold the rest."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.fold_to_3bet",
+     "label": "Folds to a 3-bet %",
+     "value_pct": 7.7,
+     "n": 104,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "three_bet_bluff_vs_non_folder",
+    "ben",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ben-three-bet-bluff-vs-non-folder-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "river_vs_value_heavy_bettor",
+   "title": "River bet from a value-heavy bettor",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "river",
+   "heroHand": [
+    "Ad",
+    "Jc"
+   ],
+   "board": [
+    "Jh",
+    "8d",
+    "4s",
+    "2c",
+    "9h"
+   ],
+   "history": [
+    "Ben (BTN) raises to 2.5bb",
+    "Hero (BB) calls",
+    "--- FLOP [Jh 8d 4s]",
+    "Hero checks",
+    "Ben bets 2.5bb",
+    "Hero calls",
+    "--- TURN [Jh 8d 4s 2c]",
+    "Hero checks",
+    "Ben checks",
+    "--- RIVER [Jh 8d 4s 2c 9h]",
+    "Hero checks",
+    "Ben bets 8.5bb (about pot)"
+   ],
+   "potBb": 22.0,
+   "toCallBb": 8.5,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Only 22.7% of Ben's shown-down river bets were weak hands (n=44) and he wins 63.1% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "rule": "Call with top pair or better; fold bluff-catchers."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.river_aggression_weak_at_showdown",
+     "label": "Weak hands in shown-down river bets %",
+     "value_pct": 22.7,
+     "n": 44,
+     "status": "lean"
+    },
+    {
+     "ref": "ben.wsd",
+     "label": "Wins at showdown %",
+     "value_pct": 63.1,
+     "n": 195,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "river_vs_value_heavy_bettor",
+    "ben",
+    "fabricated"
+   ],
+   "status": "lean",
+   "id": "ben-river-vs-value-heavy-bettor-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "river_vs_value_heavy_bettor",
+   "title": "River bet from a value-heavy bettor",
+   "villain": "Ben",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "river",
+   "heroHand": [
+    "Td",
+    "9s"
+   ],
+   "board": [
+    "Kc",
+    "9d",
+    "5h",
+    "3s",
+    "Jd"
+   ],
+   "history": [
+    "Ben (BTN) raises to 2.5bb",
+    "Hero (BB) calls",
+    "--- FLOP [Kc 9d 5h]",
+    "Hero checks",
+    "Ben bets 2.5bb",
+    "Hero calls",
+    "--- TURN [Kc 9d 5h 3s]",
+    "Hero checks",
+    "Ben checks",
+    "--- RIVER [Kc 9d 5h 3s Jd]",
+    "Hero checks",
+    "Ben bets 8bb (about pot)"
+   ],
+   "potBb": 21.0,
+   "toCallBb": 8.0,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [],
+    "why": "Only 22.7% of Ben's shown-down river bets were weak hands (n=44) and he wins 63.1% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "rule": "Call with top pair or better; fold bluff-catchers."
+   },
+   "driverStats": [
+    {
+     "ref": "ben.river_aggression_weak_at_showdown",
+     "label": "Weak hands in shown-down river bets %",
+     "value_pct": 22.7,
+     "n": 44,
+     "status": "lean"
+    },
+    {
+     "ref": "ben.wsd",
+     "label": "Wins at showdown %",
+     "value_pct": 63.1,
+     "n": 195,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "river_vs_value_heavy_bettor",
+    "ben",
+    "fabricated"
+   ],
+   "status": "lean",
+   "id": "ben-river-vs-value-heavy-bettor-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "stab_vs_low_cbettor",
+   "title": "Stab after he checks the flop",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "SB",
+   "street": "flop",
+   "heroHand": [
+    "8c",
+    "6c"
+   ],
+   "board": [
+    "Qs",
+    "7h",
+    "3d"
+   ],
+   "history": [
+    "Alex (SB) raises to 3bb",
+    "BTN and CO fold",
+    "Hero (BB) calls",
+    "--- FLOP [Qs 7h 3d]",
+    "Alex checks"
+   ],
+   "potBb": 6.0,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_50pct",
+    "acceptable": [
+     "bet_50pct",
+     "bet_66pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Alex c-bets only 34.6% (n=205) and folds to flop bets 64.9% (n=268). After he checks, bet.",
+    "rule": "Bet 50-66% pot with weak hands and draws after he checks as the raiser."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.cbet_flop",
+     "label": "Flop c-bet %",
+     "value_pct": 34.6,
+     "n": 205,
+     "status": "graded"
+    },
+    {
+     "ref": "alex.fold_to_bet_flop",
+     "label": "Folds to a flop bet %",
+     "value_pct": 64.9,
+     "n": 268,
+     "status": "graded",
+     "benchmark_pct": 36.6
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "stab_vs_low_cbettor",
+    "alex",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "alex-stab-vs-low-cbettor-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "stab_vs_low_cbettor",
+   "title": "Stab after he checks the flop",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "SB",
+   "street": "flop",
+   "heroHand": [
+    "Kh",
+    "Jd"
+   ],
+   "board": [
+    "Ac",
+    "8d",
+    "4h"
+   ],
+   "history": [
+    "Alex (SB) raises to 3bb",
+    "BTN and CO fold",
+    "Hero (BB) calls",
+    "--- FLOP [Ac 8d 4h]",
+    "Alex checks"
+   ],
+   "potBb": 6.0,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_50pct",
+    "acceptable": [
+     "bet_50pct",
+     "bet_66pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Alex c-bets only 34.6% (n=205) and folds to flop bets 64.9% (n=268). After he checks, bet.",
+    "rule": "Bet 50-66% pot with weak hands and draws after he checks as the raiser."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.cbet_flop",
+     "label": "Flop c-bet %",
+     "value_pct": 34.6,
+     "n": 205,
+     "status": "graded"
+    },
+    {
+     "ref": "alex.fold_to_bet_flop",
+     "label": "Folds to a flop bet %",
+     "value_pct": 64.9,
+     "n": 268,
+     "status": "graded",
+     "benchmark_pct": 36.6
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "stab_vs_low_cbettor",
+    "alex",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "alex-stab-vs-low-cbettor-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "barrel_vs_over_folder",
+   "title": "Barrel the turn vs an over-folder",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "CO",
+   "villainPos": "BB",
+   "street": "turn",
+   "heroHand": [
+    "Ac",
+    "Qd"
+   ],
+   "board": [
+    "Tc",
+    "6h",
+    "2d",
+    "9s"
+   ],
+   "history": [
+    "Hero (CO) raises to 2.5bb",
+    "Alex (BB) calls",
+    "--- FLOP [Tc 6h 2d]",
+    "Alex checks",
+    "Hero bets 3bb",
+    "Alex calls",
+    "--- TURN [Tc 6h 2d 9s]",
+    "Alex checks"
+   ],
+   "potBb": 11.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_66pct",
+    "acceptable": [
+     "bet_66pct",
+     "bet_75pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Alex folds to turn bets 58.9% of the time versus a 38.0% benchmark (n=168). Keep betting the turn.",
+    "rule": "Bet 66-75% pot on the turn with weak hands and draws."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.fold_to_bet_turn",
+     "label": "Folds to a turn bet %",
+     "value_pct": 58.9,
+     "n": 168,
+     "status": "graded",
+     "benchmark_pct": 38.0
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "barrel_vs_over_folder",
+    "alex",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "alex-barrel-vs-over-folder-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "barrel_vs_over_folder",
+   "title": "Barrel the turn vs an over-folder",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "turn",
+   "heroHand": [
+    "5s",
+    "4s"
+   ],
+   "board": [
+    "7s",
+    "7d",
+    "3c",
+    "Jh"
+   ],
+   "history": [
+    "Hero (BTN) raises to 2.5bb",
+    "Alex (BB) calls",
+    "--- FLOP [7s 7d 3c]",
+    "Alex checks",
+    "Hero bets 2.5bb",
+    "Alex calls",
+    "--- TURN [7s 7d 3c Jh]",
+    "Alex checks"
+   ],
+   "potBb": 10.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_66pct",
+    "acceptable": [
+     "bet_66pct",
+     "bet_75pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Alex folds to turn bets 58.9% of the time versus a 38.0% benchmark (n=168). Keep betting the turn.",
+    "rule": "Bet 66-75% pot on the turn with weak hands and draws."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.fold_to_bet_turn",
+     "label": "Folds to a turn bet %",
+     "value_pct": 58.9,
+     "n": 168,
+     "status": "graded",
+     "benchmark_pct": 38.0
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "barrel_vs_over_folder",
+    "alex",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "alex-barrel-vs-over-folder-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "river_vs_value_heavy_bettor",
+   "title": "River bet from a value-heavy bettor",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "9c",
+    "9d"
+   ],
+   "board": [
+    "Kh",
+    "Jd",
+    "5s",
+    "3c",
+    "2h"
+   ],
+   "history": [
+    "Hero (BTN) raises to 2.5bb",
+    "Alex (BB) calls",
+    "--- FLOP [Kh Jd 5s]",
+    "Alex checks",
+    "Hero checks",
+    "--- TURN [Kh Jd 5s 3c]",
+    "Alex checks",
+    "Hero checks",
+    "--- RIVER [Kh Jd 5s 3c 2h]",
+    "Alex bets 3.5bb (75% pot)"
+   ],
+   "potBb": 8.2,
+   "toCallBb": 3.5,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [],
+    "why": "Only 20.0% of Alex's shown-down river bets were weak hands (n=20) and he wins 75.4% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "rule": "Call with top pair or better; fold bluff-catchers."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.river_aggression_weak_at_showdown",
+     "label": "Weak hands in shown-down river bets %",
+     "value_pct": 20.0,
+     "n": 20,
+     "status": "hidden"
+    },
+    {
+     "ref": "alex.wsd",
+     "label": "Wins at showdown %",
+     "value_pct": 75.4,
+     "n": 126,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "river_vs_value_heavy_bettor",
+    "alex",
+    "fabricated"
+   ],
+   "status": "lean",
+   "id": "alex-river-vs-value-heavy-bettor-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "river_vs_value_heavy_bettor",
+   "title": "River bet from a value-heavy bettor",
+   "villain": "Alex",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "Kd",
+    "Qh"
+   ],
+   "board": [
+    "Kc",
+    "8s",
+    "6d",
+    "2h",
+    "4c"
+   ],
+   "history": [
+    "Hero (BTN) raises to 2.5bb",
+    "Alex (BB) calls",
+    "--- FLOP [Kc 8s 6d]",
+    "Alex checks",
+    "Hero checks",
+    "--- TURN [Kc 8s 6d 2h]",
+    "Alex checks",
+    "Hero checks",
+    "--- RIVER [Kc 8s 6d 2h 4c]",
+    "Alex bets 4bb (75% pot)"
+   ],
+   "potBb": 9.4,
+   "toCallBb": 4.0,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Only 20.0% of Alex's shown-down river bets were weak hands (n=20) and he wins 75.4% of showdowns. Fold bluff-catchers and call with top pair or better.",
+    "rule": "Call with top pair or better; fold bluff-catchers."
+   },
+   "driverStats": [
+    {
+     "ref": "alex.river_aggression_weak_at_showdown",
+     "label": "Weak hands in shown-down river bets %",
+     "value_pct": 20.0,
+     "n": 20,
+     "status": "hidden"
+    },
+    {
+     "ref": "alex.wsd",
+     "label": "Wins at showdown %",
+     "value_pct": 75.4,
+     "n": 126,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "river_vs_value_heavy_bettor",
+    "alex",
+    "fabricated"
+   ],
+   "status": "lean",
+   "id": "alex-river-vs-value-heavy-bettor-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "iso_raise_limper",
+   "title": "Raise over the limper",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "CO",
+   "street": "preflop",
+   "heroHand": [
+    "Qd",
+    "9d"
+   ],
+   "board": [],
+   "history": [
+    "Ruining (CO) limps 1bb"
+   ],
+   "potBb": 2.5,
+   "toCallBb": 1.0,
+   "options": [
+    "check_or_fold",
+    "raise_4_5bb"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "raise_4_5bb",
+    "acceptable": [
+     "raise_4_5bb"
+    ],
+    "forbidden": [],
+    "why": "Ruining limps 25.0% of the time when first in (n=831) and folds the big blind to opens 12.7% of the time. Raise to 4-5bb with a wide range.",
+    "rule": "Raise 4-5bb with a wide range over his limp; he calls raises too often to fold out."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.open_limp_when_first_in",
+     "label": "Limps when first in %",
+     "value_pct": 25.0,
+     "n": 831,
+     "status": "graded"
+    },
+    {
+     "ref": "ruining.bb_fold_vs_open",
+     "label": "Folds BB vs open %",
+     "value_pct": 12.7,
+     "n": 346,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "iso_raise_limper",
+    "ruining",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ruining-iso-raise-limper-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "iso_raise_limper",
+   "title": "Raise over the limper",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "SB",
+   "street": "preflop",
+   "heroHand": [
+    "7h",
+    "3c"
+   ],
+   "board": [],
+   "history": [
+    "Ruining (SB) completes (limps)"
+   ],
+   "potBb": 2.0,
+   "toCallBb": 0.0,
+   "options": [
+    "check_or_fold",
+    "raise_4_5bb"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "check_or_fold",
+    "acceptable": [
+     "check_or_fold"
+    ],
+    "forbidden": [],
+    "why": "Ruining limps 25.0% of the time when first in (n=831) and folds the big blind to opens 12.7% of the time. Raise to 4-5bb with a wide range.",
+    "rule": "Raise 4-5bb with a wide range over his limp; he calls raises too often to fold out."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.open_limp_when_first_in",
+     "label": "Limps when first in %",
+     "value_pct": 25.0,
+     "n": 831,
+     "status": "graded"
+    },
+    {
+     "ref": "ruining.bb_fold_vs_open",
+     "label": "Folds BB vs open %",
+     "value_pct": 12.7,
+     "n": 346,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "iso_raise_limper",
+    "ruining",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ruining-iso-raise-limper-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "river_bluff_vs_over_folder",
+   "title": "Bluff the river vs an over-folder",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "Jh",
+    "Th"
+   ],
+   "board": [
+    "As",
+    "9d",
+    "6c",
+    "2h",
+    "Kd"
+   ],
+   "history": [
+    "Hero (BTN) raises to 2.5bb",
+    "SB folds",
+    "Ruining (BB) calls",
+    "--- FLOP [As 9d 6c]",
+    "Ruining checks",
+    "Hero bets 2.5bb",
+    "Ruining calls",
+    "--- TURN [As 9d 6c 2h]",
+    "Ruining checks",
+    "Hero checks",
+    "--- RIVER [As 9d 6c 2h Kd]",
+    "Ruining checks"
+   ],
+   "potBb": 10.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_66pct",
+    "acceptable": [
+     "bet_50pct",
+     "bet_66pct",
+     "bet_75pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Ruining folds to river bets 57.6% of the time versus a 42.3% benchmark (n=118). Bet your missed hands.",
+    "rule": "Bet 50-75% pot with missed hands."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.fold_to_bet_river",
+     "label": "Folds to a river bet %",
+     "value_pct": 57.6,
+     "n": 118,
+     "status": "graded",
+     "benchmark_pct": 42.3
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "river_bluff_vs_over_folder",
+    "ruining",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ruining-river-bluff-vs-over-folder-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "river_bluff_vs_over_folder",
+   "title": "Bluff the river vs an over-folder",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "Qd",
+    "Jd"
+   ],
+   "board": [
+    "8h",
+    "7d",
+    "2c",
+    "Kc",
+    "3s"
+   ],
+   "history": [
+    "Hero (BTN) raises to 2.5bb",
+    "SB folds",
+    "Ruining (BB) calls",
+    "--- FLOP [8h 7d 2c]",
+    "Ruining checks",
+    "Hero checks",
+    "--- TURN [8h 7d 2c Kc]",
+    "Ruining checks",
+    "Hero checks",
+    "--- RIVER [8h 7d 2c Kc 3s]",
+    "Ruining checks"
+   ],
+   "potBb": 5.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_66pct",
+    "acceptable": [
+     "bet_50pct",
+     "bet_66pct",
+     "bet_75pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Ruining folds to river bets 57.6% of the time versus a 42.3% benchmark (n=118). Bet your missed hands.",
+    "rule": "Bet 50-75% pot with missed hands."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.fold_to_bet_river",
+     "label": "Folds to a river bet %",
+     "value_pct": 57.6,
+     "n": 118,
+     "status": "graded",
+     "benchmark_pct": 42.3
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "river_bluff_vs_over_folder",
+    "ruining",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ruining-river-bluff-vs-over-folder-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "thin_value_vs_caller",
+   "title": "Bet thin for value vs a caller",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "Ah",
+    "9d"
+   ],
+   "board": [
+    "9c",
+    "Kd",
+    "4s",
+    "2h",
+    "5c"
+   ],
+   "history": [
+    "Hero (BTN) raises to 2.5bb",
+    "SB folds",
+    "Ruining (BB) calls",
+    "--- FLOP [9c Kd 4s]",
+    "Ruining checks",
+    "Hero bets 2.5bb",
+    "Ruining calls",
+    "--- TURN [9c Kd 4s 2h]",
+    "Ruining checks",
+    "Hero checks",
+    "--- RIVER [9c Kd 4s 2h 5c]",
+    "Ruining checks"
+   ],
+   "potBb": 10.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_33pct",
+    "acceptable": [
+     "bet_33pct",
+     "bet_50pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Ruining shows a pair or worse at 56.3% of showdowns (n=231), so he pays off thin value bets.",
+    "rule": "Bet 33-50% pot with second pair or weak top pair."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.showdown_weak_hands",
+     "label": "Shows a pair or worse at showdown %",
+     "value_pct": 56.3,
+     "n": 231,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "thin_value_vs_caller",
+    "ruining",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ruining-thin-value-vs-caller-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "thin_value_vs_caller",
+   "title": "Bet thin for value vs a caller",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "8h",
+    "8d"
+   ],
+   "board": [
+    "Qc",
+    "6d",
+    "3s",
+    "Jh",
+    "2c"
+   ],
+   "history": [
+    "Hero (BTN) raises to 2.5bb",
+    "SB folds",
+    "Ruining (BB) calls",
+    "--- FLOP [Qc 6d 3s]",
+    "Ruining checks",
+    "Hero bets 2.5bb",
+    "Ruining calls",
+    "--- TURN [Qc 6d 3s Jh]",
+    "Ruining checks",
+    "Hero checks",
+    "--- RIVER [Qc 6d 3s Jh 2c]",
+    "Ruining checks"
+   ],
+   "potBb": 10.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_33pct",
+    "acceptable": [
+     "bet_33pct",
+     "bet_50pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Ruining shows a pair or worse at 56.3% of showdowns (n=231), so he pays off thin value bets.",
+    "rule": "Bet 33-50% pot with second pair or weak top pair."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.showdown_weak_hands",
+     "label": "Shows a pair or worse at showdown %",
+     "value_pct": 56.3,
+     "n": 231,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "thin_value_vs_caller",
+    "ruining",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ruining-thin-value-vs-caller-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "three_bet_bluff_vs_non_folder",
+   "title": "Do not 3-bet bluff a player who will not fold",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "preflop",
+   "heroHand": [
+    "Ad",
+    "3d"
+   ],
+   "board": [],
+   "history": [
+    "Ruining (BTN) raises to 3bb",
+    "SB folds"
+   ],
+   "potBb": 4.5,
+   "toCallBb": 2.0,
+   "options": [
+    "fold",
+    "call",
+    "3bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [
+     "3bet"
+    ],
+    "why": "Ruining folds to a 3-bet only 13.1% of the time (n=107). A bluff 3-bet needs folds, so call or fold instead.",
+    "rule": "Never 3-bet bluff; call playable hands and fold the rest."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.fold_to_3bet",
+     "label": "Folds to a 3-bet %",
+     "value_pct": 13.1,
+     "n": 107,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "three_bet_bluff_vs_non_folder",
+    "ruining",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ruining-three-bet-bluff-vs-non-folder-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "three_bet_bluff_vs_non_folder",
+   "title": "Do not 3-bet bluff a player who will not fold",
+   "villain": "Ruining",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "SB",
+   "villainPos": "CO",
+   "street": "preflop",
+   "heroHand": [
+    "6h",
+    "5h"
+   ],
+   "board": [],
+   "history": [
+    "Ruining (CO) raises to 2.5bb",
+    "BTN folds"
+   ],
+   "potBb": 4.0,
+   "toCallBb": 2.0,
+   "options": [
+    "fold",
+    "call",
+    "3bet"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [
+     "3bet"
+    ],
+    "why": "Ruining folds to a 3-bet only 13.1% of the time (n=107). A bluff 3-bet needs folds, so call or fold instead.",
+    "rule": "Never 3-bet bluff; call playable hands and fold the rest."
+   },
+   "driverStats": [
+    {
+     "ref": "ruining.fold_to_3bet",
+     "label": "Folds to a 3-bet %",
+     "value_pct": 13.1,
+     "n": 107,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "three_bet_bluff_vs_non_folder",
+    "ruining",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "ruining-three-bet-bluff-vs-non-folder-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "big_open_defense",
+   "title": "Defend vs an oversized open",
+   "villain": "Rob",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "preflop",
+   "heroHand": [
+    "9h",
+    "8h"
+   ],
+   "board": [],
+   "history": [
+    "Rob (BTN) raises to 5bb",
+    "SB folds"
+   ],
+   "potBb": 6.5,
+   "toCallBb": 4.0,
+   "options": [
+    "fold",
+    "call",
+    "3bet_value"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Rob opens to a median 5.0bb versus 3.5bb for the others (n=158). The bigger price means you need a stronger hand to defend.",
+    "rule": "Tighten the calling range against a 5bb open; 3-bet for value."
+   },
+   "driverStats": [
+    {
+     "ref": "rob.sizing.open_raise_bb_median",
+     "label": "Median open (bb)",
+     "value": 5.0,
+     "n": 158,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "big_open_defense",
+    "rob",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "rob-big-open-defense-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "big_open_defense",
+   "title": "Defend vs an oversized open",
+   "villain": "Rob",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "CO",
+   "street": "preflop",
+   "heroHand": [
+    "Kh",
+    "9c"
+   ],
+   "board": [],
+   "history": [
+    "Rob (CO) raises to 5bb",
+    "BTN folds",
+    "SB folds"
+   ],
+   "potBb": 6.5,
+   "toCallBb": 4.0,
+   "options": [
+    "fold",
+    "call",
+    "3bet_value"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [],
+    "why": "Rob opens to a median 5.0bb versus 3.5bb for the others (n=158). The bigger price means you need a stronger hand to defend.",
+    "rule": "Tighten the calling range against a 5bb open; 3-bet for value."
+   },
+   "driverStats": [
+    {
+     "ref": "rob.sizing.open_raise_bb_median",
+     "label": "Median open (bb)",
+     "value": 5.0,
+     "n": 158,
+     "status": "graded"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "big_open_defense",
+    "rob",
+    "fabricated"
+   ],
+   "status": "graded",
+   "id": "rob-big-open-defense-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "defend_vs_wide_cbet",
+   "title": "Defend vs a wide c-bettor",
+   "villain": "Rob",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "flop",
+   "heroHand": [
+    "9h",
+    "8h"
+   ],
+   "board": [
+    "Ts",
+    "7d",
+    "2h"
+   ],
+   "history": [
+    "Rob (BTN) raises to 5bb",
+    "SB folds",
+    "Hero (BB) calls",
+    "--- FLOP [Ts 7d 2h]",
+    "Hero checks",
+    "Rob bets 5.5bb"
+   ],
+   "potBb": 16.0,
+   "toCallBb": 5.5,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "call",
+    "acceptable": [
+     "call"
+    ],
+    "forbidden": [],
+    "why": "Rob c-bets 68.4% of the time (n=136) and folds to c-bets 45.1% (n=82), so his bets include a lot of air. Continue with a piece or a draw.",
+    "rule": "Call with any piece or a draw, raise strong hands; fold pure air."
+   },
+   "driverStats": [
+    {
+     "ref": "rob.cbet_flop",
+     "label": "Flop c-bet %",
+     "value_pct": 68.4,
+     "n": 136,
+     "status": "graded"
+    },
+    {
+     "ref": "rob.fold_to_cbet",
+     "label": "Folds to a c-bet %",
+     "value_pct": 45.1,
+     "n": 82,
+     "status": "lean"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "defend_vs_wide_cbet",
+    "rob",
+    "fabricated"
+   ],
+   "status": "lean",
+   "id": "rob-defend-vs-wide-cbet-fab-1"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "defend_vs_wide_cbet",
+   "title": "Defend vs a wide c-bettor",
+   "villain": "Rob",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BB",
+   "villainPos": "BTN",
+   "street": "flop",
+   "heroHand": [
+    "Jd",
+    "Tc"
+   ],
+   "board": [
+    "Ac",
+    "8s",
+    "3h"
+   ],
+   "history": [
+    "Rob (BTN) raises to 5bb",
+    "SB folds",
+    "Hero (BB) calls",
+    "--- FLOP [Ac 8s 3h]",
+    "Hero checks",
+    "Rob bets 5.5bb"
+   ],
+   "potBb": 16.0,
+   "toCallBb": 5.5,
+   "options": [
+    "fold",
+    "call",
+    "raise"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "fold",
+    "acceptable": [
+     "fold"
+    ],
+    "forbidden": [],
+    "why": "Rob c-bets 68.4% of the time (n=136) and folds to c-bets 45.1% (n=82), so his bets include a lot of air. Continue with a piece or a draw.",
+    "rule": "Call with any piece or a draw, raise strong hands; fold pure air."
+   },
+   "driverStats": [
+    {
+     "ref": "rob.cbet_flop",
+     "label": "Flop c-bet %",
+     "value_pct": 68.4,
+     "n": 136,
+     "status": "graded"
+    },
+    {
+     "ref": "rob.fold_to_cbet",
+     "label": "Folds to a c-bet %",
+     "value_pct": 45.1,
+     "n": 82,
+     "status": "lean"
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "defend_vs_wide_cbet",
+    "rob",
+    "fabricated"
+   ],
+   "status": "lean",
+   "id": "rob-defend-vs-wide-cbet-fab-2"
+  },
+  {
+   "kind": "villain_fabricated",
+   "template": "river_bluff_vs_over_folder",
+   "title": "Bluff the river vs an over-folder",
+   "villain": "Rob",
+   "tableSize": 4,
+   "effectiveStackBb": 100,
+   "heroPos": "BTN",
+   "villainPos": "BB",
+   "street": "river",
+   "heroHand": [
+    "6h",
+    "5h"
+   ],
+   "board": [
+    "Ks",
+    "9d",
+    "3c",
+    "Jc",
+    "2d"
+   ],
+   "history": [
+    "Hero (BTN) raises to 2.5bb",
+    "SB folds",
+    "Rob (BB) calls",
+    "--- FLOP [Ks 9d 3c]",
+    "Rob checks",
+    "Hero checks",
+    "--- TURN [Ks 9d 3c Jc]",
+    "Rob checks",
+    "Hero checks",
+    "--- RIVER [Ks 9d 3c Jc 2d]",
+    "Rob checks"
+   ],
+   "potBb": 5.5,
+   "toCallBb": 0.0,
+   "options": [
+    "check",
+    "bet_33pct",
+    "bet_50pct",
+    "bet_66pct",
+    "bet_75pct",
+    "bet_100pct"
+   ],
+   "baseline": null,
+   "baselineNote": "Fill from solver data for this table size; none is bundled.",
+   "exploit": {
+    "best": "bet_66pct",
+    "acceptable": [
+     "bet_50pct",
+     "bet_66pct",
+     "bet_75pct"
+    ],
+    "forbidden": [
+     "check"
+    ],
+    "why": "Rob folds to river bets 68.8% of the time versus a 39.8% benchmark (n=48). Bet your missed hands.",
+    "rule": "Bet 50-75% pot with missed hands."
+   },
+   "driverStats": [
+    {
+     "ref": "rob.fold_to_bet_river",
+     "label": "Folds to a river bet %",
+     "value_pct": 68.8,
+     "n": 48,
+     "status": "lean",
+     "benchmark_pct": 39.8
+    }
+   ],
+   "source": {
+    "type": "fabricated"
+   },
+   "difficulty": 2,
+   "tags": [
+    "river_bluff_vs_over_folder",
+    "rob",
+    "fabricated"
+   ],
+   "status": "lean",
+   "id": "rob-river-bluff-vs-over-folder-fab-1"
+  }
+ ]
+}

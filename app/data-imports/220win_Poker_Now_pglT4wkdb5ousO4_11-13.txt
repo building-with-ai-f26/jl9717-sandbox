@@ -1,0 +1,4235 @@
+PokerStars Hand #250000002437:  Hold'em No Limit ($0.10/$0.20 USD) - 2026/11/13 12:33:58 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($100.00 in chips)
+Seat 2: Tiger ($50.00 in chips)
+Seat 7: Ruining ($100.00 in chips)
+Tiger: posts small blind $0.10
+Ruining: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to Tiger [6h Kd]
+Alex: folds
+Tiger: folds
+Uncalled bet ($0.10) returned to Ruining
+Ruining collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0
+Seat 1: Alex (button) folded before Flop (didn't bet)
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) collected ($0.20)
+
+
+PokerStars Hand #250000002438:  Hold'em No Limit ($0.10/$0.20 USD) - 2026/11/13 12:34:14 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($100.00 in chips)
+Seat 2: Tiger ($49.90 in chips)
+Seat 7: Ruining ($100.10 in chips)
+Ruining: posts small blind $0.10
+Alex: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to Tiger [2d As]
+Tiger: raises $0.50 to $0.70
+Ruining: calls $0.60
+Alex: folds
+*** FLOP *** [Kc Jd 7d]
+Ruining: checks
+Tiger: checks
+*** TURN *** [Kc Jd 7d] [7h]
+Ruining: bets $1.20
+Tiger: folds
+Uncalled bet ($1.20) returned to Ruining
+Ruining collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0
+Board [Kc Jd 7d 7h]
+Seat 1: Alex (big blind) folded before Flop
+Seat 2: Tiger (button) folded on the Turn
+Seat 7: Ruining (small blind) collected ($1.60)
+
+
+PokerStars Hand #250000002439:  Hold'em No Limit ($0.10/$0.20 USD) - 2026/11/13 12:34:57 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($99.80 in chips)
+Seat 2: Tiger ($49.20 in chips)
+Seat 7: Ruining ($101.00 in chips)
+Alex: posts small blind $0.10
+Tiger: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to Tiger [7d 3s]
+Ruining: folds
+Alex: raises $0.40 to $0.60
+Tiger: folds
+Uncalled bet ($0.40) returned to Alex
+Alex collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0
+Seat 1: Alex (small blind) collected ($0.40)
+Seat 2: Tiger (big blind) folded before Flop
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002440:  Hold'em No Limit ($0.10/$0.20 USD) - 2026/11/13 12:35:12 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($100.00 in chips)
+Seat 2: Tiger ($49.00 in chips)
+Seat 7: Ruining ($101.00 in chips)
+Tiger: posts small blind $0.10
+Ruining: posts big blind $0.20
+*** HOLE CARDS ***
+Dealt to Tiger [4h Ac]
+Alex: raises $0.50 to $0.70
+Tiger: calls $0.60
+Ruining: calls $0.50
+*** FLOP *** [Js 8d 6c]
+Tiger: checks
+Ruining: checks
+Alex: checks
+*** TURN *** [Js 8d 6c] [7s]
+Tiger: checks
+Ruining: checks
+Alex: bets $2.10
+Tiger: folds
+Ruining: folds
+Uncalled bet ($2.10) returned to Alex
+Alex collected $2.10 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0
+Board [Js 8d 6c 7s]
+Seat 1: Alex (button) collected ($2.10)
+Seat 2: Tiger (small blind) folded on the Turn
+Seat 7: Ruining (big blind) folded on the Turn
+
+
+PokerStars Hand #250000002441:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:36:04 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($101.40 in chips)
+Seat 2: Tiger ($48.30 in chips)
+Seat 7: Ruining ($100.30 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6d 9h]
+Tiger: folds
+Ruining: folds
+Uncalled bet ($0.25) returned to Alex
+Alex collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (big blind) collected ($0.50)
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002442:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:36:16 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($101.65 in chips)
+Seat 2: Tiger ($98.30 in chips)
+Seat 7: Ruining ($100.05 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4h 3s]
+Ruining: folds
+Alex: folds
+Uncalled bet ($0.25) returned to Tiger
+Tiger collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) collected ($0.50)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002443:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:36:27 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($101.40 in chips)
+Seat 2: Tiger ($98.55 in chips)
+Seat 7: Ruining ($100.05 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h 3c]
+Alex: calls $0.50
+Tiger: folds
+Ruining: raises $1.25 to $1.75
+Alex: calls $1.25
+*** FLOP *** [Tc 8h 4c]
+Ruining: checks
+Alex: checks
+*** TURN *** [Tc 8h 4c] [Qd]
+Ruining: checks
+Alex: checks
+*** RIVER *** [Tc 8h 4c Qd] [4h]
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Ruining: shows [2s Ac] (a pair of Fours)
+Ruining collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [Tc 8h 4c Qd 4h]
+Seat 1: Alex (button) mucked
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) showed [2s Ac] and won ($3.75) with a pair of Fours
+
+
+PokerStars Hand #250000002444:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:37:10 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($99.65 in chips)
+Seat 2: Tiger ($98.30 in chips)
+Seat 7: Ruining ($102.05 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9d Ts]
+Tiger: calls $0.50
+Ruining: calls $0.25
+Alex: checks
+*** FLOP *** [8d 3h 9s]
+Ruining: checks
+Alex: checks
+Tiger: bets $0.75
+Ruining: folds
+Alex: folds
+Uncalled bet ($0.75) returned to Tiger
+Tiger collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0
+Board [8d 3h 9s]
+Seat 1: Alex (big blind) folded on the Flop
+Seat 2: Tiger (button) collected ($1.50)
+Seat 7: Ruining (small blind) folded on the Flop
+
+
+PokerStars Hand #250000002445:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:37:47 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($99.15 in chips)
+Seat 2: Tiger ($99.30 in chips)
+Seat 7: Ruining ($101.55 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kd Ac]
+Ruining: folds
+Alex: raises $1.00 to $1.50
+Tiger: raises $3.00 to $4.50
+Alex: calls $3.00
+*** FLOP *** [5s 9h Ah]
+Alex: checks
+Tiger: bets $4.50
+Alex: folds
+Uncalled bet ($4.50) returned to Tiger
+Tiger collected $9.00 from pot
+*** SUMMARY ***
+Total pot $9.00 | Rake $0
+Board [5s 9h Ah]
+Seat 1: Alex (small blind) folded on the Flop
+Seat 2: Tiger (big blind) collected ($9.00)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002446:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:38:14 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($94.65 in chips)
+Seat 2: Tiger ($103.80 in chips)
+Seat 7: Ruining ($101.55 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6c 3c]
+Alex: raises $1.25 to $1.75
+Tiger: calls $1.50
+Ruining: folds
+*** FLOP *** [As 6s 9h]
+Tiger: checks
+Alex: checks
+*** TURN *** [As 6s 9h] [2s]
+Tiger: bets $2.00
+Alex: folds
+Uncalled bet ($2.00) returned to Tiger
+Tiger collected $4.00 from pot
+*** SUMMARY ***
+Total pot $4.00 | Rake $0
+Board [As 6s 9h 2s]
+Seat 1: Alex (button) folded on the Turn
+Seat 2: Tiger (small blind) collected ($4.00)
+Seat 7: Ruining (big blind) folded before Flop
+
+
+PokerStars Hand #250000002447:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:38:42 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($92.90 in chips)
+Seat 2: Tiger ($106.05 in chips)
+Seat 7: Ruining ($101.05 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [As 9h]
+Tiger: calls $0.50
+Ruining: folds
+Alex: raises $1.25 to $1.75
+Tiger: calls $1.25
+*** FLOP *** [Jd 5h Ts]
+Alex: bets $2.81
+Tiger: folds
+Uncalled bet ($2.81) returned to Alex
+Alex collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [Jd 5h Ts]
+Seat 1: Alex (big blind) collected ($3.75)
+Seat 2: Tiger (button) folded on the Flop
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002448:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:39:12 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($94.90 in chips)
+Seat 2: Tiger ($104.30 in chips)
+Seat 7: Ruining ($100.80 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8h Td]
+Ruining: folds
+Alex: folds
+Uncalled bet ($0.25) returned to Tiger
+Tiger collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) collected ($0.50)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002449:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:39:30 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($94.65 in chips)
+Seat 2: Tiger ($104.55 in chips)
+Seat 7: Ruining ($100.80 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jd 6d]
+Alex: raises $1.25 to $1.75
+Tiger: calls $1.50
+Ruining: calls $1.25
+*** FLOP *** [As 5c Kh]
+Tiger: checks
+Ruining: checks
+Alex: checks
+*** TURN *** [As 5c Kh] [Jh]
+Tiger: checks
+Ruining: checks
+Alex: bets $3.93
+Tiger: calls $3.93
+Ruining: folds
+*** RIVER *** [As 5c Kh Jh] [8s]
+Tiger: checks
+Alex: bets $9.83
+Tiger: folds
+Uncalled bet ($9.83) returned to Alex
+Alex collected $13.11 from pot
+*** SUMMARY ***
+Total pot $13.11 | Rake $0
+Board [As 5c Kh Jh 8s]
+Seat 1: Alex (button) collected ($13.11)
+Seat 2: Tiger (small blind) folded on the River
+Seat 7: Ruining (big blind) folded on the Turn
+
+
+PokerStars Hand #250000002450:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:40:13 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($102.08 in chips)
+Seat 2: Tiger ($98.87 in chips)
+Seat 7: Ruining ($99.05 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4s 7s]
+Tiger: calls $0.50
+Ruining: calls $0.25
+Alex: checks
+*** FLOP *** [8s Tc Kd]
+Ruining: checks
+Alex: checks
+Tiger: checks
+*** TURN *** [8s Tc Kd] [Js]
+Ruining: checks
+Alex: bets $1.12
+Tiger: calls $1.12
+Ruining: calls $1.12
+*** RIVER *** [8s Tc Kd Js] [3c]
+Ruining: checks
+Alex: bets $2.43
+Tiger: folds
+Ruining: folds
+Uncalled bet ($2.43) returned to Alex
+Alex collected $4.86 from pot
+*** SUMMARY ***
+Total pot $4.86 | Rake $0
+Board [8s Tc Kd Js 3c]
+Seat 1: Alex (big blind) collected ($4.86)
+Seat 2: Tiger (button) folded on the River
+Seat 7: Ruining (small blind) folded on the River
+
+
+PokerStars Hand #250000002451:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:40:49 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($105.32 in chips)
+Seat 2: Tiger ($97.25 in chips)
+Seat 7: Ruining ($97.43 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3s 2d]
+Ruining: calls $0.50
+Alex: raises $1.50 to $2.00
+Tiger: folds
+Ruining: calls $1.50
+*** FLOP *** [2s 7c Jh]
+Alex: checks
+Ruining: checks
+*** TURN *** [2s 7c Jh] [5d]
+Alex: checks
+Ruining: checks
+*** RIVER *** [2s 7c Jh 5d] [Qs]
+Alex: bets $4.50
+Ruining: folds
+Uncalled bet ($4.50) returned to Alex
+Alex collected $4.50 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0
+Board [2s 7c Jh 5d Qs]
+Seat 1: Alex (small blind) collected ($4.50)
+Seat 2: Tiger (big blind) folded before Flop
+Seat 7: Ruining (button) folded on the River
+
+
+PokerStars Hand #250000002452:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:41:15 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($107.82 in chips)
+Seat 2: Tiger ($96.75 in chips)
+Seat 7: Ruining ($95.43 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2d 3h]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Ruining: calls $1.25
+*** FLOP *** [9d 5s Qc]
+Ruining: checks
+Alex: checks
+*** TURN *** [9d 5s Qc] [5c]
+Ruining: bets $2.81
+Alex: folds
+Uncalled bet ($2.81) returned to Ruining
+Ruining collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [9d 5s Qc 5c]
+Seat 1: Alex (button) folded on the Turn
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) collected ($3.75)
+
+
+PokerStars Hand #250000002453:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:41:50 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($106.07 in chips)
+Seat 2: Tiger ($96.50 in chips)
+Seat 7: Ruining ($97.43 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6h Ad]
+Tiger: calls $0.50
+Ruining: raises $1.50 to $2.00
+Alex: calls $1.50
+Tiger: folds
+*** FLOP *** [7h Ac Js]
+Ruining: bets $2.25
+Alex: folds
+Uncalled bet ($2.25) returned to Ruining
+Ruining collected $4.50 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0
+Board [7h Ac Js]
+Seat 1: Alex (big blind) folded on the Flop
+Seat 2: Tiger (button) folded before Flop
+Seat 7: Ruining (small blind) collected ($4.50)
+
+
+PokerStars Hand #250000002454:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:42:29 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($104.07 in chips)
+Seat 2: Tiger ($96.00 in chips)
+Seat 7: Ruining ($99.93 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ac 3c]
+Ruining: raises $1.25 to $1.75
+Alex: calls $1.50
+Tiger: calls $1.25
+*** FLOP *** [Kd 3h Ad]
+Alex: bets $3.93
+Tiger: calls $3.93
+Ruining: calls $3.93
+*** TURN *** [Kd 3h Ad] [8s]
+Alex: bets $12.78
+Tiger: raises $21.30 to $34.08
+Ruining: folds
+Alex: calls $21.30
+*** RIVER *** [Kd 3h Ad 8s] [6d]
+Alex: checks
+Tiger: checks
+*** SHOW DOWN ***
+Alex: shows [Ah 7d] (a pair of Aces)
+Tiger: shows [Ac 3c] (two pair, Aces and Threes)
+Tiger collected $85.20 from pot
+*** SUMMARY ***
+Total pot $85.20 | Rake $0
+Board [Kd 3h Ad 8s 6d]
+Seat 1: Alex (small blind) showed [Ah 7d] and lost with a pair of Aces
+Seat 2: Tiger (big blind) showed [Ac 3c] and won ($85.20) with two pair, Aces and Threes
+Seat 7: Ruining (button) folded on the Turn
+
+
+PokerStars Hand #250000002455:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:43:24 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($64.31 in chips)
+Seat 2: Tiger ($141.44 in chips)
+Seat 7: Ruining ($94.25 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8d Th]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Ruining: raises $2.81 to $4.56
+Alex: folds
+Uncalled bet ($2.81) returned to Ruining
+Ruining collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Seat 1: Alex (button) folded before Flop
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) collected ($3.75)
+
+
+PokerStars Hand #250000002456:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:44:10 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($62.56 in chips)
+Seat 2: Tiger ($141.19 in chips)
+Seat 7: Ruining ($96.25 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5s Ts]
+Tiger: calls $0.50
+Ruining: folds
+Alex: raises $3.25 to $3.75
+Tiger: calls $3.25
+*** FLOP *** [2h 9c 8s]
+Alex: bets $7.75
+Tiger: folds
+Uncalled bet ($7.75) returned to Alex
+Alex collected $7.75 from pot
+*** SUMMARY ***
+Total pot $7.75 | Rake $0
+Board [2h 9c 8s]
+Seat 1: Alex (big blind) collected ($7.75)
+Seat 2: Tiger (button) folded on the Flop
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002457:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:44:44 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($66.56 in chips)
+Seat 2: Tiger ($137.44 in chips)
+Seat 7: Ruining ($96.00 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3d Ad]
+Ruining: folds
+Alex: folds
+Uncalled bet ($0.25) returned to Tiger
+Tiger collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) collected ($0.50)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002458:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:44:56 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($66.31 in chips)
+Seat 2: Tiger ($137.69 in chips)
+Seat 7: Ruining ($96.00 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4s Jc]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Ruining: raises $3.75 to $5.50
+Alex: calls $3.75
+*** FLOP *** [2c Ac 7s]
+Ruining: bets $8.43
+Alex: calls $8.43
+*** TURN *** [2c Ac 7s] [5h]
+Ruining: bets $14.05
+Alex: folds
+Uncalled bet ($14.05) returned to Ruining
+Ruining collected $28.11 from pot
+*** SUMMARY ***
+Total pot $28.11 | Rake $0
+Board [2c Ac 7s 5h]
+Seat 1: Alex (button) folded on the Turn
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) collected ($28.11)
+
+
+PokerStars Hand #250000002459:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:45:51 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($52.38 in chips)
+Seat 2: Tiger ($137.44 in chips)
+Seat 7: Ruining ($110.18 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6s 3h]
+Tiger: folds
+Ruining: calls $0.25
+Alex: checks
+*** FLOP *** [Kc 8s 6c]
+Ruining: checks
+Alex: checks
+*** TURN *** [Kc 8s 6c] [4d]
+Ruining: checks
+Alex: checks
+*** RIVER *** [Kc 8s 6c 4d] [6h]
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Ruining: shows [4s Ts] (two pair, Sixes and Fours)
+Ruining collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Board [Kc 8s 6c 4d 6h]
+Seat 1: Alex (big blind) mucked
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) showed [4s Ts] and won ($1.00) with two pair, Sixes and Fours
+
+
+PokerStars Hand #250000002460:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:46:21 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($51.88 in chips)
+Seat 2: Tiger ($137.44 in chips)
+Seat 7: Ruining ($110.68 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2s Jh]
+Ruining: folds
+Alex: folds
+Uncalled bet ($0.25) returned to Tiger
+Tiger collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) collected ($0.50)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002461:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:46:34 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($51.63 in chips)
+Seat 2: Tiger ($137.69 in chips)
+Seat 7: Ruining ($110.68 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9h 7c]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Ruining: calls $1.25
+*** FLOP *** [4h Kc Ts]
+Ruining: checks
+Alex: checks
+*** TURN *** [4h Kc Ts] [Jc]
+Ruining: checks
+Alex: checks
+*** RIVER *** [4h Kc Ts Jc] [7h]
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Ruining: shows [7d 6h] (a pair of Sevens)
+Ruining collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [4h Kc Ts Jc 7h]
+Seat 1: Alex (button) mucked
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) showed [7d 6h] and won ($3.75) with a pair of Sevens
+
+
+PokerStars Hand #250000002462:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:47:02 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($49.88 in chips)
+Seat 2: Tiger ($137.44 in chips)
+Seat 7: Ruining ($112.68 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2h Td]
+Tiger: folds
+Ruining: calls $0.25
+Alex: checks
+*** FLOP *** [9c 4h 5h]
+Ruining: checks
+Alex: checks
+*** TURN *** [9c 4h 5h] [Ah]
+Ruining: checks
+Alex: checks
+*** RIVER *** [9c 4h 5h Ah] [As]
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Ruining: shows [Th 8s] (a pair of Aces)
+Alex: shows [8h Jc] (a pair of Aces)
+Alex collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Board [9c 4h 5h Ah As]
+Seat 1: Alex (big blind) showed [8h Jc] and won ($1.00) with a pair of Aces
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) showed [Th 8s] and lost with a pair of Aces
+
+
+PokerStars Hand #250000002463:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:47:24 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($50.38 in chips)
+Seat 2: Tiger ($137.44 in chips)
+Seat 7: Ruining ($112.18 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th 3d]
+Ruining: raises $1.25 to $1.75
+Alex: calls $1.50
+Tiger: calls $1.25
+*** FLOP *** [9h Jc 4d]
+Alex: checks
+Tiger: checks
+Ruining: bets $3.93
+Alex: folds
+Tiger: folds
+Uncalled bet ($3.93) returned to Ruining
+Ruining collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0
+Board [9h Jc 4d]
+Seat 1: Alex (small blind) folded on the Flop
+Seat 2: Tiger (big blind) folded on the Flop
+Seat 7: Ruining (button) collected ($5.25)
+
+
+PokerStars Hand #250000002464:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:47:52 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($48.63 in chips)
+Seat 2: Tiger ($135.69 in chips)
+Seat 7: Ruining ($115.68 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h 2c]
+Alex: folds
+Tiger: folds
+Uncalled bet ($0.25) returned to Ruining
+Ruining collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (button) folded before Flop (didn't bet)
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) collected ($0.50)
+
+
+PokerStars Hand #250000002465:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:48:02 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($48.63 in chips)
+Seat 2: Tiger ($135.44 in chips)
+Seat 7: Ruining ($115.93 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3h 2h]
+Tiger: raises $1.25 to $1.75
+Ruining: calls $1.50
+Alex: folds
+*** FLOP *** [Ts Ks Td]
+Ruining: checks
+Tiger: checks
+*** TURN *** [Ts Ks Td] [Jc]
+Ruining: bets $2.00
+Tiger: folds
+Uncalled bet ($2.00) returned to Ruining
+Ruining collected $4.00 from pot
+*** SUMMARY ***
+Total pot $4.00 | Rake $0
+Board [Ts Ks Td Jc]
+Seat 1: Alex (big blind) folded before Flop
+Seat 2: Tiger (button) folded on the Turn
+Seat 7: Ruining (small blind) collected ($4.00)
+
+
+PokerStars Hand #250000002466:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:48:30 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($48.13 in chips)
+Seat 2: Tiger ($133.69 in chips)
+Seat 7: Ruining ($118.18 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2d 2c]
+Ruining: raises $1.25 to $1.75
+Alex: folds
+Tiger: calls $1.25
+*** FLOP *** [5s 3h Js]
+Tiger: checks
+Ruining: checks
+*** TURN *** [5s 3h Js] [5d]
+Tiger: checks
+Ruining: checks
+*** RIVER *** [5s 3h Js 5d] [8s]
+Tiger: checks
+Ruining: bets $1.87
+Tiger: calls $1.87
+*** SHOW DOWN ***
+Ruining: shows [Jd 8d] (two pair, Jacks and Eights)
+Ruining collected $7.49 from pot
+*** SUMMARY ***
+Total pot $7.49 | Rake $0
+Board [5s 3h Js 5d 8s]
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) mucked
+Seat 7: Ruining (button) showed [Jd 8d] and won ($7.49) with two pair, Jacks and Eights
+
+
+PokerStars Hand #250000002467:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:49:02 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($47.88 in chips)
+Seat 2: Tiger ($130.07 in chips)
+Seat 7: Ruining ($122.05 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3c 2s]
+Alex: raises $2.25 to $2.75
+Tiger: folds
+Ruining: folds
+Uncalled bet ($2.25) returned to Alex
+Alex collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Alex (button) collected ($1.25)
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) folded before Flop
+
+
+PokerStars Hand #250000002468:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:49:18 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($48.63 in chips)
+Seat 2: Tiger ($129.82 in chips)
+Seat 7: Ruining ($121.55 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qd Ad]
+Tiger: raises $1.25 to $1.75
+Ruining: folds
+Alex: calls $1.25
+*** FLOP *** [Jd Td Th]
+Alex: checks
+Tiger: checks
+*** TURN *** [Jd Td Th] [Jc]
+Alex: checks
+Tiger: bets $3.75
+Alex: folds
+Uncalled bet ($3.75) returned to Tiger
+Tiger collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [Jd Td Th Jc]
+Seat 1: Alex (big blind) folded on the Turn
+Seat 2: Tiger (button) collected ($3.75)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002469:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:49:48 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($46.88 in chips)
+Seat 2: Tiger ($131.82 in chips)
+Seat 7: Ruining ($121.30 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5s Tc]
+Ruining: folds
+Alex: raises $1.00 to $1.50
+Tiger: folds
+Uncalled bet ($1.00) returned to Alex
+Alex collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Alex (small blind) collected ($1.00)
+Seat 2: Tiger (big blind) folded before Flop
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002470:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:50:02 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($47.38 in chips)
+Seat 2: Tiger ($131.32 in chips)
+Seat 7: Ruining ($121.30 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kh 3d]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Ruining: calls $1.25
+*** FLOP *** [Ac 5c 9c]
+Ruining: bets $2.81
+Alex: raises $2.81 to $5.62
+Ruining: raises $7.49 to $13.11
+Alex: calls $7.49
+*** TURN *** [Ac 5c 9c] [4c]
+Ruining: checks
+Alex: checks
+*** RIVER *** [Ac 5c 9c 4c] [4d]
+Ruining: bets $14.98
+Alex: raises $17.54 to $32.52 and is all-in
+Ruining: calls $17.54
+*** SHOW DOWN ***
+Alex: shows [Js Tc] (a flush, Ace high)
+Ruining: shows [2s Kc] (a flush, Ace high)
+Ruining collected $95.01 from pot
+*** SUMMARY ***
+Total pot $95.01 | Rake $0
+Board [Ac 5c 9c 4c 4d]
+Seat 1: Alex (button) showed [Js Tc] and lost with a flush, Ace high
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) showed [2s Kc] and won ($95.01) with a flush, Ace high
+
+
+PokerStars Hand #250000002471:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:50:47 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 2: Tiger ($131.07 in chips)
+Seat 7: Ruining ($168.93 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9s Kh]
+Tiger: calls $0.25
+Ruining: checks
+*** FLOP *** [Th 4c Jc]
+Ruining: bets $2.00
+Tiger: calls $2.00
+*** TURN *** [Th 4c Jc] [Jd]
+Ruining: bets $5.00
+Tiger: folds
+Uncalled bet ($5.00) returned to Ruining
+Ruining collected $5.00 from pot
+*** SUMMARY ***
+Total pot $5.00 | Rake $0
+Board [Th 4c Jc Jd]
+Seat 2: Tiger (button) (small blind) folded on the Turn
+Seat 7: Ruining (big blind) collected ($5.00)
+
+
+PokerStars Hand #250000002472:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:51:15 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 2: Tiger ($128.57 in chips)
+Seat 7: Ruining ($171.43 in chips)
+Ruining: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6c 3h]
+Ruining: folds
+Uncalled bet ($0.25) returned to Tiger
+Tiger collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 2: Tiger (big blind) collected ($0.50)
+Seat 7: Ruining (button) (small blind) folded before Flop
+
+
+PokerStars Hand #250000002473:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:51:27 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($100.00 in chips)
+Seat 2: Tiger ($128.82 in chips)
+Seat 7: Ruining ($171.18 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9d Td]
+Tiger: raises $1.25 to $1.75
+Ruining: calls $1.50
+Alex: folds
+*** FLOP *** [Th 4s Jh]
+Ruining: checks
+Tiger: bets $2.00
+Ruining: folds
+Uncalled bet ($2.00) returned to Tiger
+Tiger collected $4.00 from pot
+*** SUMMARY ***
+Total pot $4.00 | Rake $0
+Board [Th 4s Jh]
+Seat 1: Alex (big blind) folded before Flop
+Seat 2: Tiger (button) collected ($4.00)
+Seat 7: Ruining (small blind) folded on the Flop
+
+
+PokerStars Hand #250000002474:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:51:55 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($99.50 in chips)
+Seat 2: Tiger ($131.07 in chips)
+Seat 7: Ruining ($169.43 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ac 2d]
+Ruining: folds
+Alex: raises $1.00 to $1.50
+Tiger: calls $1.00
+*** FLOP *** [7h 6h Qh]
+Alex: bets $3.00
+Tiger: folds
+Uncalled bet ($3.00) returned to Alex
+Alex collected $3.00 from pot
+*** SUMMARY ***
+Total pot $3.00 | Rake $0
+Board [7h 6h Qh]
+Seat 1: Alex (small blind) collected ($3.00)
+Seat 2: Tiger (big blind) folded on the Flop
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002475:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:52:18 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($101.00 in chips)
+Seat 2: Tiger ($129.57 in chips)
+Seat 7: Ruining ($169.43 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7s Ts]
+Alex: folds
+Tiger: raises $1.00 to $1.50
+Ruining: folds
+Uncalled bet ($1.00) returned to Tiger
+Tiger collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Alex (button) folded before Flop (didn't bet)
+Seat 2: Tiger (small blind) collected ($1.00)
+Seat 7: Ruining (big blind) folded before Flop
+
+
+PokerStars Hand #250000002476:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:52:37 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($101.00 in chips)
+Seat 2: Tiger ($130.07 in chips)
+Seat 7: Ruining ($168.93 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6d 8s]
+Tiger: folds
+Ruining: folds
+Uncalled bet ($0.25) returned to Alex
+Alex collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (big blind) collected ($0.50)
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002477:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:52:48 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($101.25 in chips)
+Seat 2: Tiger ($130.07 in chips)
+Seat 7: Ruining ($168.68 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8s Jh]
+Ruining: calls $0.50
+Alex: folds
+Tiger: checks
+*** FLOP *** [2d 7h Kd]
+Tiger: checks
+Ruining: bets $1.25
+Tiger: folds
+Uncalled bet ($1.25) returned to Ruining
+Ruining collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Board [2d 7h Kd]
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) folded on the Flop
+Seat 7: Ruining (button) collected ($1.25)
+
+
+PokerStars Hand #250000002478:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:53:09 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($101.00 in chips)
+Seat 2: Tiger ($129.57 in chips)
+Seat 7: Ruining ($169.43 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2h Qd]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Ruining: calls $1.25
+*** FLOP *** [9c 2s 4s]
+Ruining: checks
+Alex: checks
+*** TURN *** [9c 2s 4s] [6c]
+Ruining: checks
+Alex: checks
+*** RIVER *** [9c 2s 4s 6c] [Qs]
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Ruining: shows [Kd 2c] (a pair of Deuces)
+Alex: shows [As 9d] (a pair of Nines)
+Alex collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [9c 2s 4s 6c Qs]
+Seat 1: Alex (button) showed [As 9d] and won ($3.75) with a pair of Nines
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) showed [Kd 2c] and lost with a pair of Deuces
+
+
+PokerStars Hand #250000002479:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:53:35 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($103.00 in chips)
+Seat 2: Tiger ($129.32 in chips)
+Seat 7: Ruining ($167.68 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8s 6c]
+Tiger: calls $0.50
+Ruining: folds
+Alex: raises $1.25 to $1.75
+Tiger: calls $1.25
+*** FLOP *** [Qc 4h 2h]
+Alex: checks
+Tiger: checks
+*** TURN *** [Qc 4h 2h] [4d]
+Alex: bets $3.75
+Tiger: folds
+Uncalled bet ($3.75) returned to Alex
+Alex collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [Qc 4h 2h 4d]
+Seat 1: Alex (big blind) collected ($3.75)
+Seat 2: Tiger (button) folded on the Turn
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002480:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:54:13 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($105.00 in chips)
+Seat 2: Tiger ($127.57 in chips)
+Seat 7: Ruining ($167.43 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kc 8d]
+Ruining: raises $1.25 to $1.75
+Alex: folds
+Tiger: calls $1.25
+*** FLOP *** [3s 7h 2d]
+Tiger: checks
+Ruining: bets $2.81
+Tiger: calls $2.81
+*** TURN *** [3s 7h 2d] [2s]
+Tiger: checks
+Ruining: bets $4.68
+Tiger: calls $4.68
+*** RIVER *** [3s 7h 2d 2s] [4d]
+Tiger: checks
+Ruining: checks
+*** SHOW DOWN ***
+Tiger: shows [Kc 8d] (a pair of Deuces)
+Tiger collected $18.73 from pot
+*** SUMMARY ***
+Total pot $18.73 | Rake $0
+Board [3s 7h 2d 2s 4d]
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) showed [Kc 8d] and won ($18.73) with a pair of Deuces
+Seat 7: Ruining (button) mucked
+
+
+PokerStars Hand #250000002481:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:54:45 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($104.75 in chips)
+Seat 2: Tiger ($137.06 in chips)
+Seat 7: Ruining ($158.19 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qc Jc]
+Alex: folds
+Tiger: raises $1.00 to $1.50
+Ruining: calls $1.00
+*** FLOP *** [Qd Td 3c]
+Tiger: bets $1.50
+Ruining: calls $1.50
+*** TURN *** [Qd Td 3c] [Ad]
+Tiger: checks
+Ruining: bets $3.00
+Tiger: calls $3.00
+*** RIVER *** [Qd Td 3c Ad] [9c]
+Tiger: checks
+Ruining: bets $6.00
+Tiger: calls $6.00
+*** SHOW DOWN ***
+Ruining: shows [Tc 7s] (a pair of Tens)
+Tiger: shows [Qc Jc] (a pair of Queens)
+Tiger collected $24.00 from pot
+*** SUMMARY ***
+Total pot $24.00 | Rake $0
+Board [Qd Td 3c Ad 9c]
+Seat 1: Alex (button) folded before Flop (didn't bet)
+Seat 2: Tiger (small blind) showed [Qc Jc] and won ($24.00) with a pair of Queens
+Seat 7: Ruining (big blind) showed [Tc 7s] and lost with a pair of Tens
+
+
+PokerStars Hand #250000002482:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:55:18 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($104.75 in chips)
+Seat 2: Tiger ($149.06 in chips)
+Seat 7: Ruining ($146.19 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9d Jc]
+Tiger: calls $0.50
+Ruining: folds
+Alex: checks
+*** FLOP *** [Ks 6d 7d]
+Alex: checks
+Tiger: checks
+*** TURN *** [Ks 6d 7d] [Ad]
+Alex: checks
+Tiger: checks
+*** RIVER *** [Ks 6d 7d Ad] [2c]
+Alex: checks
+Tiger: checks
+*** SHOW DOWN ***
+Alex: shows [3c Qd] (high card Ace)
+Alex collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Board [Ks 6d 7d Ad 2c]
+Seat 1: Alex (big blind) showed [3c Qd] and won ($1.25) with high card Ace
+Seat 2: Tiger (button) mucked
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002483:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:55:38 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($105.50 in chips)
+Seat 2: Tiger ($148.56 in chips)
+Seat 7: Ruining ($145.94 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ts Ks]
+Ruining: folds
+Alex: folds
+Uncalled bet ($0.25) returned to Tiger
+Tiger collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) collected ($0.50)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002484:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:55:49 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($105.25 in chips)
+Seat 2: Tiger ($148.81 in chips)
+Seat 7: Ruining ($145.94 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5c Jd]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Ruining: calls $1.25
+*** FLOP *** [Ah Th Ac]
+Ruining: checks
+Alex: checks
+*** TURN *** [Ah Th Ac] [7d]
+Ruining: bets $3.75
+Alex: calls $3.75
+*** RIVER *** [Ah Th Ac 7d] [Qh]
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Ruining: shows [Tc 5s] (two pair, Aces and Tens)
+Ruining collected $11.25 from pot
+*** SUMMARY ***
+Total pot $11.25 | Rake $0
+Board [Ah Th Ac 7d Qh]
+Seat 1: Alex (button) mucked
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) showed [Tc 5s] and won ($11.25) with two pair, Aces and Tens
+
+
+PokerStars Hand #250000002485:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:56:29 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($99.75 in chips)
+Seat 2: Tiger ($148.56 in chips)
+Seat 7: Ruining ($151.69 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qs 8c]
+Tiger: folds
+Ruining: raises $1.00 to $1.50
+Alex: raises $4.00 to $5.50
+Ruining: calls $4.00
+*** FLOP *** [Qd 3c 9d]
+Ruining: checks
+Alex: checks
+*** TURN *** [Qd 3c 9d] [7s]
+Ruining: checks
+Alex: bets $8.25
+Ruining: folds
+Uncalled bet ($8.25) returned to Alex
+Alex collected $11.00 from pot
+*** SUMMARY ***
+Total pot $11.00 | Rake $0
+Board [Qd 3c 9d 7s]
+Seat 1: Alex (big blind) collected ($11.00)
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) folded on the Turn
+
+
+PokerStars Hand #250000002486:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:57:01 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($105.25 in chips)
+Seat 2: Tiger ($148.56 in chips)
+Seat 7: Ruining ($146.19 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kd 4h]
+Ruining: raises $1.25 to $1.75
+Alex: raises $4.00 to $5.75
+Tiger: folds
+Ruining: calls $4.00
+*** FLOP *** [Js 7s 9d]
+Alex: bets $12.00
+Ruining: raises $18.00 to $30.00
+Alex: calls $18.00
+*** TURN *** [Js 7s 9d] [Qd]
+Alex: checks
+Ruining: bets $110.44 and is all-in
+Alex: calls $69.50 and is all-in
+Uncalled bet ($40.94) returned to Ruining
+*** RIVER *** [Js 7s 9d Qd] [8h]
+*** SHOW DOWN ***
+Alex: shows [Ks Ts] (a straight, King high)
+Ruining: shows [Qc Td] (a straight, Queen high)
+Alex collected $105.50 from pot
+Alex collected $105.50 from pot
+*** SUMMARY ***
+Total pot $211.00 | Rake $0
+Board [Js 7s 9d Qd 8h]
+Seat 1: Alex (small blind) showed [Ks Ts] and won ($211.00) with a straight, King high
+Seat 2: Tiger (big blind) folded before Flop
+Seat 7: Ruining (button) showed [Qc Td] and lost with a straight, Queen high
+
+
+PokerStars Hand #250000002487:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:57:58 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($211.00 in chips)
+Seat 2: Tiger ($148.06 in chips)
+Seat 7: Ruining ($40.94 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9s 5d]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Ruining: raises $3.75 to $5.50
+Alex: calls $3.75
+*** FLOP *** [5c 7s Ks]
+Ruining: checks
+Alex: bets $8.43
+Ruining: folds
+Uncalled bet ($8.43) returned to Alex
+Alex collected $11.25 from pot
+*** SUMMARY ***
+Total pot $11.25 | Rake $0
+Board [5c 7s Ks]
+Seat 1: Alex (button) collected ($11.25)
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) folded on the Flop
+
+
+PokerStars Hand #250000002488:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:58:26 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($216.75 in chips)
+Seat 2: Tiger ($147.81 in chips)
+Seat 7: Ruining ($35.44 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3d 8d]
+Tiger: calls $0.50
+Ruining: folds
+Alex: checks
+*** FLOP *** [Kh Tc Js]
+Alex: checks
+Tiger: checks
+*** TURN *** [Kh Tc Js] [Qs]
+Alex: checks
+Tiger: checks
+*** RIVER *** [Kh Tc Js Qs] [Jd]
+Alex: bets $1.25
+Tiger: folds
+Uncalled bet ($1.25) returned to Alex
+Alex collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Board [Kh Tc Js Qs Jd]
+Seat 1: Alex (big blind) collected ($1.25)
+Seat 2: Tiger (button) folded on the River
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002489:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:58:55 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($217.50 in chips)
+Seat 2: Tiger ($147.31 in chips)
+Seat 7: Ruining ($35.19 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3c 4s]
+Ruining: raises $1.25 to $1.75
+Alex: calls $1.50
+Tiger: calls $1.25
+*** FLOP *** [9c 2c 8c]
+Alex: checks
+Tiger: checks
+Ruining: bets $5.25
+Alex: folds
+Tiger: folds
+Uncalled bet ($5.25) returned to Ruining
+Ruining collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0
+Board [9c 2c 8c]
+Seat 1: Alex (small blind) folded on the Flop
+Seat 2: Tiger (big blind) folded on the Flop
+Seat 7: Ruining (button) collected ($5.25)
+
+
+PokerStars Hand #250000002490:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:59:30 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($215.75 in chips)
+Seat 2: Tiger ($145.56 in chips)
+Seat 7: Ruining ($138.69 in chips)
+Tiger: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7c 8d]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Ruining: calls $1.25
+*** FLOP *** [2c Jd 9c]
+Ruining: checks
+Alex: checks
+*** TURN *** [2c Jd 9c] [8c]
+Ruining: checks
+Alex: checks
+*** RIVER *** [2c Jd 9c 8c] [2s]
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Ruining: shows [4h Kh] (a pair of Deuces)
+Ruining collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [2c Jd 9c 8c 2s]
+Seat 1: Alex (button) mucked
+Seat 2: Tiger (small blind) folded before Flop
+Seat 7: Ruining (big blind) showed [4h Kh] and won ($3.75) with a pair of Deuces
+
+
+PokerStars Hand #250000002491:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 12:59:55 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($214.00 in chips)
+Seat 2: Tiger ($145.31 in chips)
+Seat 7: Ruining ($140.69 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2s 3h]
+Tiger: folds
+Ruining: raises $1.00 to $1.50
+Alex: calls $1.00
+*** FLOP *** [Ah 5s 4c]
+Ruining: checks
+Alex: checks
+*** TURN *** [Ah 5s 4c] [7h]
+Ruining: checks
+Alex: checks
+*** RIVER *** [Ah 5s 4c 7h] [6c]
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Ruining: shows [7d Th] (a pair of Sevens)
+Alex: shows [7s Kc] (a pair of Sevens)
+Alex collected $3.00 from pot
+*** SUMMARY ***
+Total pot $3.00 | Rake $0
+Board [Ah 5s 4c 7h 6c]
+Seat 1: Alex (big blind) showed [7s Kc] and won ($3.00) with a pair of Sevens
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) showed [7d Th] and lost with a pair of Sevens
+
+
+PokerStars Hand #250000002492:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:00:30 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($215.50 in chips)
+Seat 2: Tiger ($145.31 in chips)
+Seat 3: Stephan ($150.00 in chips)
+Seat 7: Ruining ($139.19 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kh Ks]
+Stephan: calls $0.50
+Ruining: calls $0.50
+Alex: calls $0.25
+Tiger: raises $2.50 to $3.00
+Stephan: calls $2.50
+Ruining: calls $2.50
+Alex: calls $2.50
+*** FLOP *** [7s 3s 6h]
+Alex: checks
+Tiger: bets $9.00
+Stephan: folds
+Ruining: folds
+Alex: folds
+Uncalled bet ($9.00) returned to Tiger
+Tiger collected $12.00 from pot
+*** SUMMARY ***
+Total pot $12.00 | Rake $0
+Board [7s 3s 6h]
+Seat 1: Alex (small blind) folded on the Flop
+Seat 2: Tiger (big blind) collected ($12.00)
+Seat 3: Stephan folded on the Flop
+Seat 7: Ruining (button) folded on the Flop
+
+
+PokerStars Hand #250000002493:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:01:25 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($212.50 in chips)
+Seat 2: Tiger ($154.31 in chips)
+Seat 3: Stephan ($147.00 in chips)
+Seat 7: Ruining ($136.19 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qh 5c]
+Ruining: folds
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Stephan: folds
+Uncalled bet ($1.25) returned to Alex
+Alex collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Alex (button) collected ($1.25)
+Seat 2: Tiger (small blind) folded before Flop
+Seat 3: Stephan (big blind) folded before Flop
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002494:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:01:48 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($213.25 in chips)
+Seat 2: Tiger ($154.06 in chips)
+Seat 3: Stephan ($146.50 in chips)
+Seat 7: Ruining ($136.19 in chips)
+Stephan: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3h Ks]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Stephan: folds
+Ruining: raises $3.75 to $5.50
+Alex: folds
+Uncalled bet ($3.75) returned to Ruining
+Ruining collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Seat 1: Alex folded before Flop
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 3: Stephan (small blind) folded before Flop
+Seat 7: Ruining (big blind) collected ($3.75)
+
+
+PokerStars Hand #250000002495:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:02:12 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($211.50 in chips)
+Seat 2: Tiger ($154.06 in chips)
+Seat 3: Stephan ($146.25 in chips)
+Seat 7: Ruining ($138.19 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4d Jc]
+Tiger: folds
+Stephan: folds
+Ruining: folds
+Uncalled bet ($0.25) returned to Alex
+Alex collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (big blind) collected ($0.50)
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002496:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:02:38 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($211.75 in chips)
+Seat 2: Tiger ($154.06 in chips)
+Seat 3: Stephan ($146.25 in chips)
+Seat 4: Ben ($200.00 in chips)
+Seat 7: Ruining ($137.94 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6c Ac]
+Stephan: calls $0.50
+Ben: raises $2.75 to $3.25
+Ruining: calls $3.25
+Alex: calls $3.00
+Tiger: calls $2.75
+Stephan: calls $2.75
+*** FLOP *** [7h Js Kc]
+Alex: checks
+Tiger: checks
+Stephan: bets $3.50
+Ben: raises $11.50 to $15.00
+Ruining: folds
+Alex: folds
+Tiger: folds
+Stephan: calls $11.50
+*** TURN *** [7h Js Kc] [7d]
+Stephan: checks
+Ben: bets $29.00
+Stephan: calls $29.00
+*** RIVER *** [7h Js Kc 7d] [Qc]
+Stephan: checks
+Ben: checks
+*** SHOW DOWN ***
+Stephan: shows [9s Qs] (two pair, Queens and Sevens)
+Stephan collected $104.25 from pot
+*** SUMMARY ***
+Total pot $104.25 | Rake $0
+Board [7h Js Kc 7d Qc]
+Seat 1: Alex (small blind) folded on the Flop
+Seat 2: Tiger (big blind) folded on the Flop
+Seat 3: Stephan showed [9s Qs] and won ($104.25) with two pair, Queens and Sevens
+Seat 4: Ben mucked
+Seat 7: Ruining (button) folded on the Flop
+
+
+PokerStars Hand #250000002497:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:04:04 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($208.50 in chips)
+Seat 2: Tiger ($150.81 in chips)
+Seat 3: Stephan ($203.25 in chips)
+Seat 4: Ben ($152.75 in chips)
+Seat 7: Ruining ($134.69 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kd Qd]
+Ben: raises $1.50 to $2.00
+Ruining: folds
+Alex: folds
+Tiger: calls $1.75
+Stephan: folds
+*** FLOP *** [2s 6d Jd]
+Tiger: bets $3.37
+Ben: raises $11.24 to $14.61
+Tiger: calls $11.24
+*** TURN *** [2s 6d Jd] [4h]
+Tiger: checks
+Ben: bets $33.72
+Tiger: calls $33.72
+*** RIVER *** [2s 6d Jd 4h] [Td]
+Tiger: bets $100.48 and is all-in
+Ben: calls $100.48
+*** SHOW DOWN ***
+Tiger: shows [Kd Qd] (a flush, King high)
+Ben: shows [2d 2h] (three of a kind, Deuces)
+Tiger collected $302.12 from pot
+*** SUMMARY ***
+Total pot $302.12 | Rake $0
+Board [2s 6d Jd 4h Td]
+Seat 1: Alex (button) folded before Flop (didn't bet)
+Seat 2: Tiger (small blind) showed [Kd Qd] and won ($302.12) with a flush, King high
+Seat 3: Stephan (big blind) folded before Flop
+Seat 4: Ben showed [2d 2h] and lost with three of a kind, Deuces
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002498:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:04:49 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($208.50 in chips)
+Seat 2: Tiger ($302.12 in chips)
+Seat 3: Stephan ($202.75 in chips)
+Seat 4: Ben ($1.94 in chips)
+Seat 7: Ruining ($134.69 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qs 7s]
+Ruining: folds
+Alex: folds
+Tiger: calls $0.50
+Stephan: calls $0.25
+Ben: raises $1.44 to $1.94 and is all-in
+Tiger: calls $1.44
+Stephan: calls $1.44
+*** FLOP *** [9d Ac Jd]
+Stephan: checks
+Tiger: checks
+*** TURN *** [9d Ac Jd] [8h]
+Stephan: checks
+Tiger: checks
+*** RIVER *** [9d Ac Jd 8h] [6c]
+Stephan: bets $0.50
+Tiger: folds
+Uncalled bet ($0.50) returned to Stephan
+*** SHOW DOWN ***
+Stephan: shows [2h 2d] (a pair of Deuces)
+Ben: shows [Qc Jh] (a pair of Jacks)
+Ben collected $5.82 from pot
+*** SUMMARY ***
+Total pot $5.82 | Rake $0
+Board [9d Ac Jd 8h 6c]
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger (button) folded on the River
+Seat 3: Stephan (small blind) showed [2h 2d] and lost with a pair of Deuces
+Seat 4: Ben (big blind) showed [Qc Jh] and won ($5.82) with a pair of Jacks
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002499:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:05:34 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($208.50 in chips)
+Seat 2: Tiger ($300.18 in chips)
+Seat 3: Stephan ($200.81 in chips)
+Seat 4: Ben ($305.82 in chips)
+Seat 7: Ruining ($134.69 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5d Qs]
+Alex: folds
+Tiger: folds
+Stephan: calls $0.50
+Ben: raises $2.00 to $2.50
+Ruining: calls $2.00
+Stephan: calls $2.00
+*** FLOP *** [Kc 7d 4d]
+Ben: checks
+Ruining: checks
+Stephan: checks
+*** TURN *** [Kc 7d 4d] [6d]
+Ben: checks
+Ruining: checks
+Stephan: bets $5.00
+Ben: folds
+Ruining: folds
+Uncalled bet ($5.00) returned to Stephan
+Stephan collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0
+Board [Kc 7d 4d 6d]
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan (button) collected ($7.50)
+Seat 4: Ben (small blind) folded on the Turn
+Seat 7: Ruining (big blind) folded on the Turn
+
+
+PokerStars Hand #250000002500:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:06:32 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($208.50 in chips)
+Seat 2: Tiger ($300.18 in chips)
+Seat 3: Stephan ($205.81 in chips)
+Seat 4: Ben ($303.32 in chips)
+Seat 7: Ruining ($132.19 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4d Tc]
+Tiger: folds
+Stephan: folds
+Ben: raises $2.25 to $2.75
+Ruining: folds
+Alex: calls $2.25
+*** FLOP *** [4h Qd 7h]
+Alex: bets $2.87
+Ben: calls $2.87
+*** TURN *** [4h Qd 7h] [3s]
+Alex: checks
+Ben: bets $5.74
+Alex: folds
+Uncalled bet ($5.74) returned to Ben
+Ben collected $11.49 from pot
+*** SUMMARY ***
+Total pot $11.49 | Rake $0
+Board [4h Qd 7h 3s]
+Seat 1: Alex (big blind) folded on the Turn
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan folded before Flop (didn't bet)
+Seat 4: Ben (button) collected ($11.49)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002501:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:07:08 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($202.88 in chips)
+Seat 2: Tiger ($300.18 in chips)
+Seat 3: Stephan ($205.81 in chips)
+Seat 4: Ben ($309.19 in chips)
+Seat 7: Ruining ($131.94 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9s As]
+Stephan: calls $0.50
+Ben: raises $2.75 to $3.25
+Ruining: folds
+Alex: calls $3.00
+Tiger: calls $2.75
+Stephan: calls $2.75
+*** FLOP *** [7h 4s Qd]
+Alex: checks
+Tiger: checks
+Stephan: bets $0.50
+Ben: calls $0.50
+Alex: folds
+Tiger: calls $0.50
+*** TURN *** [7h 4s Qd] [Ad]
+Tiger: checks
+Stephan: checks
+Ben: bets $14.50
+Tiger: calls $14.50
+Stephan: calls $14.50
+*** RIVER *** [7h 4s Qd Ad] [8h]
+Tiger: checks
+Stephan: checks
+Ben: checks
+*** SHOW DOWN ***
+Tiger: shows [9s As] (a pair of Aces)
+Tiger collected $58.00 from pot
+*** SUMMARY ***
+Total pot $58.00 | Rake $0
+Board [7h 4s Qd Ad 8h]
+Seat 1: Alex (small blind) folded on the Flop
+Seat 2: Tiger (big blind) showed [9s As] and won ($58.00) with a pair of Aces
+Seat 3: Stephan mucked
+Seat 4: Ben mucked
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002502:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:08:44 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($199.63 in chips)
+Seat 2: Tiger ($339.93 in chips)
+Seat 3: Stephan ($187.56 in chips)
+Seat 4: Ben ($290.94 in chips)
+Seat 7: Ruining ($131.94 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4s 3s]
+Ben: folds
+Ruining: calls $0.50
+Alex: folds
+Tiger: calls $0.25
+Stephan: checks
+*** FLOP *** [4c 5d Kd]
+Tiger: checks
+Stephan: checks
+Ruining: bets $1.50
+Tiger: calls $1.50
+Stephan: folds
+*** TURN *** [4c 5d Kd] [Ts]
+Tiger: checks
+Ruining: checks
+*** RIVER *** [4c 5d Kd Ts] [5s]
+Tiger: checks
+Ruining: bets $4.50
+Tiger: calls $4.50
+*** SHOW DOWN ***
+Ruining: shows [3h 5h] (three of a kind, Fives)
+Ruining collected $13.50 from pot
+*** SUMMARY ***
+Total pot $13.50 | Rake $0
+Board [4c 5d Kd Ts 5s]
+Seat 1: Alex (button) folded before Flop (didn't bet)
+Seat 2: Tiger (small blind) mucked
+Seat 3: Stephan (big blind) folded on the Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 7: Ruining showed [3h 5h] and won ($13.50) with three of a kind, Fives
+
+
+PokerStars Hand #250000002503:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:10:00 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($199.63 in chips)
+Seat 2: Tiger ($333.43 in chips)
+Seat 3: Stephan ($187.06 in chips)
+Seat 4: Ben ($290.94 in chips)
+Seat 7: Ruining ($138.94 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5c 3d]
+Ruining: folds
+Alex: folds
+Tiger: folds
+Stephan: folds
+Uncalled bet ($0.25) returned to Ben
+Ben collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 3: Stephan (small blind) folded before Flop
+Seat 4: Ben (big blind) collected ($0.50)
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002504:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:10:14 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($199.63 in chips)
+Seat 2: Tiger ($333.43 in chips)
+Seat 3: Stephan ($186.81 in chips)
+Seat 4: Ben ($291.19 in chips)
+Seat 7: Ruining ($138.94 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7c Qs]
+Alex: folds
+Tiger: calls $0.50
+Stephan: calls $0.50
+Ben: raises $4.00 to $4.50
+Ruining: calls $4.00
+Tiger: folds
+Stephan: calls $4.00
+*** FLOP *** [Kh 6h Jc]
+Ben: bets $7.00
+Ruining: calls $7.00
+Stephan: calls $7.00
+*** TURN *** [Kh 6h Jc] [5s]
+Ben: checks
+Ruining: checks
+Stephan: checks
+*** RIVER *** [Kh 6h Jc 5s] [6s]
+Ben: checks
+Ruining: bets $26.25
+Stephan: folds
+Ben: folds
+Uncalled bet ($26.25) returned to Ruining
+Ruining collected $35.00 from pot
+*** SUMMARY ***
+Total pot $35.00 | Rake $0
+Board [Kh 6h Jc 5s 6s]
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger folded before Flop
+Seat 3: Stephan (button) folded on the River
+Seat 4: Ben (small blind) folded on the River
+Seat 7: Ruining (big blind) collected ($35.00)
+
+
+PokerStars Hand #250000002505:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:11:36 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($199.63 in chips)
+Seat 2: Tiger ($332.93 in chips)
+Seat 3: Stephan ($175.31 in chips)
+Seat 4: Ben ($279.69 in chips)
+Seat 7: Ruining ($162.44 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [As 5s]
+Tiger: calls $0.50
+Stephan: folds
+Ben: folds
+Ruining: raises $1.50 to $2.00
+Alex: calls $1.50
+Tiger: calls $1.50
+*** FLOP *** [Ts Ah Td]
+Ruining: checks
+Alex: checks
+Tiger: bets $3.00
+Ruining: calls $3.00
+Alex: folds
+*** TURN *** [Ts Ah Td] [Kd]
+Ruining: checks
+Tiger: checks
+*** RIVER *** [Ts Ah Td Kd] [4s]
+Ruining: checks
+Tiger: checks
+*** SHOW DOWN ***
+Ruining: shows [9c 9h] (two pair, Tens and Nines)
+Tiger: shows [As 5s] (two pair, Aces and Tens)
+Tiger collected $12.00 from pot
+*** SUMMARY ***
+Total pot $12.00 | Rake $0
+Board [Ts Ah Td Kd 4s]
+Seat 1: Alex (big blind) folded on the Flop
+Seat 2: Tiger showed [As 5s] and won ($12.00) with two pair, Aces and Tens
+Seat 3: Stephan folded before Flop (didn't bet)
+Seat 4: Ben (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) showed [9c 9h] and lost with two pair, Tens and Nines
+
+
+PokerStars Hand #250000002506:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:12:21 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($197.63 in chips)
+Seat 2: Tiger ($339.93 in chips)
+Seat 3: Stephan ($175.31 in chips)
+Seat 4: Ben ($279.69 in chips)
+Seat 7: Ruining ($157.44 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qs 6s]
+Stephan: folds
+Ben: raises $3.25 to $3.75
+Ruining: folds
+Alex: calls $3.50
+Tiger: calls $3.25
+*** FLOP *** [6h Js 5h]
+Alex: bets $8.43
+Tiger: folds
+Ben: raises $21.58 to $30.01
+Alex: calls $21.58
+*** TURN *** [6h Js 5h] [2s]
+Alex: checks
+Ben: bets $245.93 and is all-in
+Alex: folds
+Uncalled bet ($245.93) returned to Ben
+Ben collected $71.27 from pot
+*** SUMMARY ***
+Total pot $71.27 | Rake $0
+Board [6h Js 5h 2s]
+Seat 1: Alex (small blind) folded on the Turn
+Seat 2: Tiger (big blind) folded on the Flop
+Seat 3: Stephan folded before Flop (didn't bet)
+Seat 4: Ben collected ($71.27)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002507:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:13:15 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($163.87 in chips)
+Seat 2: Tiger ($336.18 in chips)
+Seat 3: Stephan ($175.31 in chips)
+Seat 4: Ben ($317.20 in chips)
+Seat 7: Ruining ($157.44 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2h Ac]
+Ben: folds
+Ruining: raises $1.25 to $1.75
+Alex: folds
+Tiger: calls $1.50
+Stephan: calls $1.25
+*** FLOP *** [4h 4d 2d]
+Tiger: checks
+Stephan: checks
+Ruining: checks
+*** TURN *** [4h 4d 2d] [Kh]
+Tiger: bets $2.62
+Stephan: calls $2.62
+Ruining: calls $2.62
+*** RIVER *** [4h 4d 2d Kh] [6d]
+Tiger: checks
+Stephan: checks
+Ruining: checks
+*** SHOW DOWN ***
+Tiger: shows [2h Ac] (two pair, Fours and Deuces)
+Ruining: shows [Kc 9h] (two pair, Kings and Fours)
+Ruining collected $13.11 from pot
+*** SUMMARY ***
+Total pot $13.11 | Rake $0
+Board [4h 4d 2d Kh 6d]
+Seat 1: Alex (button) folded before Flop (didn't bet)
+Seat 2: Tiger (small blind) showed [2h Ac] and lost with two pair, Fours and Deuces
+Seat 3: Stephan (big blind) mucked
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 7: Ruining showed [Kc 9h] and won ($13.11) with two pair, Kings and Fours
+
+
+PokerStars Hand #250000002508:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:13:56 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($163.87 in chips)
+Seat 2: Tiger ($331.81 in chips)
+Seat 3: Stephan ($170.94 in chips)
+Seat 4: Ben ($317.20 in chips)
+Seat 7: Ruining ($166.18 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [As 9d]
+Ruining: raises $1.25 to $1.75
+Alex: folds
+Tiger: folds
+Stephan: calls $1.50
+Ben: calls $1.25
+*** FLOP *** [Qh 5c 4s]
+Stephan: bets $16.04
+Ben: calls $16.04
+Ruining: calls $16.04
+*** TURN *** [Qh 5c 4s] [3d]
+Stephan: bets $0.50
+Ben: calls $0.50
+Ruining: calls $0.50
+*** RIVER *** [Qh 5c 4s 3d] [4h]
+Stephan: bets $0.50
+Ben: folds
+Ruining: calls $0.50
+*** SHOW DOWN ***
+Stephan: shows [Ad Ac] (two pair, Aces and Fours)
+Stephan collected $55.87 from pot
+*** SUMMARY ***
+Total pot $55.87 | Rake $0
+Board [Qh 5c 4s 3d 4h]
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 3: Stephan (small blind) showed [Ad Ac] and won ($55.87) with two pair, Aces and Fours
+Seat 4: Ben (big blind) folded on the River
+Seat 7: Ruining mucked
+
+
+PokerStars Hand #250000002509:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:15:01 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($163.87 in chips)
+Seat 2: Tiger ($331.81 in chips)
+Seat 3: Stephan ($208.02 in chips)
+Seat 4: Ben ($298.91 in chips)
+Seat 7: Ruining ($147.39 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ac Qd]
+Alex: raises $4.48 to $4.98
+Tiger: calls $4.98
+Stephan: folds
+Ben: calls $4.73
+Ruining: folds
+*** FLOP *** [8h Jc Th]
+Ben: checks
+Alex: bets $11.58
+Tiger: calls $11.58
+Ben: folds
+*** TURN *** [8h Jc Th] [7c]
+Alex: bets $38.60
+Tiger: folds
+Uncalled bet ($38.60) returned to Alex
+Alex collected $38.60 from pot
+*** SUMMARY ***
+Total pot $38.60 | Rake $0
+Board [8h Jc Th 7c]
+Seat 1: Alex collected ($38.60)
+Seat 2: Tiger folded on the Turn
+Seat 3: Stephan (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) folded on the Flop
+Seat 7: Ruining (big blind) folded before Flop
+
+
+PokerStars Hand #250000002510:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:16:37 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($185.91 in chips)
+Seat 2: Tiger ($315.25 in chips)
+Seat 3: Stephan ($208.02 in chips)
+Seat 4: Ben ($293.93 in chips)
+Seat 7: Ruining ($146.89 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th Qs]
+Tiger: calls $0.50
+Stephan: calls $0.50
+Ben: folds
+Ruining: raises $2.00 to $2.50
+Alex: calls $2.00
+Tiger: calls $2.00
+Stephan: raises $2.00 to $4.50
+Ruining: calls $2.00
+Alex: calls $2.00
+Tiger: calls $2.00
+*** FLOP *** [Tc Ad 5d]
+Ruining: bets $9.00
+Alex: folds
+Tiger: calls $9.00
+Stephan: calls $9.00
+*** TURN *** [Tc Ad 5d] [Qc]
+Ruining: checks
+Tiger: bets $22.50
+Stephan: calls $22.50
+Ruining: calls $22.50
+*** RIVER *** [Tc Ad 5d Qc] [7c]
+Ruining: checks
+Tiger: checks
+Stephan: bets $33.59
+Ruining: folds
+Tiger: calls $33.59
+*** SHOW DOWN ***
+Stephan: shows [7h As] (two pair, Aces and Sevens)
+Stephan collected $179.68 from pot
+*** SUMMARY ***
+Total pot $179.68 | Rake $0
+Board [Tc Ad 5d Qc 7c]
+Seat 1: Alex (big blind) folded on the Flop
+Seat 2: Tiger mucked
+Seat 3: Stephan showed [7h As] and won ($179.68) with two pair, Aces and Sevens
+Seat 4: Ben (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) folded on the River
+
+
+PokerStars Hand #250000002511:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:18:04 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($181.41 in chips)
+Seat 2: Tiger ($245.66 in chips)
+Seat 3: Stephan ($318.11 in chips)
+Seat 4: Ben ($293.93 in chips)
+Seat 7: Ruining ($110.89 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5h 7h]
+Stephan: calls $0.50
+Ben: calls $0.50
+Ruining: folds
+Alex: raises $2.00 to $2.50
+Tiger: calls $2.00
+Stephan: calls $2.00
+Ben: calls $2.00
+*** FLOP *** [Jd 2h 5s]
+Alex: checks
+Tiger: checks
+Stephan: bets $0.50
+Ben: calls $0.50
+Alex: folds
+Tiger: calls $0.50
+*** TURN *** [Jd 2h 5s] [Tc]
+Tiger: checks
+Stephan: checks
+Ben: checks
+*** RIVER *** [Jd 2h 5s Tc] [Kc]
+Tiger: checks
+Stephan: checks
+Ben: checks
+*** SHOW DOWN ***
+Tiger: shows [5h 7h] (a pair of Fives)
+Stephan: shows [4d Jc] (a pair of Jacks)
+Stephan collected $11.50 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0
+Board [Jd 2h 5s Tc Kc]
+Seat 1: Alex (small blind) folded on the Flop
+Seat 2: Tiger (big blind) showed [5h 7h] and lost with a pair of Fives
+Seat 3: Stephan showed [4d Jc] and won ($11.50) with a pair of Jacks
+Seat 4: Ben mucked
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002512:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:19:32 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($178.91 in chips)
+Seat 2: Tiger ($242.66 in chips)
+Seat 3: Stephan ($326.61 in chips)
+Seat 4: Ben ($290.93 in chips)
+Seat 7: Ruining ($110.89 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5c 2h]
+Ben: raises $2.75 to $3.25
+Ruining: folds
+Alex: calls $3.25
+Tiger: folds
+Stephan: calls $2.75
+*** FLOP *** [As 8d Ah]
+Stephan: checks
+Ben: checks
+Alex: checks
+*** TURN *** [As 8d Ah] [Qh]
+Stephan: bets $2.50
+Ben: calls $2.50
+Alex: calls $2.50
+*** RIVER *** [As 8d Ah Qh] [2d]
+Stephan: bets $12.50
+Ben: folds
+Alex: calls $12.50
+*** SHOW DOWN ***
+Stephan: shows [Jc Jh] (two pair, Aces and Jacks)
+Alex: shows [6c Qs] (two pair, Aces and Queens)
+Alex collected $42.50 from pot
+*** SUMMARY ***
+Total pot $42.50 | Rake $0
+Board [As 8d Ah Qh 2d]
+Seat 1: Alex (button) showed [6c Qs] and won ($42.50) with two pair, Aces and Queens
+Seat 2: Tiger (small blind) folded before Flop
+Seat 3: Stephan (big blind) showed [Jc Jh] and lost with two pair, Aces and Jacks
+Seat 4: Ben folded on the River
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002513:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:20:33 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($203.16 in chips)
+Seat 2: Tiger ($242.41 in chips)
+Seat 3: Stephan ($308.36 in chips)
+Seat 4: Ben ($285.18 in chips)
+Seat 7: Ruining ($110.89 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qd Jh]
+Ruining: folds
+Alex: raises $1.25 to $1.75
+Tiger: calls $1.75
+Stephan: calls $1.50
+Ben: calls $1.25
+*** FLOP *** [3s Th 6h]
+Stephan: checks
+Ben: checks
+Alex: checks
+Tiger: checks
+*** TURN *** [3s Th 6h] [Qs]
+Stephan: bets $1.50
+Ben: folds
+Alex: calls $1.50
+Tiger: raises $3.00 to $4.50
+Stephan: raises $3.00 to $7.50
+Alex: folds
+Tiger: calls $3.00
+*** RIVER *** [3s Th 6h Qs] [8c]
+Stephan: bets $0.50
+Tiger: calls $0.50
+*** SHOW DOWN ***
+Stephan: shows [9h 8h] (a pair of Eights)
+Tiger: shows [Qd Jh] (a pair of Queens)
+Tiger collected $24.50 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $0
+Board [3s Th 6h Qs 8c]
+Seat 1: Alex folded on the Turn
+Seat 2: Tiger (button) showed [Qd Jh] and won ($24.50) with a pair of Queens
+Seat 3: Stephan (small blind) showed [9h 8h] and lost with a pair of Eights
+Seat 4: Ben (big blind) folded on the Turn
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002514:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:21:49 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($199.91 in chips)
+Seat 2: Tiger ($257.16 in chips)
+Seat 3: Stephan ($298.61 in chips)
+Seat 4: Ben ($283.43 in chips)
+Seat 7: Ruining ($110.89 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8h 3h]
+Alex: raises $1.25 to $1.75
+Tiger: calls $1.75
+Stephan: calls $1.75
+Ben: calls $1.50
+Ruining: calls $1.25
+*** FLOP *** [Qc Jd Td]
+Ben: checks
+Ruining: checks
+Alex: checks
+Tiger: checks
+Stephan: bets $0.50
+Ben: calls $0.50
+Ruining: calls $0.50
+Alex: folds
+Tiger: calls $0.50
+*** TURN *** [Qc Jd Td] [8s]
+Ben: bets $10.75
+Ruining: folds
+Tiger: folds
+Stephan: calls $10.75
+*** RIVER *** [Qc Jd Td 8s] [Ac]
+Ben: checks
+Stephan: bets $36.63
+Ben: folds
+Uncalled bet ($36.63) returned to Stephan
+Stephan collected $32.25 from pot
+*** SUMMARY ***
+Total pot $32.25 | Rake $0
+Board [Qc Jd Td 8s Ac]
+Seat 1: Alex folded on the Flop
+Seat 2: Tiger folded on the Turn
+Seat 3: Stephan (button) collected ($32.25)
+Seat 4: Ben (small blind) folded on the River
+Seat 7: Ruining (big blind) folded on the Turn
+
+
+PokerStars Hand #250000002515:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:22:54 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($198.16 in chips)
+Seat 2: Tiger ($254.91 in chips)
+Seat 3: Stephan ($317.86 in chips)
+Seat 4: Ben ($270.43 in chips)
+Seat 7: Ruining ($108.64 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8h Qc]
+Tiger: folds
+Stephan: raises $2.00 to $2.50
+Ben: raises $5.75 to $8.25
+Ruining: folds
+Alex: folds
+Stephan: calls $5.75
+*** FLOP *** [4s Qd Ac]
+Stephan: bets $0.50
+Ben: raises $13.18 to $13.68
+Stephan: calls $13.18
+*** TURN *** [4s Qd Ac] [3s]
+Stephan: checks
+Ben: bets $22.30
+Stephan: calls $22.30
+*** RIVER *** [4s Qd Ac 3s] [Qs]
+Stephan: checks
+Ben: checks
+*** SHOW DOWN ***
+Stephan: shows [2s As] (a flush, Ace high)
+Stephan collected $89.21 from pot
+*** SUMMARY ***
+Total pot $89.21 | Rake $0
+Board [4s Qd Ac 3s Qs]
+Seat 1: Alex (big blind) folded before Flop
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan showed [2s As] and won ($89.21) with a flush, Ace high
+Seat 4: Ben (button) mucked
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002516:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:23:51 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($197.66 in chips)
+Seat 2: Tiger ($254.91 in chips)
+Seat 3: Stephan ($362.84 in chips)
+Seat 4: Ben ($226.20 in chips)
+Seat 7: Ruining ($108.39 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Js 3c]
+Stephan: calls $0.50
+Ben: folds
+Ruining: folds
+Alex: raises $1.50 to $2.00
+Tiger: folds
+Stephan: folds
+Uncalled bet ($1.50) returned to Alex
+Alex collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0
+Seat 1: Alex (small blind) collected ($1.50)
+Seat 2: Tiger (big blind) folded before Flop
+Seat 3: Stephan folded before Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002517:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:24:21 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($198.66 in chips)
+Seat 2: Tiger ($254.41 in chips)
+Seat 3: Stephan ($362.34 in chips)
+Seat 4: Ben ($226.20 in chips)
+Seat 7: Ruining ($108.39 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ah Jc]
+Ben: raises $2.75 to $3.25
+Ruining: folds
+Alex: calls $3.25
+Tiger: calls $3.00
+Stephan: folds
+*** FLOP *** [Td 9s 3c]
+Tiger: checks
+Ben: bets $7.68
+Alex: calls $7.68
+Tiger: folds
+*** TURN *** [Td 9s 3c] [6c]
+Ben: bets $25.61
+Alex: calls $25.61
+*** RIVER *** [Td 9s 3c 6c] [8c]
+Ben: checks
+Alex: checks
+*** SHOW DOWN ***
+Ben: shows [Qs Kd] (high card King)
+Alex: shows [Ts Ad] (a pair of Tens)
+Alex collected $76.83 from pot
+*** SUMMARY ***
+Total pot $76.83 | Rake $0
+Board [Td 9s 3c 6c 8c]
+Seat 1: Alex (button) showed [Ts Ad] and won ($76.83) with a pair of Tens
+Seat 2: Tiger (small blind) folded on the Flop
+Seat 3: Stephan (big blind) folded before Flop
+Seat 4: Ben showed [Qs Kd] and lost with high card King
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002518:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:25:20 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($238.95 in chips)
+Seat 2: Tiger ($251.16 in chips)
+Seat 3: Stephan ($361.84 in chips)
+Seat 4: Ben ($189.66 in chips)
+Seat 7: Ruining ($108.39 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3c 8d]
+Ruining: calls $0.50
+Alex: raises $1.75 to $2.25
+Tiger: folds
+Stephan: calls $2.00
+Ben: folds
+Ruining: calls $1.75
+*** FLOP *** [5h Qc 4c]
+Stephan: checks
+Ruining: checks
+Alex: checks
+*** TURN *** [5h Qc 4c] [6c]
+Stephan: checks
+Ruining: checks
+Alex: checks
+*** RIVER *** [5h Qc 4c 6c] [5s]
+Stephan: checks
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Stephan: shows [9s Jc] (a pair of Fives)
+Ruining: shows [2c 2d] (two pair, Fives and Deuces)
+Ruining collected $7.25 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0
+Board [5h Qc 4c 6c 5s]
+Seat 1: Alex mucked
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 3: Stephan (small blind) showed [9s Jc] and lost with a pair of Fives
+Seat 4: Ben (big blind) folded before Flop
+Seat 7: Ruining showed [2c 2d] and won ($7.25) with two pair, Fives and Deuces
+
+
+PokerStars Hand #250000002519:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:25:59 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($236.70 in chips)
+Seat 2: Tiger ($251.16 in chips)
+Seat 3: Stephan ($359.59 in chips)
+Seat 4: Ben ($189.16 in chips)
+Seat 7: Ruining ($113.39 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6d 5c]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Stephan: calls $1.75
+Ben: folds
+Ruining: calls $1.25
+*** FLOP *** [Kd 3d 5d]
+Ruining: checks
+Alex: bets $5.50
+Stephan: calls $5.50
+Ruining: folds
+*** TURN *** [Kd 3d 5d] [9h]
+Alex: bets $8.25
+Stephan: calls $8.25
+*** RIVER *** [Kd 3d 5d 9h] [Qh]
+Alex: bets $33.00
+Stephan: calls $33.00
+*** SHOW DOWN ***
+Alex: shows [Ks Js] (a pair of Kings)
+Alex collected $99.00 from pot
+*** SUMMARY ***
+Total pot $99.00 | Rake $0
+Board [Kd 3d 5d 9h Qh]
+Seat 1: Alex showed [Ks Js] and won ($99.00) with a pair of Kings
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan (button) mucked
+Seat 4: Ben (small blind) folded before Flop
+Seat 7: Ruining (big blind) folded on the Flop
+
+
+PokerStars Hand #250000002520:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:27:30 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($287.20 in chips)
+Seat 2: Tiger ($251.16 in chips)
+Seat 3: Stephan ($311.09 in chips)
+Seat 4: Ben ($188.91 in chips)
+Seat 7: Ruining ($111.64 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9c 6h]
+Tiger: folds
+Stephan: calls $0.50
+Ben: raises $2.25 to $2.75
+Ruining: calls $2.50
+Alex: calls $2.25
+Stephan: calls $2.25
+*** FLOP *** [3h Jc Qh]
+Ruining: checks
+Alex: checks
+Stephan: checks
+Ben: checks
+*** TURN *** [3h Jc Qh] [Jh]
+Ruining: checks
+Alex: checks
+Stephan: checks
+Ben: checks
+*** RIVER *** [3h Jc Qh Jh] [Th]
+Ruining: checks
+Alex: checks
+Stephan: checks
+Ben: checks
+*** SHOW DOWN ***
+Ruining: shows [7h 6c] (a flush, Queen high)
+Stephan: shows [Ah 4s] (a flush, Ace high)
+Stephan collected $11.00 from pot
+*** SUMMARY ***
+Total pot $11.00 | Rake $0
+Board [3h Jc Qh Jh Th]
+Seat 1: Alex (big blind) mucked
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan showed [Ah 4s] and won ($11.00) with a flush, Ace high
+Seat 4: Ben (button) mucked
+Seat 7: Ruining (small blind) showed [7h 6c] and lost with a flush, Queen high
+
+
+PokerStars Hand #250000002521:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:28:52 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($284.45 in chips)
+Seat 2: Tiger ($251.16 in chips)
+Seat 3: Stephan ($319.34 in chips)
+Seat 4: Ben ($386.16 in chips)
+Seat 7: Ruining ($108.89 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4c 7c]
+Stephan: folds
+Ben: folds
+Ruining: folds
+Alex: folds
+Uncalled bet ($0.25) returned to Tiger
+Tiger collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) collected ($0.50)
+Seat 3: Stephan folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002522:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:29:14 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($284.20 in chips)
+Seat 2: Tiger ($251.41 in chips)
+Seat 3: Stephan ($319.34 in chips)
+Seat 4: Ben ($386.16 in chips)
+Seat 7: Ruining ($108.89 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th Kd]
+Ben: raises $2.25 to $2.75
+Ruining: calls $2.75
+Alex: calls $2.75
+Tiger: calls $2.50
+Stephan: folds
+*** FLOP *** [Jd 8h Kc]
+Tiger: bets $5.75
+Ben: calls $5.75
+Ruining: folds
+Alex: folds
+*** TURN *** [Jd 8h Kc] [Ks]
+Tiger: bets $11.50
+Ben: folds
+Uncalled bet ($11.50) returned to Tiger
+Tiger collected $23.00 from pot
+*** SUMMARY ***
+Total pot $23.00 | Rake $0
+Board [Jd 8h Kc Ks]
+Seat 1: Alex (button) folded on the Flop
+Seat 2: Tiger (small blind) collected ($23.00)
+Seat 3: Stephan (big blind) folded before Flop
+Seat 4: Ben folded on the Turn
+Seat 7: Ruining folded on the Flop
+
+
+PokerStars Hand #250000002523:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:29:54 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($281.45 in chips)
+Seat 2: Tiger ($265.91 in chips)
+Seat 3: Stephan ($318.84 in chips)
+Seat 4: Ben ($377.66 in chips)
+Seat 7: Ruining ($106.14 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8d 9d]
+Ruining: raises $1.25 to $1.75
+Alex: folds
+Tiger: calls $1.75
+Stephan: folds
+Ben: folds
+*** FLOP *** [8s 7h 5h]
+Ruining: bets $3.18
+Tiger: calls $3.18
+*** TURN *** [8s 7h 5h] [As]
+Ruining: bets $5.30
+Tiger: calls $5.30
+*** RIVER *** [8s 7h 5h As] [Kc]
+Ruining: checks
+Tiger: checks
+*** SHOW DOWN ***
+Ruining: shows [4c 4h] (a pair of Fours)
+Tiger: shows [8d 9d] (a pair of Eights)
+Tiger collected $21.21 from pot
+*** SUMMARY ***
+Total pot $21.21 | Rake $0
+Board [8s 7h 5h As Kc]
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger (button) showed [8d 9d] and won ($21.21) with a pair of Eights
+Seat 3: Stephan (small blind) folded before Flop
+Seat 4: Ben (big blind) folded before Flop
+Seat 7: Ruining showed [4c 4h] and lost with a pair of Fours
+
+
+PokerStars Hand #250000002524:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:30:30 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($281.45 in chips)
+Seat 2: Tiger ($276.89 in chips)
+Seat 3: Stephan ($318.59 in chips)
+Seat 4: Ben ($377.16 in chips)
+Seat 7: Ruining ($95.91 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7s Ks]
+Alex: raises $1.25 to $1.75
+Tiger: calls $1.75
+Stephan: calls $1.75
+Ben: calls $1.50
+Ruining: calls $1.25
+*** FLOP *** [2s Qc 7d]
+Ben: bets $6.56
+Ruining: folds
+Alex: folds
+Tiger: calls $6.56
+Stephan: folds
+*** TURN *** [2s Qc 7d] [7c]
+Ben: checks
+Tiger: checks
+*** RIVER *** [2s Qc 7d 7c] [5s]
+Ben: bets $10.93
+Tiger: raises $10.93 to $21.86
+Ben: calls $10.93
+*** SHOW DOWN ***
+Tiger: shows [7s Ks] (three of a kind, Sevens)
+Tiger collected $65.59 from pot
+*** SUMMARY ***
+Total pot $65.59 | Rake $0
+Board [2s Qc 7d 7c 5s]
+Seat 1: Alex folded on the Flop
+Seat 2: Tiger showed [7s Ks] and won ($65.59) with three of a kind, Sevens
+Seat 3: Stephan (button) folded on the Flop
+Seat 4: Ben (small blind) mucked
+Seat 7: Ruining (big blind) folded on the Flop
+
+
+PokerStars Hand #250000002525:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:31:55 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($279.70 in chips)
+Seat 2: Tiger ($312.31 in chips)
+Seat 3: Stephan ($316.84 in chips)
+Seat 4: Ben ($346.99 in chips)
+Seat 7: Ruining ($94.16 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ts Ks]
+Tiger: calls $0.50
+Stephan: calls $0.50
+Ben: raises $4.75 to $5.25
+Ruining: folds
+Alex: calls $4.75
+Tiger: calls $4.75
+Stephan: calls $4.75
+*** FLOP *** [6s 2h 6d]
+Alex: checks
+Tiger: checks
+Stephan: checks
+Ben: bets $15.93
+Alex: folds
+Tiger: folds
+Stephan: folds
+Uncalled bet ($15.93) returned to Ben
+Ben collected $21.25 from pot
+*** SUMMARY ***
+Total pot $21.25 | Rake $0
+Board [6s 2h 6d]
+Seat 1: Alex (big blind) folded on the Flop
+Seat 2: Tiger folded on the Flop
+Seat 3: Stephan folded on the Flop
+Seat 4: Ben (button) collected ($21.25)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002526:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:32:36 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($274.45 in chips)
+Seat 2: Tiger ($307.06 in chips)
+Seat 3: Stephan ($311.59 in chips)
+Seat 4: Ben ($362.99 in chips)
+Seat 7: Ruining ($93.91 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7c 9h]
+Stephan: folds
+Ben: raises $3.25 to $3.75
+Ruining: calls $3.75
+Alex: folds
+Tiger: folds
+*** FLOP *** [4d 5h Ac]
+Ben: bets $4.12
+Ruining: folds
+Uncalled bet ($4.12) returned to Ben
+Ben collected $8.25 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0
+Board [4d 5h Ac]
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) folded before Flop
+Seat 3: Stephan folded before Flop (didn't bet)
+Seat 4: Ben collected ($8.25)
+Seat 7: Ruining (button) folded on the Flop
+
+
+PokerStars Hand #250000002527:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:33:06 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($274.20 in chips)
+Seat 2: Tiger ($306.56 in chips)
+Seat 3: Stephan ($311.59 in chips)
+Seat 4: Ben ($367.49 in chips)
+Seat 7: Ruining ($90.16 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6s 2d]
+Ben: folds
+Ruining: folds
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Stephan: folds
+Uncalled bet ($1.25) returned to Alex
+Alex collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Alex (button) collected ($1.25)
+Seat 2: Tiger (small blind) folded before Flop
+Seat 3: Stephan (big blind) folded before Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002528:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:33:22 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($274.95 in chips)
+Seat 2: Tiger ($306.31 in chips)
+Seat 3: Stephan ($311.09 in chips)
+Seat 4: Ben ($367.49 in chips)
+Seat 7: Ruining ($90.16 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9c Td]
+Ruining: raises $1.25 to $1.75
+Alex: calls $1.75
+Tiger: folds
+Stephan: folds
+Ben: calls $1.25
+*** FLOP *** [8d Kh 6c]
+Ben: checks
+Ruining: checks
+Alex: checks
+*** TURN *** [8d Kh 6c] [4s]
+Ben: bets $5.50
+Ruining: calls $5.50
+Alex: folds
+*** RIVER *** [8d Kh 6c 4s] [As]
+Ben: checks
+Ruining: bets $12.37
+Ben: folds
+Uncalled bet ($12.37) returned to Ruining
+Ruining collected $16.50 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0
+Board [8d Kh 6c 4s As]
+Seat 1: Alex folded on the Turn
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 3: Stephan (small blind) folded before Flop
+Seat 4: Ben (big blind) folded on the River
+Seat 7: Ruining collected ($16.50)
+
+
+PokerStars Hand #250000002529:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:34:30 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($273.20 in chips)
+Seat 2: Tiger ($306.31 in chips)
+Seat 3: Stephan ($310.84 in chips)
+Seat 4: Ben ($360.24 in chips)
+Seat 7: Ruining ($99.41 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th 8c]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Stephan: folds
+Ben: folds
+Ruining: raises $3.75 to $5.50
+Alex: calls $3.75
+*** FLOP *** [Qs Ts Jc]
+Ruining: bets $5.62
+Alex: folds
+Uncalled bet ($5.62) returned to Ruining
+Ruining collected $11.25 from pot
+*** SUMMARY ***
+Total pot $11.25 | Rake $0
+Board [Qs Ts Jc]
+Seat 1: Alex folded on the Flop
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) folded before Flop
+Seat 7: Ruining (big blind) collected ($11.25)
+
+
+PokerStars Hand #250000002530:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:35:09 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($267.70 in chips)
+Seat 2: Tiger ($306.31 in chips)
+Seat 3: Stephan ($310.84 in chips)
+Seat 4: Ben ($359.99 in chips)
+Seat 7: Ruining ($105.16 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9c 6d]
+Tiger: folds
+Stephan: calls $0.50
+Ben: raises $4.25 to $4.75
+Ruining: folds
+Alex: calls $4.25
+Stephan: calls $4.25
+*** FLOP *** [5d 9h 4h]
+Alex: checks
+Stephan: checks
+Ben: checks
+*** TURN *** [5d 9h 4h] [Ks]
+Alex: checks
+Stephan: checks
+Ben: bets $35.00
+Alex: folds
+Stephan: folds
+Uncalled bet ($35.00) returned to Ben
+Ben collected $14.50 from pot
+*** SUMMARY ***
+Total pot $14.50 | Rake $0
+Board [5d 9h 4h Ks]
+Seat 1: Alex (big blind) folded on the Turn
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan folded on the Turn
+Seat 4: Ben (button) collected ($14.50)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002531:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:36:13 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($262.95 in chips)
+Seat 2: Tiger ($306.31 in chips)
+Seat 3: Stephan ($306.09 in chips)
+Seat 4: Ben ($369.74 in chips)
+Seat 7: Ruining ($104.91 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8s 2s]
+Stephan: folds
+Ben: raises $3.75 to $4.25
+Ruining: raises $9.25 to $13.50
+Alex: folds
+Tiger: folds
+Ben: calls $9.25
+*** FLOP *** [Ks 7d 2c]
+Ben: checks
+Ruining: bets $13.87
+Ben: calls $13.87
+*** TURN *** [Ks 7d 2c] [Jh]
+Ben: checks
+Ruining: bets $77.54 and is all-in
+Ben: calls $77.54
+*** RIVER *** [Ks 7d 2c Jh] [Jc]
+*** SHOW DOWN ***
+Ben: shows [Kc 7c] (two pair, Kings and Jacks)
+Ruining: shows [Js Ad] (three of a kind, Jacks)
+Ruining collected $210.57 from pot
+*** SUMMARY ***
+Total pot $210.57 | Rake $0
+Board [Ks 7d 2c Jh Jc]
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) folded before Flop
+Seat 3: Stephan folded before Flop (didn't bet)
+Seat 4: Ben showed [Kc 7c] and lost with two pair, Kings and Jacks
+Seat 7: Ruining (button) showed [Js Ad] and won ($210.57) with three of a kind, Jacks
+
+
+PokerStars Hand #250000002532:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:37:00 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($262.70 in chips)
+Seat 2: Tiger ($305.81 in chips)
+Seat 3: Stephan ($306.09 in chips)
+Seat 7: Ruining ($210.57 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8s 5c]
+Ruining: folds
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Stephan: calls $1.25
+*** FLOP *** [Ah Kc 3s]
+Stephan: checks
+Alex: checks
+*** TURN *** [Ah Kc 3s] [6c]
+Stephan: checks
+Alex: checks
+*** RIVER *** [Ah Kc 3s 6c] [5s]
+Stephan: checks
+Alex: checks
+*** SHOW DOWN ***
+Stephan: shows [Qd 9s] (high card Ace)
+Stephan collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [Ah Kc 3s 6c 5s]
+Seat 1: Alex (button) mucked
+Seat 2: Tiger (small blind) folded before Flop
+Seat 3: Stephan (big blind) showed [Qd 9s] and won ($3.75) with high card Ace
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002533:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:37:55 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($260.95 in chips)
+Seat 2: Tiger ($305.56 in chips)
+Seat 3: Stephan ($308.09 in chips)
+Seat 4: Ben ($700.00 in chips)
+Seat 7: Ruining ($210.57 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3h Qs]
+Ruining: folds
+Alex: folds
+Tiger: folds
+Stephan: folds
+Uncalled bet ($0.25) returned to Ben
+Ben collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 3: Stephan (small blind) folded before Flop
+Seat 4: Ben (big blind) collected ($0.50)
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002534:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:38:12 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($260.95 in chips)
+Seat 2: Tiger ($305.56 in chips)
+Seat 3: Stephan ($307.84 in chips)
+Seat 4: Ben ($700.25 in chips)
+Seat 7: Ruining ($210.57 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5h Ad]
+Alex: folds
+Tiger: calls $0.50
+Stephan: folds
+Ben: raises $4.50 to $5.00
+Ruining: calls $4.50
+Tiger: folds
+*** FLOP *** [Qh Js 6h]
+Ben: checks
+Ruining: bets $5.25
+Ben: folds
+Uncalled bet ($5.25) returned to Ruining
+Ruining collected $10.50 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0
+Board [Qh Js 6h]
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger folded before Flop
+Seat 3: Stephan (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) folded on the Flop
+Seat 7: Ruining (big blind) collected ($10.50)
+
+
+PokerStars Hand #250000002535:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:39:16 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($260.95 in chips)
+Seat 2: Tiger ($305.06 in chips)
+Seat 3: Stephan ($307.84 in chips)
+Seat 4: Ben ($695.25 in chips)
+Seat 7: Ruining ($216.07 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ts Jc]
+Tiger: calls $0.50
+Stephan: calls $0.50
+Ben: raises $4.75 to $5.25
+Ruining: folds
+Alex: folds
+Tiger: calls $4.75
+Stephan: folds
+*** FLOP *** [5s 3s 5c]
+Tiger: checks
+Ben: bets $11.75
+Tiger: folds
+Uncalled bet ($11.75) returned to Ben
+Ben collected $11.75 from pot
+*** SUMMARY ***
+Total pot $11.75 | Rake $0
+Board [5s 3s 5c]
+Seat 1: Alex (big blind) folded before Flop
+Seat 2: Tiger folded on the Flop
+Seat 3: Stephan folded before Flop
+Seat 4: Ben (button) collected ($11.75)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002536:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:39:52 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($260.45 in chips)
+Seat 2: Tiger ($299.81 in chips)
+Seat 3: Stephan ($307.34 in chips)
+Seat 4: Ben ($701.75 in chips)
+Seat 7: Ruining ($215.82 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kc Qh]
+Stephan: calls $0.50
+Ben: raises $6.50 to $7.00
+Ruining: folds
+Alex: folds
+Tiger: calls $6.50
+Stephan: calls $6.50
+*** FLOP *** [9h 4h Ts]
+Tiger: checks
+Stephan: checks
+Ben: bets $11.12
+Tiger: calls $11.12
+Stephan: folds
+*** TURN *** [9h 4h Ts] [9c]
+Tiger: checks
+Ben: bets $43.49
+Tiger: folds
+Uncalled bet ($43.49) returned to Ben
+Ben collected $43.49 from pot
+*** SUMMARY ***
+Total pot $43.49 | Rake $0
+Board [9h 4h Ts 9c]
+Seat 1: Alex (small blind) folded before Flop
+Seat 2: Tiger (big blind) folded on the Turn
+Seat 3: Stephan folded on the Flop
+Seat 4: Ben collected ($43.49)
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002537:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:40:48 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($260.20 in chips)
+Seat 2: Tiger ($281.69 in chips)
+Seat 3: Stephan ($300.34 in chips)
+Seat 4: Ben ($727.12 in chips)
+Seat 7: Ruining ($215.82 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4d 6c]
+Ben: folds
+Ruining: raises $1.25 to $1.75
+Alex: calls $1.75
+Tiger: folds
+Stephan: calls $1.25
+*** FLOP *** [8c 3h 4h]
+Stephan: checks
+Ruining: bets $2.75
+Alex: folds
+Stephan: calls $2.75
+*** TURN *** [8c 3h 4h] [Th]
+Stephan: checks
+Ruining: bets $8.25
+Stephan: calls $8.25
+*** RIVER *** [8c 3h 4h Th] [Qc]
+Stephan: checks
+Ruining: checks
+*** SHOW DOWN ***
+Stephan: shows [5d 2d] (high card Queen)
+Ruining: shows [Td As] (a pair of Tens)
+Ruining collected $27.50 from pot
+*** SUMMARY ***
+Total pot $27.50 | Rake $0
+Board [8c 3h 4h Th Qc]
+Seat 1: Alex (button) folded on the Flop
+Seat 2: Tiger (small blind) folded before Flop
+Seat 3: Stephan (big blind) showed [5d 2d] and lost with high card Queen
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 7: Ruining showed [Td As] and won ($27.50) with a pair of Tens
+
+
+PokerStars Hand #250000002538:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:41:49 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($258.45 in chips)
+Seat 2: Tiger ($281.44 in chips)
+Seat 3: Stephan ($287.59 in chips)
+Seat 4: Ben ($727.12 in chips)
+Seat 7: Ruining ($230.57 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ks 9c]
+Ruining: folds
+Alex: folds
+Tiger: calls $0.50
+Stephan: folds
+Ben: raises $2.75 to $3.25
+Tiger: calls $2.75
+*** FLOP *** [6h Jc Ts]
+Ben: checks
+Tiger: checks
+*** TURN *** [6h Jc Ts] [7s]
+Ben: bets $3.37
+Tiger: calls $3.37
+*** RIVER *** [6h Jc Ts 7s] [Qd]
+Ben: checks
+Tiger: bets $10.11
+Ben: folds
+Uncalled bet ($10.11) returned to Tiger
+Tiger collected $13.49 from pot
+*** SUMMARY ***
+Total pot $13.49 | Rake $0
+Board [6h Jc Ts 7s Qd]
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger (button) collected ($13.49)
+Seat 3: Stephan (small blind) folded before Flop
+Seat 4: Ben (big blind) folded on the River
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002539:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:42:29 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($258.45 in chips)
+Seat 2: Tiger ($288.31 in chips)
+Seat 3: Stephan ($287.34 in chips)
+Seat 4: Ben ($720.50 in chips)
+Seat 7: Ruining ($230.57 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qd Jc]
+Alex: calls $0.50
+Tiger: calls $0.50
+Stephan: raises $2.50 to $3.00
+Ben: raises $7.50 to $10.50
+Ruining: folds
+Alex: folds
+Tiger: folds
+Stephan: calls $7.50
+*** FLOP *** [Js 4d 4c]
+Ben: bets $16.87
+Stephan: calls $16.87
+*** TURN *** [Js 4d 4c] [Kh]
+Ben: checks
+Stephan: checks
+*** RIVER *** [Js 4d 4c Kh] [9d]
+Ben: bets $28.12
+Stephan: calls $28.12
+*** SHOW DOWN ***
+Ben: shows [6d Jd] (two pair, Jacks and Fours)
+Ben collected $112.48 from pot
+*** SUMMARY ***
+Total pot $112.48 | Rake $0
+Board [Js 4d 4c Kh 9d]
+Seat 1: Alex folded before Flop
+Seat 2: Tiger folded before Flop
+Seat 3: Stephan (button) mucked
+Seat 4: Ben (small blind) showed [6d Jd] and won ($112.48) with two pair, Jacks and Fours
+Seat 7: Ruining (big blind) folded before Flop
+
+
+PokerStars Hand #250000002540:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:43:22 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($257.95 in chips)
+Seat 2: Tiger ($287.81 in chips)
+Seat 3: Stephan ($231.85 in chips)
+Seat 4: Ben ($777.49 in chips)
+Seat 7: Ruining ($230.07 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Td Qh]
+Tiger: calls $0.50
+Stephan: calls $0.50
+Ben: raises $6.16 to $6.66
+Ruining: folds
+Alex: folds
+Tiger: calls $6.16
+Stephan: calls $6.16
+*** FLOP *** [9h 6h 5h]
+Tiger: checks
+Stephan: checks
+Ben: checks
+*** TURN *** [9h 6h 5h] [Ac]
+Tiger: checks
+Stephan: checks
+Ben: bets $20.73
+Tiger: folds
+Stephan: folds
+Uncalled bet ($20.73) returned to Ben
+Ben collected $20.73 from pot
+*** SUMMARY ***
+Total pot $20.73 | Rake $0
+Board [9h 6h 5h Ac]
+Seat 1: Alex (big blind) folded before Flop
+Seat 2: Tiger folded on the Turn
+Seat 3: Stephan folded on the Turn
+Seat 4: Ben (button) collected ($20.73)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002541:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:44:27 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($257.45 in chips)
+Seat 2: Tiger ($281.15 in chips)
+Seat 3: Stephan ($225.19 in chips)
+Seat 4: Ben ($791.56 in chips)
+Seat 7: Ruining ($229.82 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5c Ah]
+Stephan: calls $0.50
+Ben: raises $7.50 to $8.00
+Ruining: folds
+Alex: calls $7.75
+Tiger: folds
+Stephan: folds
+*** FLOP *** [4s Qh 8c]
+Alex: checks
+Ben: checks
+*** TURN *** [4s Qh 8c] [Ks]
+Alex: checks
+Ben: checks
+*** RIVER *** [4s Qh 8c Ks] [6s]
+Alex: checks
+Ben: checks
+*** SHOW DOWN ***
+Alex: shows [6d Td] (a pair of Sixes)
+Alex collected $17.00 from pot
+*** SUMMARY ***
+Total pot $17.00 | Rake $0
+Board [4s Qh 8c Ks 6s]
+Seat 1: Alex (small blind) showed [6d Td] and won ($17.00) with a pair of Sixes
+Seat 2: Tiger (big blind) folded before Flop
+Seat 3: Stephan folded before Flop
+Seat 4: Ben mucked
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002542:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:45:26 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($266.45 in chips)
+Seat 2: Tiger ($280.65 in chips)
+Seat 3: Stephan ($224.69 in chips)
+Seat 4: Ben ($783.56 in chips)
+Seat 7: Ruining ($229.82 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6c As]
+Ben: folds
+Ruining: raises $1.25 to $1.75
+Alex: calls $1.75
+Tiger: calls $1.50
+Stephan: calls $1.25
+*** FLOP *** [4s 8h 8s]
+Tiger: checks
+Stephan: checks
+Ruining: bets $3.50
+Alex: folds
+Tiger: folds
+Stephan: calls $3.50
+*** TURN *** [4s 8h 8s] [Jd]
+Stephan: checks
+Ruining: checks
+*** RIVER *** [4s 8h 8s Jd] [4h]
+Stephan: checks
+Ruining: bets $7.00
+Stephan: calls $7.00
+*** SHOW DOWN ***
+Ruining: shows [Kc 7c] (two pair, Eights and Fours)
+Stephan: shows [Qd Ad] (two pair, Eights and Fours)
+Stephan collected $28.00 from pot
+*** SUMMARY ***
+Total pot $28.00 | Rake $0
+Board [4s 8h 8s Jd 4h]
+Seat 1: Alex (button) folded on the Flop
+Seat 2: Tiger (small blind) folded on the Flop
+Seat 3: Stephan (big blind) showed [Qd Ad] and won ($28.00) with two pair, Eights and Fours
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 7: Ruining showed [Kc 7c] and lost with two pair, Eights and Fours
+
+
+PokerStars Hand #250000002543:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:46:16 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($264.70 in chips)
+Seat 2: Tiger ($278.90 in chips)
+Seat 3: Stephan ($240.44 in chips)
+Seat 4: Ben ($783.56 in chips)
+Seat 7: Ruining ($217.57 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kd Qd]
+Ruining: calls $0.50
+Alex: folds
+Tiger: calls $0.50
+Stephan: folds
+Ben: raises $6.50 to $7.00
+Ruining: folds
+Tiger: calls $6.50
+*** FLOP *** [6s Ad 9h]
+Ben: bets $5.37
+Tiger: calls $5.37
+*** TURN *** [6s Ad 9h] [3s]
+Ben: bets $12.24
+Tiger: folds
+Uncalled bet ($12.24) returned to Ben
+Ben collected $25.49 from pot
+*** SUMMARY ***
+Total pot $25.49 | Rake $0
+Board [6s Ad 9h 3s]
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger (button) folded on the Turn
+Seat 3: Stephan (small blind) folded before Flop
+Seat 4: Ben (big blind) collected ($25.49)
+Seat 7: Ruining folded before Flop
+
+
+PokerStars Hand #250000002544:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:47:05 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($264.70 in chips)
+Seat 2: Tiger ($266.53 in chips)
+Seat 3: Stephan ($240.19 in chips)
+Seat 4: Ben ($796.68 in chips)
+Seat 7: Ruining ($217.07 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3s Ac]
+Alex: raises $1.25 to $1.75
+Tiger: folds
+Stephan: folds
+Ben: raises $10.25 to $12.00
+Ruining: folds
+Alex: calls $10.25
+*** FLOP *** [9s 2c 9d]
+Ben: bets $12.25
+Alex: folds
+Uncalled bet ($12.25) returned to Ben
+Ben collected $24.50 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $0
+Board [9s 2c 9d]
+Seat 1: Alex folded on the Flop
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) collected ($24.50)
+Seat 7: Ruining (big blind) folded before Flop
+
+
+PokerStars Hand #250000002545:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:47:49 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($252.70 in chips)
+Seat 2: Tiger ($266.53 in chips)
+Seat 3: Stephan ($240.19 in chips)
+Seat 4: Ben ($809.18 in chips)
+Seat 7: Ruining ($216.57 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h Ks]
+Tiger: folds
+Stephan: calls $0.50
+Ben: folds
+Ruining: folds
+Alex: checks
+*** FLOP *** [7d 3s Qs]
+Alex: checks
+Stephan: bets $0.50
+Alex: calls $0.50
+*** TURN *** [7d 3s Qs] [Jh]
+Alex: checks
+Stephan: bets $0.50
+Alex: calls $0.50
+*** RIVER *** [7d 3s Qs Jh] [Kh]
+Alex: checks
+Stephan: bets $0.50
+Alex: folds
+Uncalled bet ($0.50) returned to Stephan
+Stephan collected $3.25 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0
+Board [7d 3s Qs Jh Kh]
+Seat 1: Alex (big blind) folded on the River
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan collected ($3.25)
+Seat 4: Ben (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) folded before Flop
+
+
+PokerStars Hand #250000002546:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:48:28 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($251.20 in chips)
+Seat 2: Tiger ($266.53 in chips)
+Seat 3: Stephan ($241.94 in chips)
+Seat 4: Ben ($809.18 in chips)
+Seat 7: Ruining ($216.32 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6h 7c]
+Stephan: folds
+Ben: calls $0.50
+Ruining: calls $0.50
+Alex: raises $2.00 to $2.50
+Tiger: folds
+Ben: calls $2.00
+Ruining: calls $2.00
+*** FLOP *** [9d Ks 9h]
+Alex: bets $6.00
+Ben: folds
+Ruining: folds
+Uncalled bet ($6.00) returned to Alex
+Alex collected $8.00 from pot
+*** SUMMARY ***
+Total pot $8.00 | Rake $0
+Board [9d Ks 9h]
+Seat 1: Alex (small blind) collected ($8.00)
+Seat 2: Tiger (big blind) folded before Flop
+Seat 3: Stephan folded before Flop (didn't bet)
+Seat 4: Ben folded on the Flop
+Seat 7: Ruining (button) folded on the Flop
+
+
+PokerStars Hand #250000002547:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:49:15 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($256.70 in chips)
+Seat 2: Tiger ($266.03 in chips)
+Seat 3: Stephan ($241.94 in chips)
+Seat 4: Ben ($806.68 in chips)
+Seat 7: Ruining ($213.82 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jh 8c]
+Ben: raises $2.75 to $3.25
+Ruining: calls $3.25
+Alex: calls $3.25
+Tiger: folds
+Stephan: calls $2.75
+*** FLOP *** [Jd 5d Kc]
+Stephan: checks
+Ben: checks
+Ruining: checks
+Alex: checks
+*** TURN *** [Jd 5d Kc] [Th]
+Stephan: checks
+Ben: checks
+Ruining: checks
+Alex: checks
+*** RIVER *** [Jd 5d Kc Th] [9d]
+Stephan: bets $72.59
+Ben: folds
+Ruining: folds
+Alex: folds
+Uncalled bet ($72.59) returned to Stephan
+Stephan collected $13.25 from pot
+*** SUMMARY ***
+Total pot $13.25 | Rake $0
+Board [Jd 5d Kc Th 9d]
+Seat 1: Alex (button) folded on the River
+Seat 2: Tiger (small blind) folded before Flop
+Seat 3: Stephan (big blind) collected ($13.25)
+Seat 4: Ben folded on the River
+Seat 7: Ruining folded on the River
+
+
+PokerStars Hand #250000002548:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:50:52 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($253.45 in chips)
+Seat 2: Tiger ($265.78 in chips)
+Seat 3: Stephan ($251.94 in chips)
+Seat 4: Ben ($803.43 in chips)
+Seat 7: Ruining ($210.57 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5c Qc]
+Ruining: calls $0.50
+Alex: folds
+Tiger: calls $0.50
+Stephan: calls $0.25
+Ben: raises $6.50 to $7.00
+Ruining: calls $6.50
+Tiger: folds
+Stephan: calls $6.50
+*** FLOP *** [8h 7c 8d]
+Stephan: checks
+Ben: checks
+Ruining: bets $0.50
+Stephan: calls $0.50
+Ben: calls $0.50
+*** TURN *** [8h 7c 8d] [6s]
+Stephan: checks
+Ben: checks
+Ruining: bets $11.50
+Stephan: folds
+Ben: calls $11.50
+*** RIVER *** [8h 7c 8d 6s] [2h]
+Ben: checks
+Ruining: checks
+*** SHOW DOWN ***
+Ben: shows [Qd 9h] (a pair of Eights)
+Ruining: shows [Jc Ks] (a pair of Eights)
+Ruining collected $46.00 from pot
+*** SUMMARY ***
+Total pot $46.00 | Rake $0
+Board [8h 7c 8d 6s 2h]
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger (button) folded before Flop
+Seat 3: Stephan (small blind) folded on the Turn
+Seat 4: Ben (big blind) showed [Qd 9h] and lost with a pair of Eights
+Seat 7: Ruining showed [Jc Ks] and won ($46.00) with a pair of Eights
+
+
+PokerStars Hand #250000002549:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:52:10 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($253.45 in chips)
+Seat 2: Tiger ($265.28 in chips)
+Seat 3: Stephan ($244.44 in chips)
+Seat 4: Ben ($784.43 in chips)
+Seat 7: Ruining ($237.57 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qh Jc]
+Alex: raises $2.25 to $2.75
+Tiger: calls $2.75
+Stephan: folds
+Ben: folds
+Ruining: raises $6.37 to $9.12
+Alex: calls $6.37
+Tiger: folds
+*** FLOP *** [Qd 7h 9c]
+Ruining: bets $10.62
+Alex: folds
+Uncalled bet ($10.62) returned to Ruining
+Ruining collected $21.24 from pot
+*** SUMMARY ***
+Total pot $21.24 | Rake $0
+Board [Qd 7h 9c]
+Seat 1: Alex folded on the Flop
+Seat 2: Tiger folded before Flop
+Seat 3: Stephan (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) folded before Flop
+Seat 7: Ruining (big blind) collected ($21.24)
+
+
+PokerStars Hand #250000002550:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:52:54 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($244.33 in chips)
+Seat 2: Tiger ($262.53 in chips)
+Seat 3: Stephan ($244.44 in chips)
+Seat 4: Ben ($784.18 in chips)
+Seat 7: Ruining ($249.69 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kd Qh]
+Tiger: calls $0.50
+Stephan: calls $0.50
+Ben: folds
+Ruining: calls $0.25
+Alex: checks
+*** FLOP *** [Qc Jh Ad]
+Ruining: checks
+Alex: checks
+Tiger: checks
+Stephan: checks
+*** TURN *** [Qc Jh Ad] [4h]
+Ruining: checks
+Alex: checks
+Tiger: bets $2.00
+Stephan: raises $4.00 to $6.00
+Ruining: folds
+Alex: folds
+Tiger: calls $4.00
+*** RIVER *** [Qc Jh Ad 4h] [Ah]
+Tiger: bets $7.00
+Stephan: raises $15.56 to $22.56
+Tiger: folds
+Uncalled bet ($15.56) returned to Stephan
+Stephan collected $28.00 from pot
+*** SUMMARY ***
+Total pot $28.00 | Rake $0
+Board [Qc Jh Ad 4h Ah]
+Seat 1: Alex (big blind) folded on the Turn
+Seat 2: Tiger folded on the River
+Seat 3: Stephan collected ($28.00)
+Seat 4: Ben (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) folded on the Turn
+
+
+PokerStars Hand #250000002551:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:54:00 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($243.83 in chips)
+Seat 2: Tiger ($249.03 in chips)
+Seat 3: Stephan ($258.94 in chips)
+Seat 4: Ben ($784.18 in chips)
+Seat 7: Ruining ($249.19 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qs 4c]
+Stephan: calls $0.50
+Ben: raises $6.50 to $7.00
+Ruining: folds
+Alex: calls $6.75
+Tiger: folds
+Stephan: calls $6.50
+*** FLOP *** [8h 4d Ac]
+Alex: checks
+Stephan: checks
+Ben: bets $10.75
+Alex: folds
+Stephan: calls $10.75
+*** TURN *** [8h 4d Ac] [5h]
+Stephan: checks
+Ben: checks
+*** RIVER *** [8h 4d Ac 5h] [Ah]
+Stephan: checks
+Ben: checks
+*** SHOW DOWN ***
+Stephan: shows [7h 6h] (a flush, Ace high)
+Stephan collected $43.00 from pot
+*** SUMMARY ***
+Total pot $43.00 | Rake $0
+Board [8h 4d Ac 5h Ah]
+Seat 1: Alex (small blind) folded on the Flop
+Seat 2: Tiger (big blind) folded before Flop
+Seat 3: Stephan showed [7h 6h] and won ($43.00) with a flush, Ace high
+Seat 4: Ben mucked
+Seat 7: Ruining (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002552:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:55:18 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($236.83 in chips)
+Seat 2: Tiger ($248.53 in chips)
+Seat 3: Stephan ($284.19 in chips)
+Seat 4: Ben ($766.43 in chips)
+Seat 7: Ruining ($249.19 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8h 9s]
+Ben: raises $3.25 to $3.75
+Ruining: calls $3.75
+Alex: calls $3.75
+Tiger: folds
+Stephan: folds
+*** FLOP *** [7d 5s Jh]
+Ben: checks
+Ruining: bets $6.00
+Alex: folds
+Ben: folds
+Uncalled bet ($6.00) returned to Ruining
+Ruining collected $12.00 from pot
+*** SUMMARY ***
+Total pot $12.00 | Rake $0
+Board [7d 5s Jh]
+Seat 1: Alex (button) folded on the Flop
+Seat 2: Tiger (small blind) folded before Flop
+Seat 3: Stephan (big blind) folded before Flop
+Seat 4: Ben folded on the Flop
+Seat 7: Ruining collected ($12.00)
+
+
+PokerStars Hand #250000002553:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:56:02 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($233.08 in chips)
+Seat 2: Tiger ($248.28 in chips)
+Seat 3: Stephan ($283.69 in chips)
+Seat 4: Ben ($762.68 in chips)
+Seat 7: Ruining ($257.44 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6c Ah]
+Ruining: folds
+Alex: folds
+Tiger: folds
+Stephan: calls $0.25
+Ben: raises $5.50 to $6.00
+Stephan: folds
+Uncalled bet ($5.50) returned to Ben
+Ben collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 3: Stephan (small blind) folded before Flop
+Seat 4: Ben (big blind) collected ($1.00)
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002554:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:56:43 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($233.08 in chips)
+Seat 2: Tiger ($248.28 in chips)
+Seat 3: Stephan ($283.19 in chips)
+Seat 4: Ben ($763.18 in chips)
+Seat 7: Ruining ($257.44 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jc Jh]
+Alex: raises $1.25 to $1.75
+Tiger: calls $1.75
+Stephan: folds
+Ben: raises $8.25 to $10.00
+Ruining: folds
+Alex: calls $8.25
+Tiger: calls $8.25
+*** FLOP *** [5d 2s 8d]
+Ben: bets $22.87
+Alex: folds
+Tiger: calls $22.87
+*** TURN *** [5d 2s 8d] [9c]
+Ben: bets $38.12
+Tiger: calls $38.12
+*** RIVER *** [5d 2s 8d 9c] [6h]
+Ben: checks
+Tiger: checks
+*** SHOW DOWN ***
+Ben: shows [As 8s] (a pair of Eights)
+Tiger: shows [Jc Jh] (a pair of Jacks)
+Tiger collected $152.48 from pot
+*** SUMMARY ***
+Total pot $152.48 | Rake $0
+Board [5d 2s 8d 9c 6h]
+Seat 1: Alex folded on the Flop
+Seat 2: Tiger showed [Jc Jh] and won ($152.48) with a pair of Jacks
+Seat 3: Stephan (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) showed [As 8s] and lost with a pair of Eights
+Seat 7: Ruining (big blind) folded before Flop
+
+
+PokerStars Hand #250000002555:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:57:33 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($223.08 in chips)
+Seat 2: Tiger ($329.77 in chips)
+Seat 3: Stephan ($283.19 in chips)
+Seat 4: Ben ($692.19 in chips)
+Seat 7: Ruining ($256.94 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [As 3c]
+Tiger: folds
+Stephan: calls $0.50
+Ben: folds
+Ruining: raises $1.50 to $2.00
+Alex: raises $3.37 to $5.37
+Stephan: calls $4.87
+Ruining: raises $16.11 to $21.48
+Alex: calls $16.11
+Stephan: calls $16.11
+*** FLOP *** [3s 2c 9d]
+Ruining: checks
+Alex: checks
+Stephan: checks
+*** TURN *** [3s 2c 9d] [6s]
+Ruining: checks
+Alex: checks
+Stephan: bets $0.50
+Ruining: calls $0.50
+Alex: calls $0.50
+*** RIVER *** [3s 2c 9d 6s] [7s]
+Ruining: checks
+Alex: checks
+Stephan: checks
+*** SHOW DOWN ***
+Ruining: shows [Ks Ad] (high card Ace)
+Alex: shows [8c 8d] (a pair of Eights)
+Alex collected $65.94 from pot
+*** SUMMARY ***
+Total pot $65.94 | Rake $0
+Board [3s 2c 9d 6s 7s]
+Seat 1: Alex (big blind) showed [8c 8d] and won ($65.94) with a pair of Eights
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan mucked
+Seat 4: Ben (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) showed [Ks Ad] and lost with high card Ace
+
+
+PokerStars Hand #250000002556:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:58:45 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($267.04 in chips)
+Seat 2: Tiger ($329.77 in chips)
+Seat 3: Stephan ($261.21 in chips)
+Seat 7: Ruining ($234.96 in chips)
+Alex: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4s 9c]
+Stephan: folds
+Ruining: raises $1.75 to $2.25
+Alex: calls $2.00
+Tiger: folds
+*** FLOP *** [Qc Ah 8d]
+Alex: checks
+Ruining: checks
+*** TURN *** [Qc Ah 8d] [3d]
+Alex: checks
+Ruining: bets $2.50
+Alex: calls $2.50
+*** RIVER *** [Qc Ah 8d 3d] [8c]
+Alex: checks
+Ruining: bets $10.00
+Alex: calls $10.00
+*** SHOW DOWN ***
+Ruining: shows [Qd Ad] (two pair, Aces and Queens)
+Ruining collected $30.00 from pot
+*** SUMMARY ***
+Total pot $30.00 | Rake $0
+Board [Qc Ah 8d 3d 8c]
+Seat 1: Alex (small blind) mucked
+Seat 2: Tiger (big blind) folded before Flop
+Seat 3: Stephan folded before Flop (didn't bet)
+Seat 7: Ruining (button) showed [Qd Ad] and won ($30.00) with two pair, Aces and Queens
+
+
+PokerStars Hand #250000002557:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 13:59:35 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($252.29 in chips)
+Seat 2: Tiger ($329.27 in chips)
+Seat 3: Stephan ($261.21 in chips)
+Seat 7: Ruining ($250.21 in chips)
+Tiger: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5d Qs]
+Ruining: raises $7.00 to $7.50
+Alex: calls $7.50
+Tiger: calls $7.25
+Stephan: calls $7.00
+*** FLOP *** [Ah Kh 9c]
+Tiger: checks
+Stephan: checks
+Ruining: checks
+Alex: checks
+*** TURN *** [Ah Kh 9c] [9h]
+Tiger: checks
+Stephan: checks
+Ruining: checks
+Alex: checks
+*** RIVER *** [Ah Kh 9c 9h] [Ts]
+Tiger: checks
+Stephan: checks
+Ruining: checks
+Alex: checks
+*** SHOW DOWN ***
+Tiger: shows [5d Qs] (a pair of Nines)
+Ruining: shows [Kc 7s] (two pair, Kings and Nines)
+Alex: shows [Ac 8c] (two pair, Aces and Nines)
+Alex collected $30.00 from pot
+*** SUMMARY ***
+Total pot $30.00 | Rake $0
+Board [Ah Kh 9c 9h Ts]
+Seat 1: Alex (button) showed [Ac 8c] and won ($30.00) with two pair, Aces and Nines
+Seat 2: Tiger (small blind) showed [5d Qs] and lost with a pair of Nines
+Seat 3: Stephan (big blind) mucked
+Seat 7: Ruining showed [Kc 7s] and lost with two pair, Kings and Nines
+
+
+PokerStars Hand #250000002558:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 14:00:16 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #2 is the button
+Seat 1: Alex ($274.79 in chips)
+Seat 2: Tiger ($321.77 in chips)
+Seat 3: Stephan ($253.71 in chips)
+Seat 4: Ben ($692.19 in chips)
+Seat 7: Ruining ($242.71 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8h 7s]
+Ruining: calls $0.50
+Alex: raises $1.75 to $2.25
+Tiger: folds
+Stephan: calls $2.00
+Ben: calls $1.75
+Ruining: calls $1.75
+*** FLOP *** [3c 7h 2s]
+Stephan: checks
+Ben: bets $6.75
+Ruining: calls $6.75
+Alex: folds
+Stephan: folds
+*** TURN *** [3c 7h 2s] [4s]
+Ben: checks
+Ruining: bets $11.25
+Ben: calls $11.25
+*** RIVER *** [3c 7h 2s 4s] [6c]
+Ben: checks
+Ruining: bets $33.75
+Ben: folds
+Uncalled bet ($33.75) returned to Ruining
+Ruining collected $45.00 from pot
+*** SUMMARY ***
+Total pot $45.00 | Rake $0
+Board [3c 7h 2s 4s 6c]
+Seat 1: Alex folded on the Flop
+Seat 2: Tiger (button) folded before Flop (didn't bet)
+Seat 3: Stephan (small blind) folded on the Flop
+Seat 4: Ben (big blind) folded on the River
+Seat 7: Ruining collected ($45.00)
+
+
+PokerStars Hand #250000002559:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 14:01:20 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($272.54 in chips)
+Seat 2: Tiger ($321.77 in chips)
+Seat 3: Stephan ($251.46 in chips)
+Seat 4: Ben ($671.94 in chips)
+Seat 7: Ruining ($267.46 in chips)
+Ben: posts small blind $0.25
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ad 3c]
+Alex: calls $0.50
+Tiger: folds
+Stephan: folds
+Ben: raises $6.50 to $7.00
+Ruining: folds
+Alex: calls $6.50
+*** FLOP *** [Jc 5c 2h]
+Ben: bets $7.25
+Alex: folds
+Uncalled bet ($7.25) returned to Ben
+Ben collected $14.50 from pot
+*** SUMMARY ***
+Total pot $14.50 | Rake $0
+Board [Jc 5c 2h]
+Seat 1: Alex folded on the Flop
+Seat 2: Tiger folded before Flop (didn't bet)
+Seat 3: Stephan (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) collected ($14.50)
+Seat 7: Ruining (big blind) folded before Flop
+
+
+PokerStars Hand #250000002560:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 14:02:04 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #4 is the button
+Seat 1: Alex ($265.54 in chips)
+Seat 3: Stephan ($251.46 in chips)
+Seat 4: Ben ($679.44 in chips)
+Seat 7: Ruining ($266.96 in chips)
+Ruining: posts small blind $0.25
+Alex: posts big blind $0.50
+*** HOLE CARDS ***
+Stephan: calls $0.50
+Ben: folds
+Ruining: calls $0.25
+Alex: raises $1.50 to $2.00
+Stephan: calls $1.50
+Ruining: calls $1.50
+*** FLOP *** [4h Th Ac]
+Ruining: checks
+Alex: checks
+Stephan: checks
+*** TURN *** [4h Th Ac] [3c]
+Ruining: bets $3.00
+Alex: calls $3.00
+Stephan: folds
+*** RIVER *** [4h Th Ac 3c] [Jd]
+Ruining: bets $9.00
+Alex: folds
+Uncalled bet ($9.00) returned to Ruining
+Ruining collected $12.00 from pot
+*** SUMMARY ***
+Total pot $12.00 | Rake $0
+Board [4h Th Ac 3c Jd]
+Seat 1: Alex (big blind) folded on the River
+Seat 3: Stephan folded on the Turn
+Seat 4: Ben (button) folded before Flop (didn't bet)
+Seat 7: Ruining (small blind) collected ($12.00)
+
+
+PokerStars Hand #250000002561:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 14:03:03 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #7 is the button
+Seat 1: Alex ($260.54 in chips)
+Seat 3: Stephan ($249.46 in chips)
+Seat 4: Ben ($679.44 in chips)
+Seat 7: Ruining ($273.96 in chips)
+Alex: posts small blind $0.25
+Stephan: posts big blind $0.50
+*** HOLE CARDS ***
+Ben: raises $3.25 to $3.75
+Ruining: calls $3.75
+Alex: folds
+Stephan: calls $3.25
+*** FLOP *** [6s 7c Ts]
+Stephan: checks
+Ben: bets $11.50
+Ruining: calls $11.50
+Stephan: calls $11.50
+*** TURN *** [6s 7c Ts] [2d]
+Stephan: checks
+Ben: bets $46.00
+Ruining: folds
+Stephan: folds
+Uncalled bet ($46.00) returned to Ben
+Ben collected $46.00 from pot
+*** SUMMARY ***
+Total pot $46.00 | Rake $0
+Board [6s 7c Ts 2d]
+Seat 1: Alex (small blind) folded before Flop
+Seat 3: Stephan (big blind) folded on the Turn
+Seat 4: Ben collected ($46.00)
+Seat 7: Ruining (button) folded on the Turn
+
+
+PokerStars Hand #250000002562:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 14:04:08 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #1 is the button
+Seat 1: Alex ($260.29 in chips)
+Seat 3: Stephan ($234.21 in chips)
+Seat 4: Ben ($710.19 in chips)
+Seat 7: Ruining ($258.71 in chips)
+Stephan: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Ruining: folds
+Alex: folds
+Stephan: calls $0.25
+Ben: checks
+*** FLOP *** [9c Ts 4h]
+Stephan: checks
+Ben: checks
+*** TURN *** [9c Ts 4h] [Js]
+Stephan: bets $6.50
+Ben: folds
+Uncalled bet ($6.50) returned to Stephan
+Stephan collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Board [9c Ts 4h Js]
+Seat 1: Alex (button) folded before Flop (didn't bet)
+Seat 3: Stephan (small blind) collected ($1.00)
+Seat 4: Ben (big blind) folded on the Turn
+Seat 7: Ruining folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002563:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/13 14:05:14 ET
+Table 'PokerNow poker_now_log_pglT4wkdb5ousO4_C8l4CpFY-' 9-max Seat #3 is the button
+Seat 1: Alex ($260.29 in chips)
+Seat 3: Stephan ($234.71 in chips)
+Seat 7: Ruining ($258.71 in chips)
+Ruining: posts big blind $0.50
+*** HOLE CARDS ***
+Alex: folds
+Stephan: folds
+Uncalled bet ($0.50) returned to Ruining
+Ruining collected $0.00 from pot
+*** SUMMARY ***
+Total pot $0.00 | Rake $0
+Seat 1: Alex folded before Flop (didn't bet)
+Seat 3: Stephan (button) folded before Flop (didn't bet)
+Seat 7: Ruining (big blind) mucked
+

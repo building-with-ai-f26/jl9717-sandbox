@@ -1,0 +1,4534 @@
+PokerStars Hand #250000002287:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:53:15 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($100.00 in chips)
+Seat 3: K Bon ($100.00 in chips)
+Seat 10: Tiger ($100.00 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9d 5d]
+K Bon: raises $5.75 to $6.25
+Tiger: folds
+Ben: calls $5.75
+*** FLOP *** [Ah 2d 7c]
+Ben: checks
+K Bon: bets $9.56
+Ben: folds
+Uncalled bet ($9.56) returned to K Bon
+K Bon collected $12.75 from pot
+*** SUMMARY ***
+Total pot $12.75 | Rake $0
+Board [Ah 2d 7c]
+Seat 1: Ben (big blind) folded on the Flop
+Seat 3: K Bon (button) collected ($12.75)
+Seat 10: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002288:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:53:42 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #10 is the button
+Seat 1: Ben ($93.75 in chips)
+Seat 3: K Bon ($106.50 in chips)
+Seat 10: Tiger ($99.75 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th Qd]
+Tiger: raises $1.25 to $1.75
+Ben: folds
+K Bon: folds
+Uncalled bet ($1.25) returned to Tiger
+Tiger collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) folded before Flop
+Seat 10: Tiger (button) collected ($1.25)
+
+
+PokerStars Hand #250000002289:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:53:51 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($93.50 in chips)
+Seat 3: K Bon ($106.00 in chips)
+Seat 10: Tiger ($100.50 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7c 8s]
+Ben: calls $0.50
+K Bon: calls $0.25
+Tiger: checks
+*** FLOP *** [Kc Ac Th]
+K Bon: checks
+Tiger: checks
+Ben: bets $1.12
+K Bon: calls $1.12
+Tiger: folds
+*** TURN *** [Kc Ac Th] [4d]
+K Bon: bets $2.80
+Ben: calls $2.80
+*** RIVER *** [Kc Ac Th 4d] [Js]
+K Bon: bets $7.00
+Ben: raises $23.34 to $30.34
+K Bon: folds
+Uncalled bet ($23.34) returned to Ben
+Ben collected $23.34 from pot
+*** SUMMARY ***
+Total pot $23.34 | Rake $0
+Board [Kc Ac Th 4d Js]
+Seat 1: Ben (button) collected ($23.34)
+Seat 3: K Bon (small blind) folded on the River
+Seat 10: Tiger (big blind) folded on the Flop
+
+
+PokerStars Hand #250000002290:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:54:55 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($105.42 in chips)
+Seat 3: K Bon ($94.58 in chips)
+Seat 10: Tiger ($100.00 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2d 3s]
+K Bon: raises $1.25 to $1.75
+Tiger: folds
+Ben: folds
+Uncalled bet ($1.25) returned to K Bon
+K Bon collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon (button) collected ($1.25)
+Seat 10: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002291:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:55:07 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #10 is the button
+Seat 1: Ben ($104.92 in chips)
+Seat 3: K Bon ($95.33 in chips)
+Seat 7: Crawfish ($100.00 in chips)
+Seat 10: Tiger ($99.75 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9h Ad]
+Crawfish: raises $1.75 to $2.25
+Tiger: calls $2.25
+Ben: calls $2.00
+K Bon: calls $1.75
+*** FLOP *** [Th 7c Js]
+Ben: checks
+K Bon: checks
+Crawfish: bets $4.50
+Tiger: calls $4.50
+Ben: folds
+K Bon: calls $4.50
+*** TURN *** [Th 7c Js] [2s]
+K Bon: bets $16.87
+Crawfish: folds
+Tiger: folds
+Uncalled bet ($16.87) returned to K Bon
+K Bon collected $22.50 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $0
+Board [Th 7c Js 2s]
+Seat 1: Ben (small blind) folded on the Flop
+Seat 3: K Bon (big blind) collected ($22.50)
+Seat 7: Crawfish folded on the Turn
+Seat 10: Tiger (button) folded on the Turn
+
+
+PokerStars Hand #250000002292:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:55:58 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($102.67 in chips)
+Seat 3: K Bon ($111.08 in chips)
+Seat 7: Crawfish ($93.25 in chips)
+Seat 10: Tiger ($93.00 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [As 8d]
+Tiger: folds
+Ben: raises $0.93 to $1.43
+K Bon: folds
+Crawfish: calls $0.93
+*** FLOP *** [6c 9h Kc]
+Crawfish: checks
+Ben: bets $1.05
+Crawfish: folds
+Uncalled bet ($1.05) returned to Ben
+Ben collected $3.11 from pot
+*** SUMMARY ***
+Total pot $3.11 | Rake $0
+Board [6c 9h Kc]
+Seat 1: Ben (button) collected ($3.11)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 7: Crawfish (big blind) folded on the Flop
+Seat 10: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002293:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:56:21 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($104.35 in chips)
+Seat 3: K Bon ($110.83 in chips)
+Seat 7: Crawfish ($91.82 in chips)
+Seat 10: Tiger ($93.00 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4h Jh]
+Ben: folds
+K Bon: raises $3.75 to $4.25
+Crawfish: folds
+Tiger: folds
+Uncalled bet ($3.75) returned to K Bon
+K Bon collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben folded before Flop (didn't bet)
+Seat 3: K Bon (button) collected ($1.25)
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 10: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002294:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:56:56 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($104.35 in chips)
+Seat 3: K Bon ($111.58 in chips)
+Seat 7: Crawfish ($91.57 in chips)
+Seat 10: Tiger ($92.50 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4h 4d]
+K Bon: folds
+Crawfish: raises $2.75 to $3.25
+Tiger: folds
+Ben: folds
+Uncalled bet ($2.75) returned to Crawfish
+Crawfish collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon folded before Flop (didn't bet)
+Seat 7: Crawfish (button) collected ($1.25)
+Seat 10: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002295:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:57:28 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #10 is the button
+Seat 1: Ben ($103.85 in chips)
+Seat 3: K Bon ($111.58 in chips)
+Seat 7: Crawfish ($92.32 in chips)
+Seat 10: Tiger ($92.25 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2d 6h]
+Crawfish: folds
+Tiger: folds
+Ben: raises $0.75 to $1.25
+K Bon: folds
+Uncalled bet ($0.75) returned to Ben
+Ben collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Ben (small blind) collected ($1.00)
+Seat 3: K Bon (big blind) folded before Flop
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 10: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002296:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:57:44 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($104.35 in chips)
+Seat 3: K Bon ($111.08 in chips)
+Seat 7: Crawfish ($92.32 in chips)
+Seat 10: Tiger ($92.25 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4h 5s]
+Tiger: folds
+Ben: folds
+K Bon: raises $0.75 to $1.25
+Crawfish: raises $2.50 to $3.75
+K Bon: calls $2.50
+*** FLOP *** [8h Jd 7s]
+K Bon: bets $5.62
+Crawfish: calls $5.62
+*** TURN *** [8h Jd 7s] [2s]
+K Bon: checks
+Crawfish: bets $9.37
+K Bon: calls $9.37
+*** RIVER *** [8h Jd 7s 2s] [9h]
+K Bon: bets $28.11
+Crawfish: folds
+Uncalled bet ($28.11) returned to K Bon
+K Bon collected $37.48 from pot
+*** SUMMARY ***
+Total pot $37.48 | Rake $0
+Board [8h Jd 7s 2s 9h]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) collected ($37.48)
+Seat 7: Crawfish (big blind) folded on the River
+Seat 10: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002297:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:59:02 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($104.35 in chips)
+Seat 3: K Bon ($129.82 in chips)
+Seat 7: Crawfish ($73.58 in chips)
+Seat 10: Tiger ($92.25 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4c 3h]
+Ben: raises $1.25 to $1.75
+K Bon: folds
+Crawfish: calls $1.50
+Tiger: folds
+*** FLOP *** [Ad Ac 7d]
+Crawfish: checks
+Ben: checks
+*** TURN *** [Ad Ac 7d] [7s]
+Crawfish: bets $3.00
+Ben: calls $3.00
+*** RIVER *** [Ad Ac 7d 7s] [5c]
+Crawfish: checks
+Ben: bets $1.50
+Crawfish: calls $1.50
+*** SHOW DOWN ***
+Ben: shows [5s Ks] (two pair, Aces and Sevens)
+Ben collected $13.00 from pot
+*** SUMMARY ***
+Total pot $13.00 | Rake $0
+Board [Ad Ac 7d 7s 5c]
+Seat 1: Ben showed [5s Ks] and won ($13.00) with two pair, Aces and Sevens
+Seat 3: K Bon (button) folded before Flop (didn't bet)
+Seat 7: Crawfish (small blind) mucked
+Seat 10: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002298:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 20:59:41 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($111.10 in chips)
+Seat 3: K Bon ($129.82 in chips)
+Seat 7: Crawfish ($67.33 in chips)
+Seat 10: Tiger ($91.75 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2d Ad]
+K Bon: folds
+Crawfish: calls $0.50
+Tiger: raises $1.50 to $2.00
+Ben: raises $1.50 to $3.50
+Crawfish: calls $3.00
+Tiger: calls $1.50
+*** FLOP *** [2h Ah 3s]
+Tiger: bets $5.25
+Ben: folds
+Crawfish: calls $5.25
+*** TURN *** [2h Ah 3s] [Qd]
+Tiger: bets $10.50
+Crawfish: calls $10.50
+*** RIVER *** [2h Ah 3s Qd] [3c]
+Tiger: checks
+Crawfish: bets $48.08 and is all-in
+Tiger: folds
+Uncalled bet ($48.08) returned to Crawfish
+Crawfish collected $42.00 from pot
+*** SUMMARY ***
+Total pot $42.00 | Rake $0
+Board [2h Ah 3s Qd 3c]
+Seat 1: Ben (big blind) folded on the Flop
+Seat 3: K Bon folded before Flop (didn't bet)
+Seat 7: Crawfish (button) collected ($42.00)
+Seat 10: Tiger (small blind) folded on the River
+
+
+PokerStars Hand #250000002299:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:01:09 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #10 is the button
+Seat 1: Ben ($107.60 in chips)
+Seat 3: K Bon ($129.82 in chips)
+Seat 7: Crawfish ($90.08 in chips)
+Seat 10: Tiger ($72.50 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9d Kc]
+Crawfish: calls $0.50
+Tiger: calls $0.50
+Ben: raises $3.00 to $3.50
+K Bon: calls $3.00
+Crawfish: calls $3.00
+Tiger: calls $3.00
+*** FLOP *** [9h 3s 6d]
+Ben: bets $10.50
+K Bon: folds
+Crawfish: folds
+Tiger: calls $10.50
+*** TURN *** [9h 3s 6d] [2s]
+Ben: checks
+Tiger: checks
+*** RIVER *** [9h 3s 6d 2s] [8d]
+Ben: checks
+Tiger: checks
+*** SHOW DOWN ***
+Ben: shows [4c 7c] (high card Nine)
+Tiger: shows [9d Kc] (a pair of Nines)
+Tiger collected $35.00 from pot
+*** SUMMARY ***
+Total pot $35.00 | Rake $0
+Board [9h 3s 6d 2s 8d]
+Seat 1: Ben (small blind) showed [4c 7c] and lost with high card Nine
+Seat 3: K Bon (big blind) folded on the Flop
+Seat 7: Crawfish folded on the Flop
+Seat 10: Tiger (button) showed [9d Kc] and won ($35.00) with a pair of Nines
+
+
+PokerStars Hand #250000002300:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:02:21 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($93.60 in chips)
+Seat 3: K Bon ($126.32 in chips)
+Seat 7: Crawfish ($86.58 in chips)
+Seat 10: Tiger ($93.50 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ts Ah]
+Tiger: calls $0.50
+Ben: folds
+K Bon: raises $1.50 to $2.00
+Crawfish: raises $2.25 to $4.25
+Tiger: calls $3.75
+K Bon: calls $2.25
+*** FLOP *** [8h 9d 6s]
+K Bon: checks
+Crawfish: bets $6.37
+Tiger: folds
+K Bon: folds
+Uncalled bet ($6.37) returned to Crawfish
+Crawfish collected $12.75 from pot
+*** SUMMARY ***
+Total pot $12.75 | Rake $0
+Board [8h 9d 6s]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 7: Crawfish (big blind) collected ($12.75)
+Seat 10: Tiger folded on the Flop
+
+
+PokerStars Hand #250000002301:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:02:57 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($93.60 in chips)
+Seat 3: K Bon ($122.07 in chips)
+Seat 7: Crawfish ($95.08 in chips)
+Seat 10: Tiger ($89.25 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3d 7s]
+Ben: raises $1.25 to $1.75
+K Bon: calls $1.75
+Crawfish: calls $1.50
+Tiger: folds
+*** FLOP *** [9h 7c Qh]
+Crawfish: checks
+Ben: bets $4.31
+K Bon: folds
+Crawfish: folds
+Uncalled bet ($4.31) returned to Ben
+Ben collected $5.75 from pot
+*** SUMMARY ***
+Total pot $5.75 | Rake $0
+Board [9h 7c Qh]
+Seat 1: Ben collected ($5.75)
+Seat 3: K Bon (button) folded on the Flop
+Seat 7: Crawfish (small blind) folded on the Flop
+Seat 10: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002302:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:03:23 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($97.60 in chips)
+Seat 3: K Bon ($120.32 in chips)
+Seat 7: Crawfish ($93.33 in chips)
+Seat 10: Tiger ($88.75 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Js 7d]
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: folds
+Ben: calls $1.25
+*** FLOP *** [Tc Jd Ah]
+Ben: checks
+K Bon: bets $2.81
+Ben: calls $2.81
+*** TURN *** [Tc Jd Ah] [Qc]
+Ben: checks
+K Bon: checks
+*** RIVER *** [Tc Jd Ah Qc] [9h]
+Ben: checks
+K Bon: checks
+*** SHOW DOWN ***
+Ben: shows [4h Kd] (a straight, Ace high)
+Ben collected $9.37 from pot
+*** SUMMARY ***
+Total pot $9.37 | Rake $0
+Board [Tc Jd Ah Qc 9h]
+Seat 1: Ben (big blind) showed [4h Kd] and won ($9.37) with a straight, Ace high
+Seat 3: K Bon mucked
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 10: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002303:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:04:08 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #10 is the button
+Seat 1: Ben ($102.41 in chips)
+Seat 3: K Bon ($115.76 in chips)
+Seat 7: Crawfish ($93.33 in chips)
+Seat 10: Tiger ($88.50 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th Jc]
+Crawfish: folds
+Tiger: calls $0.50
+Ben: raises $1.50 to $2.00
+K Bon: calls $1.50
+Tiger: calls $1.50
+*** FLOP *** [6c 9h 3h]
+Ben: checks
+K Bon: checks
+Tiger: checks
+*** TURN *** [6c 9h 3h] [Kd]
+Ben: checks
+K Bon: checks
+Tiger: checks
+*** RIVER *** [6c 9h 3h Kd] [Js]
+Ben: bets $1.50
+K Bon: raises $4.50 to $6.00
+Tiger: calls $6.00
+Ben: folds
+*** SHOW DOWN ***
+K Bon: shows [Qd Kc] (a pair of Kings)
+K Bon collected $19.50 from pot
+*** SUMMARY ***
+Total pot $19.50 | Rake $0
+Board [6c 9h 3h Kd Js]
+Seat 1: Ben (small blind) folded on the River
+Seat 3: K Bon (big blind) showed [Qd Kc] and won ($19.50) with a pair of Kings
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 10: Tiger (button) mucked
+
+
+PokerStars Hand #250000002304:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:05:06 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($98.91 in chips)
+Seat 3: K Bon ($127.26 in chips)
+Seat 7: Crawfish ($93.33 in chips)
+Seat 10: Tiger ($80.50 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Tc 3c]
+Tiger: calls $0.50
+Ben: raises $2.25 to $2.75
+K Bon: folds
+Crawfish: folds
+Tiger: calls $2.25
+*** FLOP *** [4c 9c Qh]
+Tiger: bets $3.12
+Ben: folds
+Uncalled bet ($3.12) returned to Tiger
+Tiger collected $6.25 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0
+Board [4c 9c Qh]
+Seat 1: Ben (button) folded on the Flop
+Seat 3: K Bon (small blind) folded before Flop
+Seat 7: Crawfish (big blind) folded before Flop
+Seat 10: Tiger collected ($6.25)
+
+
+PokerStars Hand #250000002305:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:05:28 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($96.16 in chips)
+Seat 3: K Bon ($127.01 in chips)
+Seat 7: Crawfish ($92.83 in chips)
+Seat 10: Tiger ($84.00 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9h 4s]
+Ben: calls $0.50
+K Bon: folds
+Crawfish: raises $2.50 to $3.00
+Tiger: folds
+Ben: raises $14.25 to $17.25
+Crawfish: folds
+Uncalled bet ($14.25) returned to Ben
+Ben collected $6.50 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0
+Seat 1: Ben collected ($6.50)
+Seat 3: K Bon (button) folded before Flop (didn't bet)
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 10: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002306:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:05:55 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($99.66 in chips)
+Seat 3: K Bon ($127.01 in chips)
+Seat 7: Crawfish ($89.83 in chips)
+Seat 10: Tiger ($83.50 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3s 6d]
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: folds
+Ben: raises $6.75 to $8.50
+K Bon: calls $6.75
+*** FLOP *** [Ks 6h 4c]
+Ben: bets $10.19
+K Bon: folds
+Uncalled bet ($10.19) returned to Ben
+Ben collected $17.25 from pot
+*** SUMMARY ***
+Total pot $17.25 | Rake $0
+Board [Ks 6h 4c]
+Seat 1: Ben (big blind) collected ($17.25)
+Seat 3: K Bon folded on the Flop
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 10: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002307:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:06:36 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #10 is the button
+Seat 1: Ben ($108.41 in chips)
+Seat 3: K Bon ($118.51 in chips)
+Seat 7: Crawfish ($89.83 in chips)
+Seat 10: Tiger ($83.25 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9c Qd]
+Crawfish: folds
+Tiger: calls $0.50
+Ben: raises $2.00 to $2.50
+K Bon: folds
+Tiger: calls $2.00
+*** FLOP *** [7s Tc 6h]
+Ben: checks
+Tiger: bets $2.75
+Ben: calls $2.75
+*** TURN *** [7s Tc 6h] [2c]
+Ben: checks
+Tiger: bets $5.50
+Ben: folds
+Uncalled bet ($5.50) returned to Tiger
+Tiger collected $11.00 from pot
+*** SUMMARY ***
+Total pot $11.00 | Rake $0
+Board [7s Tc 6h 2c]
+Seat 1: Ben (small blind) folded on the Turn
+Seat 3: K Bon (big blind) folded before Flop
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 10: Tiger (button) collected ($11.00)
+
+
+PokerStars Hand #250000002308:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:07:10 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($103.16 in chips)
+Seat 3: K Bon ($118.01 in chips)
+Seat 7: Crawfish ($89.83 in chips)
+Seat 10: Tiger ($89.00 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5h 8s]
+Tiger: folds
+Ben: folds
+K Bon: raises $1.00 to $1.50
+Crawfish: folds
+Uncalled bet ($1.00) returned to K Bon
+K Bon collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) collected ($1.00)
+Seat 7: Crawfish (big blind) folded before Flop
+Seat 10: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002309:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:07:27 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($103.16 in chips)
+Seat 3: K Bon ($118.51 in chips)
+Seat 7: Crawfish ($89.33 in chips)
+Seat 10: Tiger ($89.00 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2c 4d]
+Ben: raises $1.25 to $1.75
+K Bon: calls $1.75
+Crawfish: raises $5.75 to $7.50
+Tiger: folds
+Ben: calls $5.75
+K Bon: calls $5.75
+*** FLOP *** [As Qd Kd]
+Crawfish: bets $11.50
+Ben: folds
+K Bon: folds
+Uncalled bet ($11.50) returned to Crawfish
+Crawfish collected $23.00 from pot
+*** SUMMARY ***
+Total pot $23.00 | Rake $0
+Board [As Qd Kd]
+Seat 1: Ben folded on the Flop
+Seat 3: K Bon (button) folded on the Flop
+Seat 7: Crawfish (small blind) collected ($23.00)
+Seat 10: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002310:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:08:03 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($95.66 in chips)
+Seat 3: K Bon ($111.01 in chips)
+Seat 7: Crawfish ($104.83 in chips)
+Seat 10: Tiger ($88.50 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6s 4s]
+K Bon: raises $1.25 to $1.75
+Crawfish: raises $4.25 to $6.00
+Tiger: folds
+Ben: folds
+K Bon: calls $4.25
+*** FLOP *** [4d Jh 9d]
+K Bon: checks
+Crawfish: bets $6.37
+K Bon: raises $19.11 to $25.48
+Crawfish: folds
+Uncalled bet ($19.11) returned to K Bon
+K Bon collected $25.49 from pot
+*** SUMMARY ***
+Total pot $25.49 | Rake $0
+Board [4d Jh 9d]
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon collected ($25.49)
+Seat 7: Crawfish (button) folded on the Flop
+Seat 10: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002311:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:09:04 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #10 is the button
+Seat 1: Ben ($95.16 in chips)
+Seat 3: K Bon ($124.13 in chips)
+Seat 7: Crawfish ($92.46 in chips)
+Seat 10: Tiger ($88.25 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2s Td]
+Crawfish: folds
+Tiger: folds
+Ben: raises $1.50 to $2.00
+K Bon: folds
+Uncalled bet ($1.50) returned to Ben
+Ben collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Ben (small blind) collected ($1.00)
+Seat 3: K Bon (big blind) folded before Flop
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 10: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002312:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:09:18 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($95.66 in chips)
+Seat 3: K Bon ($123.63 in chips)
+Seat 7: Crawfish ($92.46 in chips)
+Seat 10: Tiger ($88.25 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h 3s]
+Tiger: folds
+Ben: folds
+K Bon: calls $0.25
+Crawfish: checks
+*** FLOP *** [5s 6s 2c]
+K Bon: checks
+Crawfish: bets $3.50
+K Bon: folds
+Uncalled bet ($3.50) returned to Crawfish
+Crawfish collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Board [5s 6s 2c]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 7: Crawfish (big blind) collected ($1.00)
+Seat 10: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002313:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:09:48 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($95.66 in chips)
+Seat 3: K Bon ($123.13 in chips)
+Seat 7: Crawfish ($92.96 in chips)
+Seat 10: Tiger ($88.25 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th Qh]
+Ben: raises $2.75 to $3.25
+K Bon: folds
+Crawfish: calls $3.00
+Tiger: raises $7.31 to $10.56
+Ben: calls $7.31
+Crawfish: calls $7.31
+*** FLOP *** [3d Ks As]
+Crawfish: checks
+Tiger: bets $15.84
+Ben: calls $15.84
+Crawfish: folds
+*** TURN *** [3d Ks As] [Ah]
+Tiger: bets $61.85 and is all-in
+Ben: calls $61.85
+*** RIVER *** [3d Ks As Ah] [7s]
+*** SHOW DOWN ***
+Ben: shows [Kc 9s] (two pair, Aces and Kings)
+Tiger: shows [Th Qh] (a pair of Aces)
+Ben collected $187.06 from pot
+*** SUMMARY ***
+Total pot $187.06 | Rake $0
+Board [3d Ks As Ah 7s]
+Seat 1: Ben showed [Kc 9s] and won ($187.06) with two pair, Aces and Kings
+Seat 3: K Bon (button) folded before Flop (didn't bet)
+Seat 7: Crawfish (small blind) folded on the Flop
+Seat 10: Tiger (big blind) showed [Th Qh] and lost with a pair of Aces
+
+
+PokerStars Hand #250000002314:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:10:38 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($194.47 in chips)
+Seat 3: K Bon ($123.13 in chips)
+Seat 7: Crawfish ($82.40 in chips)
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+K Bon: raises $1.00 to $1.50
+Crawfish: calls $1.50
+Ben: raises $11.00 to $12.50
+K Bon: folds
+Crawfish: calls $11.00
+*** FLOP *** [2s Jc 3h]
+Ben: bets $6.00
+Crawfish: folds
+Uncalled bet ($6.00) returned to Ben
+Ben collected $26.50 from pot
+*** SUMMARY ***
+Total pot $26.50 | Rake $0
+Board [2s Jc 3h]
+Seat 1: Ben (big blind) collected ($26.50)
+Seat 3: K Bon folded before Flop
+Seat 7: Crawfish (button) folded on the Flop
+
+
+PokerStars Hand #250000002315:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:11:19 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($208.47 in chips)
+Seat 3: K Bon ($121.63 in chips)
+Seat 7: Crawfish ($69.90 in chips)
+Seat 9: Tiger ($200.00 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6s Ks]
+Crawfish: folds
+Tiger: raises $1.25 to $1.75
+Ben: calls $1.50
+K Bon: calls $1.25
+*** FLOP *** [Ad 7s Qh]
+Ben: checks
+K Bon: checks
+Tiger: checks
+*** TURN *** [Ad 7s Qh] [Qc]
+Ben: bets $2.62
+K Bon: folds
+Tiger: folds
+Uncalled bet ($2.62) returned to Ben
+Ben collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0
+Board [Ad 7s Qh Qc]
+Seat 1: Ben (small blind) collected ($5.25)
+Seat 3: K Bon (big blind) folded on the Turn
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded on the Turn
+
+
+PokerStars Hand #250000002316:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:11:52 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($211.97 in chips)
+Seat 3: K Bon ($119.88 in chips)
+Seat 7: Crawfish ($69.90 in chips)
+Seat 9: Tiger ($198.25 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2d Tc]
+Tiger: folds
+Ben: raises $1.25 to $1.75
+K Bon: folds
+Crawfish: raises $3.75 to $5.50
+Ben: calls $3.75
+*** FLOP *** [4c Td 3c]
+Crawfish: bets $5.62
+Ben: folds
+Uncalled bet ($5.62) returned to Crawfish
+Crawfish collected $11.25 from pot
+*** SUMMARY ***
+Total pot $11.25 | Rake $0
+Board [4c Td 3c]
+Seat 1: Ben (button) folded on the Flop
+Seat 3: K Bon (small blind) folded before Flop
+Seat 7: Crawfish (big blind) collected ($11.25)
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002317:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:12:34 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($206.47 in chips)
+Seat 3: K Bon ($119.63 in chips)
+Seat 7: Crawfish ($75.65 in chips)
+Seat 9: Tiger ($198.25 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Tc 5h]
+Ben: folds
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: calls $1.25
+*** FLOP *** [8s Jh 6d]
+Tiger: checks
+K Bon: checks
+*** TURN *** [8s Jh 6d] [Kh]
+Tiger: checks
+K Bon: bets $2.81
+Tiger: folds
+Uncalled bet ($2.81) returned to K Bon
+K Bon collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [8s Jh 6d Kh]
+Seat 1: Ben folded before Flop (didn't bet)
+Seat 3: K Bon (button) collected ($3.75)
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 9: Tiger (big blind) folded on the Turn
+
+
+PokerStars Hand #250000002318:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:13:03 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($206.47 in chips)
+Seat 3: K Bon ($121.63 in chips)
+Seat 7: Crawfish ($75.40 in chips)
+Seat 9: Tiger ($196.50 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9d Kh]
+K Bon: raises $1.25 to $1.75
+Crawfish: calls $1.75
+Tiger: calls $1.50
+Ben: calls $1.25
+*** FLOP *** [Js Ts 2d]
+Tiger: checks
+Ben: checks
+K Bon: checks
+Crawfish: bets $5.25
+Tiger: folds
+Ben: calls $5.25
+K Bon: folds
+*** TURN *** [Js Ts 2d] [8c]
+Ben: checks
+Crawfish: checks
+*** RIVER *** [Js Ts 2d 8c] [Ks]
+Ben: checks
+Crawfish: checks
+*** SHOW DOWN ***
+Ben: shows [2h 3h] (a pair of Deuces)
+Ben collected $17.50 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0
+Board [Js Ts 2d 8c Ks]
+Seat 1: Ben (big blind) showed [2h 3h] and won ($17.50) with a pair of Deuces
+Seat 3: K Bon folded on the Flop
+Seat 7: Crawfish (button) mucked
+Seat 9: Tiger (small blind) folded on the Flop
+
+
+PokerStars Hand #250000002319:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:14:04 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($216.97 in chips)
+Seat 3: K Bon ($119.88 in chips)
+Seat 7: Crawfish ($68.40 in chips)
+Seat 9: Tiger ($194.75 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jh 4c]
+Crawfish: folds
+Tiger: folds
+Ben: raises $1.50 to $2.00
+K Bon: folds
+Uncalled bet ($1.50) returned to Ben
+Ben collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Ben (small blind) collected ($1.00)
+Seat 3: K Bon (big blind) folded before Flop
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002320:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:14:19 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($217.47 in chips)
+Seat 3: K Bon ($119.38 in chips)
+Seat 7: Crawfish ($68.40 in chips)
+Seat 9: Tiger ($194.75 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ah 4s]
+Tiger: calls $0.50
+Ben: calls $0.50
+K Bon: calls $0.25
+Crawfish: folds
+*** FLOP *** [Qd 3c 9s]
+K Bon: bets $2.00
+Tiger: folds
+Ben: folds
+Uncalled bet ($2.00) returned to K Bon
+K Bon collected $2.00 from pot
+*** SUMMARY ***
+Total pot $2.00 | Rake $0
+Board [Qd 3c 9s]
+Seat 1: Ben (button) folded on the Flop
+Seat 3: K Bon (small blind) collected ($2.00)
+Seat 7: Crawfish (big blind) folded before Flop
+Seat 9: Tiger folded on the Flop
+
+
+PokerStars Hand #250000002321:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:14:46 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($216.97 in chips)
+Seat 3: K Bon ($120.88 in chips)
+Seat 7: Crawfish ($67.90 in chips)
+Seat 9: Tiger ($194.25 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [As 6c]
+Ben: raises $1.25 to $1.75
+K Bon: raises $3.18 to $4.93
+Crawfish: folds
+Tiger: folds
+Ben: calls $3.18
+*** FLOP *** [Tc 8h Qh]
+Ben: checks
+K Bon: bets $5.30
+Ben: calls $5.30
+*** TURN *** [Tc 8h Qh] [5h]
+Ben: checks
+K Bon: checks
+*** RIVER *** [Tc 8h Qh 5h] [9s]
+Ben: bets $10.60
+K Bon: calls $10.60
+*** SHOW DOWN ***
+Ben: shows [Qd 9h] (two pair, Queens and Nines)
+Ben collected $42.41 from pot
+*** SUMMARY ***
+Total pot $42.41 | Rake $0
+Board [Tc 8h Qh 5h 9s]
+Seat 1: Ben showed [Qd 9h] and won ($42.41) with two pair, Queens and Nines
+Seat 3: K Bon (button) mucked
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002322:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:15:36 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($238.55 in chips)
+Seat 3: K Bon ($100.05 in chips)
+Seat 7: Crawfish ($67.65 in chips)
+Seat 9: Tiger ($193.75 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qh 4d]
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: folds
+Ben: raises $1.25 to $3.00
+K Bon: calls $1.25
+*** FLOP *** [2c 5s 2s]
+Ben: bets $4.68
+K Bon: folds
+Uncalled bet ($4.68) returned to Ben
+Ben collected $6.25 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0
+Board [2c 5s 2s]
+Seat 1: Ben (big blind) collected ($6.25)
+Seat 3: K Bon folded on the Flop
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002323:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:16:02 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($241.80 in chips)
+Seat 3: K Bon ($97.05 in chips)
+Seat 7: Crawfish ($67.65 in chips)
+Seat 9: Tiger ($193.50 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ah 5s]
+Crawfish: folds
+Tiger: raises $1.25 to $1.75
+Ben: raises $3.00 to $4.75
+K Bon: folds
+Tiger: calls $3.00
+*** FLOP *** [Jc 8s 6d]
+Ben: bets $5.00
+Tiger: folds
+Uncalled bet ($5.00) returned to Ben
+Ben collected $10.00 from pot
+*** SUMMARY ***
+Total pot $10.00 | Rake $0
+Board [Jc 8s 6d]
+Seat 1: Ben (small blind) collected ($10.00)
+Seat 3: K Bon (big blind) folded before Flop
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded on the Flop
+
+
+PokerStars Hand #250000002324:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:16:22 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($247.05 in chips)
+Seat 3: K Bon ($96.55 in chips)
+Seat 7: Crawfish ($67.65 in chips)
+Seat 9: Tiger ($188.75 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2h 7d]
+Tiger: folds
+Ben: raises $1.75 to $2.25
+K Bon: folds
+Crawfish: folds
+Uncalled bet ($1.75) returned to Ben
+Ben collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (button) collected ($1.25)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 7: Crawfish (big blind) folded before Flop
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002325:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:16:38 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($247.80 in chips)
+Seat 3: K Bon ($96.30 in chips)
+Seat 7: Crawfish ($67.15 in chips)
+Seat 9: Tiger ($188.75 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qh 2s]
+Ben: folds
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: folds
+Uncalled bet ($1.25) returned to K Bon
+K Bon collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben folded before Flop (didn't bet)
+Seat 3: K Bon (button) collected ($1.25)
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002326:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:16:51 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($247.80 in chips)
+Seat 3: K Bon ($97.05 in chips)
+Seat 7: Crawfish ($66.90 in chips)
+Seat 9: Tiger ($188.25 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2s 8s]
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: folds
+Ben: calls $1.25
+*** FLOP *** [3s 9d 5c]
+Ben: checks
+K Bon: checks
+*** TURN *** [3s 9d 5c] [Qs]
+Ben: checks
+K Bon: bets $2.81
+Ben: folds
+Uncalled bet ($2.81) returned to K Bon
+K Bon collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [3s 9d 5c Qs]
+Seat 1: Ben (big blind) folded on the Turn
+Seat 3: K Bon collected ($3.75)
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002327:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:17:30 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($246.05 in chips)
+Seat 3: K Bon ($99.05 in chips)
+Seat 7: Crawfish ($66.90 in chips)
+Seat 9: Tiger ($188.00 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Js Kd]
+Crawfish: raises $1.25 to $1.75
+Tiger: raises $4.25 to $6.00
+Ben: calls $5.75
+K Bon: calls $5.50
+Crawfish: calls $4.25
+*** FLOP *** [Qd 6h 7c]
+Ben: checks
+K Bon: bets $12.00
+Crawfish: folds
+Tiger: folds
+Ben: folds
+Uncalled bet ($12.00) returned to K Bon
+K Bon collected $24.00 from pot
+*** SUMMARY ***
+Total pot $24.00 | Rake $0
+Board [Qd 6h 7c]
+Seat 1: Ben (small blind) folded on the Flop
+Seat 3: K Bon (big blind) collected ($24.00)
+Seat 7: Crawfish folded on the Flop
+Seat 9: Tiger (button) folded on the Flop
+
+
+PokerStars Hand #250000002328:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:18:09 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($240.05 in chips)
+Seat 3: K Bon ($117.05 in chips)
+Seat 7: Crawfish ($60.90 in chips)
+Seat 9: Tiger ($182.00 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5d Qh]
+Tiger: folds
+Ben: folds
+K Bon: raises $1.00 to $1.50
+Crawfish: calls $1.00
+*** FLOP *** [Qc Kh Ts]
+K Bon: bets $2.25
+Crawfish: calls $2.25
+*** TURN *** [Qc Kh Ts] [Ac]
+K Bon: bets $5.62
+Crawfish: calls $5.62
+*** RIVER *** [Qc Kh Ts Ac] [9s]
+K Bon: checks
+Crawfish: bets $14.05
+K Bon: folds
+Uncalled bet ($14.05) returned to Crawfish
+Crawfish collected $18.74 from pot
+*** SUMMARY ***
+Total pot $18.74 | Rake $0
+Board [Qc Kh Ts Ac 9s]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded on the River
+Seat 7: Crawfish (big blind) collected ($18.74)
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002329:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:19:03 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($240.05 in chips)
+Seat 3: K Bon ($107.68 in chips)
+Seat 7: Crawfish ($70.27 in chips)
+Seat 9: Tiger ($182.00 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4h 4c]
+Ben: raises $1.25 to $1.75
+K Bon: calls $1.75
+Crawfish: raises $5.75 to $7.50
+Tiger: folds
+Ben: folds
+K Bon: folds
+Uncalled bet ($5.75) returned to Crawfish
+Crawfish collected $5.75 from pot
+*** SUMMARY ***
+Total pot $5.75 | Rake $0
+Seat 1: Ben folded before Flop
+Seat 3: K Bon (button) folded before Flop
+Seat 7: Crawfish (small blind) collected ($5.75)
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002330:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:19:39 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($238.30 in chips)
+Seat 3: K Bon ($105.93 in chips)
+Seat 7: Crawfish ($74.27 in chips)
+Seat 9: Tiger ($181.50 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qs Th]
+K Bon: raises $1.25 to $1.75
+Crawfish: calls $1.75
+Tiger: calls $1.50
+Ben: raises $7.00 to $8.75
+K Bon: calls $7.00
+Crawfish: folds
+Tiger: calls $7.00
+*** FLOP *** [4c As 8h]
+Tiger: checks
+Ben: bets $7.00
+K Bon: calls $7.00
+Tiger: folds
+*** TURN *** [4c As 8h] [6d]
+Ben: bets $21.00
+K Bon: calls $21.00
+*** RIVER *** [4c As 8h 6d] [Ad]
+Ben: bets $201.55 and is all-in
+K Bon: calls $69.18 and is all-in
+Uncalled bet ($132.37) returned to Ben
+*** SHOW DOWN ***
+Ben: shows [4s 4h] (a full house, Fours full of Aces)
+K Bon: shows [Ac 6c] (a full house, Aces full of Sixes)
+K Bon collected $222.36 from pot
+*** SUMMARY ***
+Total pot $222.36 | Rake $0
+Board [4c As 8h 6d Ad]
+Seat 1: Ben (big blind) showed [4s 4h] and lost with a full house, Fours full of Aces
+Seat 3: K Bon showed [Ac 6c] and won ($222.36) with a full house, Aces full of Sixes
+Seat 7: Crawfish (button) folded before Flop
+Seat 9: Tiger (small blind) folded on the Flop
+
+
+PokerStars Hand #250000002331:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:20:31 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($132.37 in chips)
+Seat 3: K Bon ($222.36 in chips)
+Seat 7: Crawfish ($72.52 in chips)
+Seat 9: Tiger ($172.75 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3c 5s]
+Crawfish: calls $0.50
+Tiger: folds
+Ben: raises $2.00 to $2.50
+K Bon: calls $2.00
+Crawfish: calls $2.00
+*** FLOP *** [6s Jd 5c]
+Ben: bets $5.62
+K Bon: folds
+Crawfish: calls $5.62
+*** TURN *** [6s Jd 5c] [Th]
+Ben: bets $18.74
+Crawfish: folds
+Uncalled bet ($18.74) returned to Ben
+Ben collected $18.74 from pot
+*** SUMMARY ***
+Total pot $18.74 | Rake $0
+Board [6s Jd 5c Th]
+Seat 1: Ben (small blind) collected ($18.74)
+Seat 3: K Bon (big blind) folded on the Flop
+Seat 7: Crawfish folded on the Turn
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002332:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:21:15 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($142.99 in chips)
+Seat 3: K Bon ($219.86 in chips)
+Seat 7: Crawfish ($64.40 in chips)
+Seat 9: Tiger ($172.75 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4s 3h]
+Tiger: folds
+Ben: raises $1.75 to $2.25
+K Bon: calls $2.00
+Crawfish: calls $1.75
+*** FLOP *** [3c 8h Jh]
+K Bon: checks
+Crawfish: checks
+Ben: bets $9.00
+K Bon: folds
+Crawfish: folds
+Uncalled bet ($9.00) returned to Ben
+Ben collected $6.75 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0
+Board [3c 8h Jh]
+Seat 1: Ben (button) collected ($6.75)
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 7: Crawfish (big blind) folded on the Flop
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002333:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:21:54 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($147.49 in chips)
+Seat 3: K Bon ($217.61 in chips)
+Seat 7: Crawfish ($62.15 in chips)
+Seat 9: Tiger ($172.75 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h 3c]
+Ben: raises $1.75 to $2.25
+K Bon: calls $2.25
+Crawfish: folds
+Tiger: folds
+*** FLOP *** [Td 9s 4s]
+Ben: bets $2.62
+K Bon: folds
+Uncalled bet ($2.62) returned to Ben
+Ben collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0
+Board [Td 9s 4s]
+Seat 1: Ben collected ($5.25)
+Seat 3: K Bon (button) folded on the Flop
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002334:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:22:12 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($150.49 in chips)
+Seat 3: K Bon ($215.36 in chips)
+Seat 7: Crawfish ($61.90 in chips)
+Seat 9: Tiger ($172.25 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [As Qc]
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: raises $4.00 to $5.75
+Ben: folds
+K Bon: calls $4.00
+*** FLOP *** [7s 9c 5h]
+Tiger: checks
+K Bon: checks
+*** TURN *** [7s 9c 5h] [3h]
+Tiger: bets $6.00
+K Bon: calls $6.00
+*** RIVER *** [7s 9c 5h 3h] [8c]
+Tiger: checks
+K Bon: checks
+*** SHOW DOWN ***
+Tiger: shows [As Qc] (high card Ace)
+Tiger collected $24.00 from pot
+*** SUMMARY ***
+Total pot $24.00 | Rake $0
+Board [7s 9c 5h 3h 8c]
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon mucked
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) showed [As Qc] and won ($24.00) with high card Ace
+
+
+PokerStars Hand #250000002335:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:22:51 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($149.99 in chips)
+Seat 3: K Bon ($203.61 in chips)
+Seat 7: Crawfish ($61.90 in chips)
+Seat 9: Tiger ($184.50 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5h Ad]
+Crawfish: folds
+Tiger: calls $0.50
+Ben: raises $3.50 to $4.00
+K Bon: calls $3.50
+Tiger: calls $3.50
+*** FLOP *** [4h Qc Kd]
+Ben: checks
+K Bon: checks
+Tiger: checks
+*** TURN *** [4h Qc Kd] [Td]
+Ben: bets $6.00
+K Bon: calls $6.00
+Tiger: folds
+*** RIVER *** [4h Qc Kd Td] [3d]
+Ben: checks
+K Bon: checks
+*** SHOW DOWN ***
+Ben: shows [Jh Js] (a pair of Jacks)
+Ben collected $24.00 from pot
+*** SUMMARY ***
+Total pot $24.00 | Rake $0
+Board [4h Qc Kd Td 3d]
+Seat 1: Ben (small blind) showed [Jh Js] and won ($24.00) with a pair of Jacks
+Seat 3: K Bon (big blind) mucked
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded on the Turn
+
+
+PokerStars Hand #250000002336:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:23:31 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($163.99 in chips)
+Seat 3: K Bon ($193.61 in chips)
+Seat 7: Crawfish ($61.90 in chips)
+Seat 9: Tiger ($180.50 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6c Ks]
+Tiger: folds
+Ben: raises $2.25 to $2.75
+K Bon: calls $2.50
+Crawfish: calls $2.25
+*** FLOP *** [Ad 6h 3h]
+K Bon: checks
+Crawfish: checks
+Ben: checks
+*** TURN *** [Ad 6h 3h] [Kc]
+K Bon: checks
+Crawfish: bets $6.18
+Ben: folds
+K Bon: folds
+Uncalled bet ($6.18) returned to Crawfish
+Crawfish collected $8.25 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0
+Board [Ad 6h 3h Kc]
+Seat 1: Ben (button) folded on the Turn
+Seat 3: K Bon (small blind) folded on the Turn
+Seat 7: Crawfish (big blind) collected ($8.25)
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002337:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:24:10 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($161.24 in chips)
+Seat 3: K Bon ($190.86 in chips)
+Seat 7: Crawfish ($67.40 in chips)
+Seat 9: Tiger ($180.50 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th 2s]
+Ben: raises $3.00 to $3.50
+K Bon: calls $3.50
+Crawfish: folds
+Tiger: folds
+*** FLOP *** [3s Jc Ks]
+Ben: bets $7.75
+K Bon: calls $7.75
+*** TURN *** [3s Jc Ks] [4s]
+Ben: bets $17.43
+K Bon: calls $17.43
+*** RIVER *** [3s Jc Ks 4s] [Qc]
+Ben: checks
+K Bon: checks
+*** SHOW DOWN ***
+Ben: shows [Ah Kh] (a pair of Kings)
+Ben collected $58.11 from pot
+*** SUMMARY ***
+Total pot $58.11 | Rake $0
+Board [3s Jc Ks 4s Qc]
+Seat 1: Ben showed [Ah Kh] and won ($58.11) with a pair of Kings
+Seat 3: K Bon (button) mucked
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002338:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:24:47 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($190.67 in chips)
+Seat 3: K Bon ($162.18 in chips)
+Seat 7: Crawfish ($67.15 in chips)
+Seat 9: Tiger ($180.00 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4s Qd]
+K Bon: calls $0.50
+Crawfish: folds
+Tiger: folds
+Ben: raises $1.75 to $2.25
+K Bon: calls $1.75
+*** FLOP *** [Th 3s 5s]
+Ben: bets $3.56
+K Bon: folds
+Uncalled bet ($3.56) returned to Ben
+Ben collected $4.75 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0
+Board [Th 3s 5s]
+Seat 1: Ben (big blind) collected ($4.75)
+Seat 3: K Bon folded on the Flop
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002339:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:25:11 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($193.17 in chips)
+Seat 3: K Bon ($159.93 in chips)
+Seat 7: Crawfish ($67.15 in chips)
+Seat 9: Tiger ($179.75 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3d Tc]
+Crawfish: folds
+Tiger: folds
+Ben: raises $1.50 to $2.00
+K Bon: calls $1.50
+*** FLOP *** [Kd 2s 7d]
+Ben: bets $3.00
+K Bon: folds
+Uncalled bet ($3.00) returned to Ben
+Ben collected $4.00 from pot
+*** SUMMARY ***
+Total pot $4.00 | Rake $0
+Board [Kd 2s 7d]
+Seat 1: Ben (small blind) collected ($4.00)
+Seat 3: K Bon (big blind) folded on the Flop
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002340:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:25:36 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($195.17 in chips)
+Seat 3: K Bon ($157.93 in chips)
+Seat 7: Crawfish ($67.15 in chips)
+Seat 9: Tiger ($179.75 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8c 9d]
+Tiger: folds
+Ben: raises $1.75 to $2.25
+K Bon: folds
+Crawfish: calls $1.75
+*** FLOP *** [Kh 2s Td]
+Crawfish: checks
+Ben: bets $2.37
+Crawfish: folds
+Uncalled bet ($2.37) returned to Ben
+Ben collected $4.75 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0
+Board [Kh 2s Td]
+Seat 1: Ben (button) collected ($4.75)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 7: Crawfish (big blind) folded on the Flop
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002341:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:25:58 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($197.67 in chips)
+Seat 3: K Bon ($157.68 in chips)
+Seat 7: Crawfish ($64.90 in chips)
+Seat 9: Tiger ($179.75 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4s 3c]
+Ben: raises $1.25 to $1.75
+K Bon: calls $1.75
+Crawfish: calls $1.50
+Tiger: calls $1.25
+*** FLOP *** [8d 7c 9s]
+Crawfish: bets $5.25
+Tiger: folds
+Ben: folds
+K Bon: folds
+Uncalled bet ($5.25) returned to Crawfish
+Crawfish collected $7.00 from pot
+*** SUMMARY ***
+Total pot $7.00 | Rake $0
+Board [8d 7c 9s]
+Seat 1: Ben folded on the Flop
+Seat 3: K Bon (button) folded on the Flop
+Seat 7: Crawfish (small blind) collected ($7.00)
+Seat 9: Tiger (big blind) folded on the Flop
+
+
+PokerStars Hand #250000002342:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:26:37 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($195.92 in chips)
+Seat 3: K Bon ($155.93 in chips)
+Seat 7: Crawfish ($70.15 in chips)
+Seat 9: Tiger ($178.00 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3h Qs]
+K Bon: folds
+Crawfish: folds
+Tiger: folds
+Uncalled bet ($0.25) returned to Ben
+Ben collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Ben (big blind) collected ($0.50)
+Seat 3: K Bon folded before Flop (didn't bet)
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002343:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:26:47 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($196.17 in chips)
+Seat 3: K Bon ($155.93 in chips)
+Seat 7: Crawfish ($70.15 in chips)
+Seat 9: Tiger ($177.75 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ah 9h]
+Crawfish: raises $1.25 to $1.75
+Tiger: calls $1.75
+Ben: folds
+K Bon: folds
+*** FLOP *** [Kd 5h 3d]
+Crawfish: bets $4.25
+Tiger: calls $4.25
+*** TURN *** [Kd 5h 3d] [7h]
+Crawfish: checks
+Tiger: bets $6.37
+Crawfish: calls $6.37
+*** RIVER *** [Kd 5h 3d 7h] [6h]
+Crawfish: checks
+Tiger: bets $25.49
+Crawfish: folds
+Uncalled bet ($25.49) returned to Tiger
+Tiger collected $25.49 from pot
+*** SUMMARY ***
+Total pot $25.49 | Rake $0
+Board [Kd 5h 3d 7h 6h]
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) folded before Flop
+Seat 7: Crawfish folded on the River
+Seat 9: Tiger (button) collected ($25.49)
+
+
+PokerStars Hand #250000002344:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:27:46 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($195.92 in chips)
+Seat 3: K Bon ($155.43 in chips)
+Seat 7: Crawfish ($57.78 in chips)
+Seat 9: Tiger ($190.87 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4c 4h]
+Tiger: calls $0.50
+Ben: folds
+K Bon: raises $1.50 to $2.00
+Crawfish: folds
+Tiger: calls $1.50
+*** FLOP *** [Ts Qh 6d]
+K Bon: checks
+Tiger: checks
+*** TURN *** [Ts Qh 6d] [2d]
+K Bon: bets $3.37
+Tiger: calls $3.37
+*** RIVER *** [Ts Qh 6d 2d] [5s]
+K Bon: checks
+Tiger: checks
+*** SHOW DOWN ***
+K Bon: shows [Kd 7d] (high card King)
+Tiger: shows [4c 4h] (a pair of Fours)
+Tiger collected $11.24 from pot
+*** SUMMARY ***
+Total pot $11.24 | Rake $0
+Board [Ts Qh 6d 2d 5s]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) showed [Kd 7d] and lost with high card King
+Seat 7: Crawfish (big blind) folded before Flop
+Seat 9: Tiger showed [4c 4h] and won ($11.24) with a pair of Fours
+
+
+PokerStars Hand #250000002345:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:28:21 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($195.92 in chips)
+Seat 3: K Bon ($150.06 in chips)
+Seat 7: Crawfish ($57.28 in chips)
+Seat 9: Tiger ($196.74 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8d 8c]
+Ben: raises $1.25 to $1.75
+K Bon: folds
+Crawfish: calls $1.50
+Tiger: calls $1.25
+*** FLOP *** [Js Kd 3c]
+Crawfish: checks
+Tiger: checks
+Ben: bets $5.25
+Crawfish: folds
+Tiger: folds
+Uncalled bet ($5.25) returned to Ben
+Ben collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0
+Board [Js Kd 3c]
+Seat 1: Ben collected ($5.25)
+Seat 3: K Bon (button) folded before Flop (didn't bet)
+Seat 7: Crawfish (small blind) folded on the Flop
+Seat 9: Tiger (big blind) folded on the Flop
+
+
+PokerStars Hand #250000002346:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:28:52 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($199.42 in chips)
+Seat 3: K Bon ($150.06 in chips)
+Seat 7: Crawfish ($55.53 in chips)
+Seat 9: Tiger ($194.99 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5d 7c]
+K Bon: folds
+Crawfish: folds
+Tiger: folds
+Uncalled bet ($0.25) returned to Ben
+Ben collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Ben (big blind) collected ($0.50)
+Seat 3: K Bon folded before Flop (didn't bet)
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002347:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:29:04 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($199.67 in chips)
+Seat 3: K Bon ($150.06 in chips)
+Seat 7: Crawfish ($55.53 in chips)
+Seat 9: Tiger ($194.74 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jd 5c]
+Crawfish: folds
+Tiger: folds
+Ben: raises $1.00 to $1.50
+K Bon: folds
+Uncalled bet ($1.00) returned to Ben
+Ben collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Ben (small blind) collected ($1.00)
+Seat 3: K Bon (big blind) folded before Flop
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002348:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:29:19 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($200.17 in chips)
+Seat 3: K Bon ($149.56 in chips)
+Seat 7: Crawfish ($55.53 in chips)
+Seat 9: Tiger ($194.74 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7d 8s]
+Tiger: folds
+Ben: raises $1.75 to $2.25
+K Bon: calls $2.00
+Crawfish: calls $1.75
+*** FLOP *** [6d Jh As]
+K Bon: checks
+Crawfish: checks
+Ben: checks
+*** TURN *** [6d Jh As] [3c]
+K Bon: checks
+Crawfish: checks
+Ben: checks
+*** RIVER *** [6d Jh As 3c] [Qc]
+K Bon: checks
+Crawfish: checks
+Ben: checks
+*** SHOW DOWN ***
+K Bon: shows [Js Qd] (two pair, Queens and Jacks)
+K Bon collected $6.75 from pot
+*** SUMMARY ***
+Total pot $6.75 | Rake $0
+Board [6d Jh As 3c Qc]
+Seat 1: Ben (button) mucked
+Seat 3: K Bon (small blind) showed [Js Qd] and won ($6.75) with two pair, Queens and Jacks
+Seat 7: Crawfish (big blind) mucked
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002349:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:30:06 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($197.92 in chips)
+Seat 3: K Bon ($154.06 in chips)
+Seat 7: Crawfish ($53.28 in chips)
+Seat 9: Tiger ($194.74 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4h Td]
+Ben: folds
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: folds
+Uncalled bet ($1.25) returned to K Bon
+K Bon collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben folded before Flop (didn't bet)
+Seat 3: K Bon (button) collected ($1.25)
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002350:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:30:21 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($197.92 in chips)
+Seat 3: K Bon ($154.81 in chips)
+Seat 7: Crawfish ($53.03 in chips)
+Seat 9: Tiger ($194.24 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5c 5s]
+K Bon: raises $1.25 to $1.75
+Crawfish: calls $1.75
+Tiger: calls $1.50
+Ben: calls $1.25
+*** FLOP *** [8h Kd 7d]
+Tiger: checks
+Ben: checks
+K Bon: checks
+Crawfish: bets $5.25
+Tiger: folds
+Ben: calls $5.25
+K Bon: folds
+*** TURN *** [8h Kd 7d] [Qd]
+Ben: checks
+Crawfish: checks
+*** RIVER *** [8h Kd 7d Qd] [8c]
+Ben: checks
+Crawfish: bets $46.03 and is all-in
+Ben: folds
+Uncalled bet ($46.03) returned to Crawfish
+Crawfish collected $17.50 from pot
+*** SUMMARY ***
+Total pot $17.50 | Rake $0
+Board [8h Kd 7d Qd 8c]
+Seat 1: Ben (big blind) folded on the River
+Seat 3: K Bon folded on the Flop
+Seat 7: Crawfish (button) collected ($17.50)
+Seat 9: Tiger (small blind) folded on the Flop
+
+
+PokerStars Hand #250000002351:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:31:22 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($190.92 in chips)
+Seat 3: K Bon ($153.06 in chips)
+Seat 7: Crawfish ($63.53 in chips)
+Seat 9: Tiger ($192.49 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9h 4c]
+Crawfish: calls $0.50
+Tiger: folds
+Ben: folds
+K Bon: checks
+*** FLOP *** [4h 8h 2c]
+K Bon: checks
+Crawfish: checks
+*** TURN *** [4h 8h 2c] [Kc]
+K Bon: bets $1.25
+Crawfish: raises $1.87 to $3.12
+K Bon: calls $1.87
+*** RIVER *** [4h 8h 2c Kc] [Qh]
+K Bon: bets $7.49
+Crawfish: calls $7.49
+*** SHOW DOWN ***
+K Bon: shows [2d Kh] (two pair, Kings and Deuces)
+K Bon collected $22.47 from pot
+*** SUMMARY ***
+Total pot $22.47 | Rake $0
+Board [4h 8h 2c Kc Qh]
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) showed [2d Kh] and won ($22.47) with two pair, Kings and Deuces
+Seat 7: Crawfish mucked
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002352:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:32:10 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($190.67 in chips)
+Seat 3: K Bon ($164.42 in chips)
+Seat 7: Crawfish ($52.42 in chips)
+Seat 9: Tiger ($192.49 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jd 9s]
+Tiger: calls $0.50
+Ben: folds
+K Bon: folds
+Crawfish: checks
+*** FLOP *** [Td 5h Jh]
+Crawfish: checks
+Tiger: bets $0.62
+Crawfish: raises $2.49 to $3.11
+Tiger: calls $2.49
+*** TURN *** [Td 5h Jh] [5d]
+Crawfish: checks
+Tiger: bets $5.60
+Crawfish: calls $5.60
+*** RIVER *** [Td 5h Jh 5d] [7d]
+Crawfish: checks
+Tiger: checks
+*** SHOW DOWN ***
+Crawfish: shows [4h 3h] (a pair of Fives)
+Tiger: shows [Jd 9s] (two pair, Jacks and Fives)
+Tiger collected $18.67 from pot
+*** SUMMARY ***
+Total pot $18.67 | Rake $0
+Board [Td 5h Jh 5d 7d]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 7: Crawfish (big blind) showed [4h 3h] and lost with a pair of Fives
+Seat 9: Tiger showed [Jd 9s] and won ($18.67) with two pair, Jacks and Fives
+
+
+PokerStars Hand #250000002353:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:32:48 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($190.67 in chips)
+Seat 3: K Bon ($164.17 in chips)
+Seat 7: Crawfish ($43.21 in chips)
+Seat 9: Tiger ($201.95 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ks 9s]
+Ben: folds
+K Bon: folds
+Crawfish: raises $1.00 to $1.50
+Tiger: raises $2.25 to $3.75
+Crawfish: calls $2.25
+*** FLOP *** [Tc 4h Kc]
+Crawfish: checks
+Tiger: bets $3.75
+Crawfish: folds
+Uncalled bet ($3.75) returned to Tiger
+Tiger collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0
+Board [Tc 4h Kc]
+Seat 1: Ben folded before Flop (didn't bet)
+Seat 3: K Bon (button) folded before Flop (didn't bet)
+Seat 7: Crawfish (small blind) folded on the Flop
+Seat 9: Tiger (big blind) collected ($7.50)
+
+
+PokerStars Hand #250000002354:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:33:16 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($190.67 in chips)
+Seat 3: K Bon ($164.17 in chips)
+Seat 7: Crawfish ($39.46 in chips)
+Seat 9: Tiger ($205.70 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th 3c]
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: folds
+Ben: raises $3.75 to $5.50
+K Bon: calls $3.75
+*** FLOP *** [Kh Js 3s]
+Ben: checks
+K Bon: checks
+*** TURN *** [Kh Js 3s] [Td]
+Ben: bets $8.43
+K Bon: folds
+Uncalled bet ($8.43) returned to Ben
+Ben collected $11.25 from pot
+*** SUMMARY ***
+Total pot $11.25 | Rake $0
+Board [Kh Js 3s Td]
+Seat 1: Ben (big blind) collected ($11.25)
+Seat 3: K Bon folded on the Turn
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002355:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:33:55 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($196.42 in chips)
+Seat 3: K Bon ($158.67 in chips)
+Seat 7: Crawfish ($39.46 in chips)
+Seat 9: Tiger ($205.45 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3s 3h]
+Crawfish: folds
+Tiger: calls $0.50
+Ben: folds
+K Bon: raises $1.25 to $1.75
+Tiger: calls $1.25
+*** FLOP *** [Kc 2c 5c]
+K Bon: checks
+Tiger: checks
+*** TURN *** [Kc 2c 5c] [5d]
+K Bon: checks
+Tiger: bets $1.87
+K Bon: calls $1.87
+*** RIVER *** [Kc 2c 5c 5d] [8c]
+K Bon: checks
+Tiger: checks
+*** SHOW DOWN ***
+K Bon: shows [9d 7d] (a pair of Fives)
+Tiger: shows [3s 3h] (two pair, Fives and Threes)
+Tiger collected $7.49 from pot
+*** SUMMARY ***
+Total pot $7.49 | Rake $0
+Board [Kc 2c 5c 5d 8c]
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) showed [9d 7d] and lost with a pair of Fives
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) showed [3s 3h] and won ($7.49) with two pair, Fives and Threes
+
+
+PokerStars Hand #250000002356:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:34:38 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($196.17 in chips)
+Seat 3: K Bon ($155.05 in chips)
+Seat 7: Crawfish ($39.46 in chips)
+Seat 9: Tiger ($209.32 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8d 3h]
+Tiger: folds
+Ben: folds
+K Bon: raises $1.50 to $2.00
+Crawfish: raises $4.00 to $6.00
+K Bon: calls $4.00
+*** FLOP *** [7d 7h Th]
+K Bon: bets $9.00
+Crawfish: raises $24.46 to $33.46 and is all-in
+K Bon: calls $24.46
+*** TURN *** [7d 7h Th] [Jc]
+*** RIVER *** [7d 7h Th Jc] [8h]
+*** SHOW DOWN ***
+K Bon: shows [Ks Ts] (two pair, Tens and Sevens)
+Crawfish: shows [Jh Js] (a full house, Jacks full of Sevens)
+Crawfish collected $78.92 from pot
+*** SUMMARY ***
+Total pot $78.92 | Rake $0
+Board [7d 7h Th Jc 8h]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) showed [Ks Ts] and lost with two pair, Tens and Sevens
+Seat 7: Crawfish (big blind) showed [Jh Js] and won ($78.92) with a full house, Jacks full of Sevens
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002357:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:35:36 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($196.17 in chips)
+Seat 3: K Bon ($115.59 in chips)
+Seat 7: Crawfish ($78.92 in chips)
+Seat 9: Tiger ($209.32 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jc 8s]
+Ben: raises $1.25 to $1.75
+K Bon: calls $1.75
+Crawfish: folds
+Tiger: calls $1.25
+*** FLOP *** [7s 7c Js]
+Tiger: checks
+Ben: checks
+K Bon: checks
+*** TURN *** [7s 7c Js] [5h]
+Tiger: bets $2.75
+Ben: raises $11.00 to $13.75
+K Bon: folds
+Tiger: calls $11.00
+*** RIVER *** [7s 7c Js 5h] [2c]
+Tiger: checks
+Ben: checks
+*** SHOW DOWN ***
+Tiger: shows [Jc 8s] (two pair, Jacks and Sevens)
+Ben: shows [7d 6c] (three of a kind, Sevens)
+Ben collected $33.00 from pot
+*** SUMMARY ***
+Total pot $33.00 | Rake $0
+Board [7s 7c Js 5h 2c]
+Seat 1: Ben showed [7d 6c] and won ($33.00) with three of a kind, Sevens
+Seat 3: K Bon (button) folded on the Turn
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 9: Tiger (big blind) showed [Jc 8s] and lost with two pair, Jacks and Sevens
+
+
+PokerStars Hand #250000002358:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:36:28 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($213.67 in chips)
+Seat 3: K Bon ($113.84 in chips)
+Seat 7: Crawfish ($78.67 in chips)
+Seat 9: Tiger ($193.82 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jh 3s]
+K Bon: raises $1.25 to $1.75
+Crawfish: folds
+Tiger: folds
+Ben: folds
+Uncalled bet ($1.25) returned to K Bon
+K Bon collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon collected ($1.25)
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002359:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:36:55 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($213.17 in chips)
+Seat 3: K Bon ($114.59 in chips)
+Seat 7: Crawfish ($78.67 in chips)
+Seat 9: Tiger ($193.57 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2h 7c]
+Crawfish: folds
+Tiger: folds
+Ben: folds
+Uncalled bet ($0.25) returned to K Bon
+K Bon collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) collected ($0.50)
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002360:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:37:14 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($212.92 in chips)
+Seat 3: K Bon ($114.84 in chips)
+Seat 7: Crawfish ($78.67 in chips)
+Seat 9: Tiger ($193.57 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9c Jd]
+Tiger: folds
+Ben: raises $1.25 to $1.75
+K Bon: calls $1.50
+Crawfish: calls $1.25
+*** FLOP *** [6d Ts 5c]
+K Bon: bets $3.93
+Crawfish: calls $3.93
+Ben: folds
+*** TURN *** [6d Ts 5c] [6s]
+K Bon: bets $6.55
+Crawfish: calls $6.55
+*** RIVER *** [6d Ts 5c 6s] [Qs]
+K Bon: bets $26.21
+Crawfish: folds
+Uncalled bet ($26.21) returned to K Bon
+K Bon collected $26.21 from pot
+*** SUMMARY ***
+Total pot $26.21 | Rake $0
+Board [6d Ts 5c 6s Qs]
+Seat 1: Ben (button) folded on the Flop
+Seat 3: K Bon (small blind) collected ($26.21)
+Seat 7: Crawfish (big blind) folded on the River
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002361:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:38:20 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($211.17 in chips)
+Seat 3: K Bon ($128.82 in chips)
+Seat 7: Crawfish ($66.44 in chips)
+Seat 9: Tiger ($193.57 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6h Jc]
+Ben: folds
+K Bon: calls $0.50
+Crawfish: folds
+Tiger: checks
+*** FLOP *** [9d Ah 2s]
+Tiger: checks
+K Bon: checks
+*** TURN *** [9d Ah 2s] [Jh]
+Tiger: checks
+K Bon: checks
+*** RIVER *** [9d Ah 2s Jh] [Js]
+Tiger: bets $193.07 and is all-in
+K Bon: folds
+Uncalled bet ($193.07) returned to Tiger
+Tiger collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Board [9d Ah 2s Jh Js]
+Seat 1: Ben folded before Flop (didn't bet)
+Seat 3: K Bon (button) folded on the River
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 9: Tiger (big blind) collected ($1.25)
+
+
+PokerStars Hand #250000002362:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:38:50 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($211.17 in chips)
+Seat 3: K Bon ($128.32 in chips)
+Seat 7: Crawfish ($66.19 in chips)
+Seat 9: Tiger ($194.32 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3c Jd]
+K Bon: folds
+Crawfish: folds
+Tiger: folds
+Uncalled bet ($0.25) returned to Ben
+Ben collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Ben (big blind) collected ($0.50)
+Seat 3: K Bon folded before Flop (didn't bet)
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002363:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:39:02 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($211.42 in chips)
+Seat 3: K Bon ($128.32 in chips)
+Seat 7: Crawfish ($66.19 in chips)
+Seat 9: Tiger ($194.07 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4s Jh]
+Crawfish: folds
+Tiger: calls $0.50
+Ben: folds
+K Bon: checks
+*** FLOP *** [7h 5c 7s]
+K Bon: bets $1.25
+Tiger: folds
+Uncalled bet ($1.25) returned to K Bon
+K Bon collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Board [7h 5c 7s]
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) collected ($1.25)
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded on the Flop
+
+
+PokerStars Hand #250000002364:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:39:29 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($211.17 in chips)
+Seat 3: K Bon ($129.07 in chips)
+Seat 7: Crawfish ($66.19 in chips)
+Seat 9: Tiger ($193.57 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Js 7h]
+Tiger: folds
+Ben: folds
+K Bon: calls $0.25
+Crawfish: checks
+*** FLOP *** [Qd 2c 4c]
+K Bon: checks
+Crawfish: bets $0.75
+K Bon: folds
+Uncalled bet ($0.75) returned to Crawfish
+Crawfish collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Board [Qd 2c 4c]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 7: Crawfish (big blind) collected ($1.00)
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002365:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:40:05 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($211.17 in chips)
+Seat 3: K Bon ($128.57 in chips)
+Seat 7: Crawfish ($66.69 in chips)
+Seat 9: Tiger ($193.57 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3d Qc]
+Ben: raises $1.75 to $2.25
+K Bon: raises $3.93 to $6.18
+Crawfish: calls $5.93
+Tiger: folds
+Ben: calls $3.93
+*** FLOP *** [5s Qd 4h]
+Crawfish: checks
+Ben: bets $9.52
+K Bon: calls $9.52
+Crawfish: folds
+*** TURN *** [5s Qd 4h] [9s]
+Ben: bets $28.56
+K Bon: folds
+Uncalled bet ($28.56) returned to Ben
+Ben collected $38.08 from pot
+*** SUMMARY ***
+Total pot $38.08 | Rake $0
+Board [5s Qd 4h 9s]
+Seat 1: Ben collected ($38.08)
+Seat 3: K Bon (button) folded on the Turn
+Seat 7: Crawfish (small blind) folded on the Flop
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002366:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:41:18 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($233.55 in chips)
+Seat 3: K Bon ($112.87 in chips)
+Seat 7: Crawfish ($60.51 in chips)
+Seat 9: Tiger ($193.07 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8h 8c]
+K Bon: folds
+Crawfish: folds
+Tiger: calls $0.25
+Ben: raises $1.50 to $2.00
+Tiger: calls $1.50
+*** FLOP *** [Jc 4h Js]
+Tiger: bets $2.00
+Ben: calls $2.00
+*** TURN *** [Jc 4h Js] [6c]
+Tiger: bets $6.00
+Ben: folds
+Uncalled bet ($6.00) returned to Tiger
+Tiger collected $8.00 from pot
+*** SUMMARY ***
+Total pot $8.00 | Rake $0
+Board [Jc 4h Js 6c]
+Seat 1: Ben (big blind) folded on the Turn
+Seat 3: K Bon folded before Flop (didn't bet)
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) collected ($8.00)
+
+
+PokerStars Hand #250000002367:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:42:12 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($229.55 in chips)
+Seat 3: K Bon ($112.87 in chips)
+Seat 7: Crawfish ($60.51 in chips)
+Seat 9: Tiger ($197.07 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2h 2c]
+Crawfish: raises $1.25 to $1.75
+Tiger: calls $1.75
+Ben: raises $5.75 to $7.50
+K Bon: calls $7.00
+Crawfish: raises $53.01 to $60.51 and is all-in
+Tiger: folds
+Ben: folds
+K Bon: folds
+Uncalled bet ($53.01) returned to Crawfish
+Crawfish collected $24.25 from pot
+*** SUMMARY ***
+Total pot $24.25 | Rake $0
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) folded before Flop
+Seat 7: Crawfish collected ($24.25)
+Seat 9: Tiger (button) folded before Flop
+
+
+PokerStars Hand #250000002368:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:42:47 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($222.05 in chips)
+Seat 3: K Bon ($105.37 in chips)
+Seat 7: Crawfish ($77.26 in chips)
+Seat 9: Tiger ($195.32 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9d 4s]
+Tiger: folds
+Ben: raises $1.25 to $1.75
+K Bon: folds
+Crawfish: folds
+Uncalled bet ($1.25) returned to Ben
+Ben collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (button) collected ($1.25)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 7: Crawfish (big blind) folded before Flop
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002369:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:43:10 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($222.80 in chips)
+Seat 3: K Bon ($105.12 in chips)
+Seat 7: Crawfish ($76.76 in chips)
+Seat 9: Tiger ($195.32 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2s 3s]
+Ben: folds
+K Bon: raises $1.25 to $1.75
+Crawfish: calls $1.50
+Tiger: calls $1.25
+*** FLOP *** [4s 6c Qc]
+Crawfish: checks
+Tiger: checks
+K Bon: checks
+*** TURN *** [4s 6c Qc] [Jc]
+Crawfish: bets $3.93
+Tiger: folds
+K Bon: calls $3.93
+*** RIVER *** [4s 6c Qc Jc] [5s]
+Crawfish: checks
+K Bon: checks
+*** SHOW DOWN ***
+Crawfish: shows [5d 6h] (two pair, Sixes and Fives)
+Crawfish collected $13.11 from pot
+*** SUMMARY ***
+Total pot $13.11 | Rake $0
+Board [4s 6c Qc Jc 5s]
+Seat 1: Ben folded before Flop (didn't bet)
+Seat 3: K Bon (button) mucked
+Seat 7: Crawfish (small blind) showed [5d 6h] and won ($13.11) with two pair, Sixes and Fives
+Seat 9: Tiger (big blind) folded on the Turn
+
+
+PokerStars Hand #250000002370:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:44:02 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($222.80 in chips)
+Seat 3: K Bon ($99.44 in chips)
+Seat 7: Crawfish ($84.19 in chips)
+Seat 9: Tiger ($193.57 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [4h 9s]
+K Bon: raises $1.25 to $1.75
+Crawfish: calls $1.75
+Tiger: folds
+Ben: calls $1.25
+*** FLOP *** [3s Ah 8d]
+Ben: checks
+K Bon: checks
+Crawfish: checks
+*** TURN *** [3s Ah 8d] [As]
+Ben: checks
+K Bon: checks
+Crawfish: bets $4.12
+Ben: folds
+K Bon: folds
+Uncalled bet ($4.12) returned to Crawfish
+Crawfish collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.50 | Rake $0
+Board [3s Ah 8d As]
+Seat 1: Ben (big blind) folded on the Turn
+Seat 3: K Bon folded on the Turn
+Seat 7: Crawfish (button) collected ($5.50)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002371:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:45:06 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($221.05 in chips)
+Seat 3: K Bon ($97.69 in chips)
+Seat 7: Crawfish ($87.94 in chips)
+Seat 9: Tiger ($193.32 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3h 7s]
+Crawfish: folds
+Tiger: folds
+Ben: raises $1.00 to $1.50
+K Bon: calls $1.00
+*** FLOP *** [Jh Kc 4c]
+Ben: checks
+K Bon: checks
+*** TURN *** [Jh Kc 4c] [3s]
+Ben: checks
+K Bon: checks
+*** RIVER *** [Jh Kc 4c 3s] [4d]
+Ben: checks
+K Bon: checks
+*** SHOW DOWN ***
+Ben: shows [Td 8h] (a pair of Fours)
+K Bon: shows [Ts 6s] (a pair of Fours)
+Ben collected $1.50 from pot
+K Bon collected $1.50 from pot
+*** SUMMARY ***
+Total pot $3.00 | Rake $0
+Board [Jh Kc 4c 3s 4d]
+Seat 1: Ben (small blind) showed [Td 8h] and won ($1.50) with a pair of Fours
+Seat 3: K Bon (big blind) showed [Ts 6s] and won ($1.50) with a pair of Fours
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002372:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:46:10 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($221.05 in chips)
+Seat 3: K Bon ($97.69 in chips)
+Seat 7: Crawfish ($87.94 in chips)
+Seat 9: Tiger ($193.32 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9h Kd]
+Tiger: calls $0.50
+Ben: raises $2.25 to $2.75
+K Bon: calls $2.50
+Crawfish: raises $4.37 to $7.12
+Tiger: folds
+Ben: calls $4.37
+K Bon: calls $4.37
+*** FLOP *** [4c 3s 3h]
+K Bon: checks
+Crawfish: bets $10.93
+Ben: folds
+K Bon: calls $10.93
+*** TURN *** [4c 3s 3h] [Qd]
+K Bon: checks
+Crawfish: bets $21.86
+K Bon: folds
+Uncalled bet ($21.86) returned to Crawfish
+Crawfish collected $43.72 from pot
+*** SUMMARY ***
+Total pot $43.72 | Rake $0
+Board [4c 3s 3h Qd]
+Seat 1: Ben (button) folded on the Flop
+Seat 3: K Bon (small blind) folded on the Turn
+Seat 7: Crawfish (big blind) collected ($43.72)
+Seat 9: Tiger folded before Flop
+
+
+PokerStars Hand #250000002373:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:47:24 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($213.93 in chips)
+Seat 3: K Bon ($79.64 in chips)
+Seat 7: Crawfish ($113.61 in chips)
+Seat 9: Tiger ($192.82 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qh Jd]
+Ben: folds
+K Bon: calls $0.50
+Crawfish: folds
+Tiger: raises $1.25 to $1.75
+K Bon: calls $1.25
+*** FLOP *** [Td Ts 4h]
+Tiger: checks
+K Bon: checks
+*** TURN *** [Td Ts 4h] [Kc]
+Tiger: bets $1.87
+K Bon: folds
+Uncalled bet ($1.87) returned to Tiger
+Tiger collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [Td Ts 4h Kc]
+Seat 1: Ben folded before Flop (didn't bet)
+Seat 3: K Bon (button) folded on the Turn
+Seat 7: Crawfish (small blind) folded before Flop
+Seat 9: Tiger (big blind) collected ($3.75)
+
+
+PokerStars Hand #250000002374:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:48:00 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($213.93 in chips)
+Seat 3: K Bon ($77.89 in chips)
+Seat 7: Crawfish ($113.36 in chips)
+Seat 9: Tiger ($194.82 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3h Th]
+K Bon: folds
+Crawfish: raises $2.25 to $2.75
+Tiger: calls $2.50
+Ben: folds
+*** FLOP *** [Jc 3d Ts]
+Tiger: bets $4.50
+Crawfish: calls $4.50
+*** TURN *** [Jc 3d Ts] [9s]
+Tiger: bets $7.50
+Crawfish: calls $7.50
+*** RIVER *** [Jc 3d Ts 9s] [Qc]
+Tiger: checks
+Crawfish: bets $98.61 and is all-in
+Tiger: folds
+Uncalled bet ($98.61) returned to Crawfish
+Crawfish collected $30.00 from pot
+*** SUMMARY ***
+Total pot $30.00 | Rake $0
+Board [Jc 3d Ts 9s Qc]
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon folded before Flop (didn't bet)
+Seat 7: Crawfish (button) collected ($30.00)
+Seat 9: Tiger (small blind) folded on the River
+
+
+PokerStars Hand #250000002375:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:48:58 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($213.43 in chips)
+Seat 3: K Bon ($77.89 in chips)
+Seat 7: Crawfish ($128.61 in chips)
+Seat 9: Tiger ($180.07 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jd Qs]
+Crawfish: folds
+Tiger: raises $1.25 to $1.75
+Ben: folds
+K Bon: calls $1.25
+*** FLOP *** [Tc Qc 5c]
+K Bon: checks
+Tiger: checks
+*** TURN *** [Tc Qc 5c] [8c]
+K Bon: checks
+Tiger: checks
+*** RIVER *** [Tc Qc 5c 8c] [9d]
+K Bon: bets $3.75
+Tiger: calls $3.75
+*** SHOW DOWN ***
+K Bon: shows [2c Ah] (a flush, Queen high)
+K Bon collected $11.25 from pot
+*** SUMMARY ***
+Total pot $11.25 | Rake $0
+Board [Tc Qc 5c 8c 9d]
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) showed [2c Ah] and won ($11.25) with a flush, Queen high
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) mucked
+
+
+PokerStars Hand #250000002376:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:49:31 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($213.18 in chips)
+Seat 3: K Bon ($83.64 in chips)
+Seat 7: Crawfish ($128.61 in chips)
+Seat 9: Tiger ($174.57 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ah 3s]
+Tiger: calls $0.50
+Ben: raises $1.75 to $2.25
+K Bon: calls $2.00
+Crawfish: calls $1.75
+Tiger: calls $1.75
+*** FLOP *** [2h Ks Js]
+K Bon: bets $6.75
+Crawfish: calls $6.75
+Tiger: folds
+Ben: calls $6.75
+*** TURN *** [2h Ks Js] [Kd]
+K Bon: checks
+Crawfish: bets $21.93
+Ben: raises $182.25 to $204.18 and is all-in
+K Bon: folds
+Crawfish: folds
+Uncalled bet ($182.25) returned to Ben
+Ben collected $73.11 from pot
+*** SUMMARY ***
+Total pot $73.11 | Rake $0
+Board [2h Ks Js Kd]
+Seat 1: Ben (button) collected ($73.11)
+Seat 3: K Bon (small blind) folded on the Turn
+Seat 7: Crawfish (big blind) folded on the Turn
+Seat 9: Tiger folded on the Flop
+
+
+PokerStars Hand #250000002377:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:51:06 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($255.36 in chips)
+Seat 3: K Bon ($74.64 in chips)
+Seat 7: Crawfish ($97.68 in chips)
+Seat 9: Tiger ($172.32 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jd 4c]
+Ben: raises $1.75 to $2.25
+K Bon: calls $2.25
+Crawfish: calls $2.00
+Tiger: folds
+*** FLOP *** [4d 5d Kc]
+Crawfish: checks
+Ben: checks
+K Bon: checks
+*** TURN *** [4d 5d Kc] [5h]
+Crawfish: bets $3.62
+Ben: folds
+K Bon: calls $3.62
+*** RIVER *** [4d 5d Kc 5h] [2h]
+Crawfish: checks
+K Bon: checks
+*** SHOW DOWN ***
+Crawfish: shows [9h 7d] (a pair of Fives)
+K Bon: shows [4s Qs] (two pair, Fives and Fours)
+K Bon collected $14.49 from pot
+*** SUMMARY ***
+Total pot $14.49 | Rake $0
+Board [4d 5d Kc 5h 2h]
+Seat 1: Ben folded on the Turn
+Seat 3: K Bon (button) showed [4s Qs] and won ($14.49) with two pair, Fives and Fours
+Seat 7: Crawfish (small blind) showed [9h 7d] and lost with a pair of Fives
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002378:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:52:11 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($253.11 in chips)
+Seat 3: K Bon ($83.26 in chips)
+Seat 7: Crawfish ($91.81 in chips)
+Seat 9: Tiger ($171.82 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Js 5c]
+K Bon: calls $0.50
+Crawfish: calls $0.50
+Tiger: calls $0.25
+Ben: raises $2.50 to $3.00
+K Bon: calls $2.50
+Crawfish: calls $2.50
+Tiger: folds
+*** FLOP *** [8s Ks Td]
+Ben: bets $7.12
+K Bon: folds
+Crawfish: calls $7.12
+*** TURN *** [8s Ks Td] [Kh]
+Ben: bets $17.80
+Crawfish: raises $63.89 to $81.69 and is all-in
+Ben: folds
+Uncalled bet ($63.89) returned to Crawfish
+Crawfish collected $59.34 from pot
+*** SUMMARY ***
+Total pot $59.34 | Rake $0
+Board [8s Ks Td Kh]
+Seat 1: Ben (big blind) folded on the Turn
+Seat 3: K Bon folded on the Flop
+Seat 7: Crawfish (button) collected ($59.34)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002379:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:53:48 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($225.19 in chips)
+Seat 3: K Bon ($80.26 in chips)
+Seat 7: Crawfish ($123.23 in chips)
+Seat 9: Tiger ($171.32 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th 4c]
+Crawfish: folds
+Tiger: folds
+Ben: folds
+Uncalled bet ($0.25) returned to K Bon
+K Bon collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) collected ($0.50)
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002380:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:54:02 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($224.94 in chips)
+Seat 3: K Bon ($80.51 in chips)
+Seat 7: Crawfish ($123.23 in chips)
+Seat 9: Tiger ($171.32 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Tc Ad]
+Tiger: raises $1.25 to $1.75
+Ben: folds
+K Bon: folds
+Crawfish: calls $1.25
+*** FLOP *** [Ks Qd 5c]
+Crawfish: checks
+Tiger: bets $1.87
+Crawfish: calls $1.87
+*** TURN *** [Ks Qd 5c] [2d]
+Crawfish: checks
+Tiger: checks
+*** RIVER *** [Ks Qd 5c 2d] [9d]
+Crawfish: checks
+Tiger: checks
+*** SHOW DOWN ***
+Crawfish: shows [Ts 5d] (a pair of Fives)
+Crawfish collected $7.49 from pot
+*** SUMMARY ***
+Total pot $7.49 | Rake $0
+Board [Ks Qd 5c 2d 9d]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 7: Crawfish (big blind) showed [Ts 5d] and won ($7.49) with a pair of Fives
+Seat 9: Tiger mucked
+
+
+PokerStars Hand #250000002381:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:54:34 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($224.94 in chips)
+Seat 3: K Bon ($80.26 in chips)
+Seat 7: Crawfish ($127.10 in chips)
+Seat 9: Tiger ($167.70 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [As 5h]
+Ben: raises $1.75 to $2.25
+K Bon: calls $2.25
+Crawfish: calls $2.00
+Tiger: calls $1.75
+*** FLOP *** [7s 4c 8h]
+Crawfish: checks
+Tiger: checks
+Ben: checks
+K Bon: checks
+*** TURN *** [7s 4c 8h] [Qc]
+Crawfish: checks
+Tiger: checks
+Ben: bets $6.75
+K Bon: folds
+Crawfish: calls $6.75
+Tiger: folds
+*** RIVER *** [7s 4c 8h Qc] [Jd]
+Crawfish: checks
+Ben: bets $22.50
+Crawfish: folds
+Uncalled bet ($22.50) returned to Ben
+Ben collected $22.50 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $0
+Board [7s 4c 8h Qc Jd]
+Seat 1: Ben collected ($22.50)
+Seat 3: K Bon (button) folded on the Turn
+Seat 7: Crawfish (small blind) folded on the River
+Seat 9: Tiger (big blind) folded on the Turn
+
+
+PokerStars Hand #250000002382:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:55:21 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($238.44 in chips)
+Seat 3: K Bon ($78.01 in chips)
+Seat 7: Crawfish ($118.10 in chips)
+Seat 9: Tiger ($165.45 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5c Qc]
+K Bon: raises $5.62 to $6.12
+Crawfish: folds
+Tiger: calls $5.87
+Ben: folds
+*** FLOP *** [4s Qh 7c]
+Tiger: bets $6.37
+K Bon: calls $6.37
+*** TURN *** [4s Qh 7c] [9d]
+Tiger: checks
+K Bon: checks
+*** RIVER *** [4s Qh 7c 9d] [Td]
+Tiger: checks
+K Bon: checks
+*** SHOW DOWN ***
+Tiger: shows [5c Qc] (a pair of Queens)
+K Bon: shows [Ad Qs] (a pair of Queens)
+K Bon collected $25.48 from pot
+*** SUMMARY ***
+Total pot $25.48 | Rake $0
+Board [4s Qh 7c 9d Td]
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon showed [Ad Qs] and won ($25.48) with a pair of Queens
+Seat 7: Crawfish (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) showed [5c Qc] and lost with a pair of Queens
+
+
+PokerStars Hand #250000002383:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:56:00 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($237.94 in chips)
+Seat 3: K Bon ($91.00 in chips)
+Seat 7: Crawfish ($118.10 in chips)
+Seat 9: Tiger ($152.96 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th Qd]
+Crawfish: folds
+Tiger: raises $1.75 to $2.25
+Ben: folds
+K Bon: folds
+Uncalled bet ($1.75) returned to Tiger
+Tiger collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) folded before Flop
+Seat 7: Crawfish folded before Flop (didn't bet)
+Seat 9: Tiger (button) collected ($1.25)
+
+
+PokerStars Hand #250000002384:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:56:27 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($237.69 in chips)
+Seat 3: K Bon ($90.50 in chips)
+Seat 7: Crawfish ($118.10 in chips)
+Seat 9: Tiger ($153.71 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5d 7c]
+Tiger: folds
+Ben: raises $1.25 to $1.75
+K Bon: calls $1.50
+Crawfish: calls $1.25
+*** FLOP *** [3d 3s 4c]
+K Bon: checks
+Crawfish: bets $5.25
+Ben: folds
+K Bon: folds
+Uncalled bet ($5.25) returned to Crawfish
+Crawfish collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0
+Board [3d 3s 4c]
+Seat 1: Ben (button) folded on the Flop
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 7: Crawfish (big blind) collected ($5.25)
+Seat 9: Tiger folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002385:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:57:04 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($235.94 in chips)
+Seat 3: K Bon ($88.75 in chips)
+Seat 7: Crawfish ($121.60 in chips)
+Seat 9: Tiger ($223.71 in chips)
+Crawfish: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3d 3h]
+Ben: raises $1.75 to $2.25
+K Bon: calls $2.25
+Crawfish: calls $2.00
+Tiger: calls $1.75
+*** FLOP *** [Ac 7h 7c]
+Crawfish: checks
+Tiger: checks
+Ben: bets $4.50
+K Bon: folds
+Crawfish: folds
+Tiger: folds
+Uncalled bet ($4.50) returned to Ben
+Ben collected $9.00 from pot
+*** SUMMARY ***
+Total pot $9.00 | Rake $0
+Board [Ac 7h 7c]
+Seat 1: Ben collected ($9.00)
+Seat 3: K Bon (button) folded on the Flop
+Seat 7: Crawfish (small blind) folded on the Flop
+Seat 9: Tiger (big blind) folded on the Flop
+
+
+PokerStars Hand #250000002386:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:57:42 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #7 is the button
+Seat 1: Ben ($242.69 in chips)
+Seat 3: K Bon ($86.50 in chips)
+Seat 7: Crawfish ($119.35 in chips)
+Seat 9: Tiger ($221.46 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6c 7c]
+K Bon: calls $0.50
+Crawfish: raises $1.75 to $2.25
+Tiger: calls $2.00
+Ben: folds
+K Bon: calls $1.75
+*** FLOP *** [Ah Ac 8c]
+Tiger: bets $3.62
+K Bon: folds
+Crawfish: raises $7.24 to $10.86
+Tiger: calls $7.24
+*** TURN *** [Ah Ac 8c] [Jh]
+Tiger: checks
+Crawfish: bets $28.97
+Tiger: folds
+Uncalled bet ($28.97) returned to Crawfish
+Crawfish collected $28.97 from pot
+*** SUMMARY ***
+Total pot $28.97 | Rake $0
+Board [Ah Ac 8c Jh]
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon folded on the Flop
+Seat 7: Crawfish (button) collected ($28.97)
+Seat 9: Tiger (small blind) folded on the Turn
+
+
+PokerStars Hand #250000002387:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 21:58:37 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($242.19 in chips)
+Seat 3: K Bon ($84.25 in chips)
+Seat 7: Crawfish ($135.21 in chips)
+Seat 9: Tiger ($208.35 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9c As]
+Crawfish: calls $0.50
+Tiger: raises $1.75 to $2.25
+Ben: raises $1.75 to $4.00
+K Bon: calls $3.50
+Crawfish: calls $3.50
+Tiger: calls $1.75
+*** FLOP *** [2s Ah 7d]
+Ben: checks
+K Bon: checks
+Crawfish: checks
+Tiger: bets $8.00
+Ben: folds
+K Bon: folds
+Crawfish: calls $8.00
+*** TURN *** [2s Ah 7d] [6d]
+Crawfish: checks
+Tiger: bets $16.00
+Crawfish: calls $16.00
+*** RIVER *** [2s Ah 7d 6d] [7s]
+Crawfish: checks
+Tiger: checks
+*** SHOW DOWN ***
+Crawfish: shows [6c Ad] (two pair, Aces and Sevens)
+Tiger: shows [9c As] (two pair, Aces and Sevens)
+Tiger collected $64.00 from pot
+*** SUMMARY ***
+Total pot $64.00 | Rake $0
+Board [2s Ah 7d 6d 7s]
+Seat 1: Ben (small blind) folded on the Flop
+Seat 3: K Bon (big blind) folded on the Flop
+Seat 7: Crawfish showed [6c Ad] and lost with two pair, Aces and Sevens
+Seat 9: Tiger (button) showed [9c As] and won ($64.00) with two pair, Aces and Sevens
+
+
+PokerStars Hand #250000002388:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:00:07 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($238.19 in chips)
+Seat 3: K Bon ($80.25 in chips)
+Seat 7: Crawfish ($107.21 in chips)
+Seat 9: Tiger ($244.35 in chips)
+K Bon: posts small blind $0.25
+Crawfish: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8c 7s]
+Tiger: calls $0.50
+Ben: raises $2.25 to $2.75
+K Bon: folds
+Crawfish: folds
+Tiger: calls $2.25
+*** FLOP *** [9c 7c 4c]
+Tiger: bets $0.50
+Ben: raises $7.25 to $7.75
+Tiger: folds
+Uncalled bet ($7.25) returned to Ben
+Ben collected $7.25 from pot
+*** SUMMARY ***
+Total pot $7.25 | Rake $0
+Board [9c 7c 4c]
+Seat 1: Ben (button) collected ($7.25)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 7: Crawfish (big blind) folded before Flop
+Seat 9: Tiger folded on the Flop
+
+
+PokerStars Hand #250000002389:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:00:41 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($242.19 in chips)
+Seat 3: K Bon ($80.00 in chips)
+Seat 9: Tiger ($241.10 in chips)
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ah 6h]
+Ben: folds
+K Bon: folds
+Uncalled bet ($0.50) returned to Tiger
+Tiger collected $0.00 from pot
+*** SUMMARY ***
+Total pot $0.00 | Rake $0
+Seat 1: Ben folded before Flop (didn't bet)
+Seat 3: K Bon (button) folded before Flop (didn't bet)
+Seat 9: Tiger (big blind) mucked
+
+
+PokerStars Hand #250000002390:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:01:01 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($242.19 in chips)
+Seat 3: K Bon ($80.00 in chips)
+Seat 9: Tiger ($241.10 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th 6s]
+K Bon: raises $1.25 to $1.75
+Tiger: folds
+Ben: calls $1.25
+*** FLOP *** [9c 3d Qd]
+Ben: checks
+K Bon: checks
+*** TURN *** [9c 3d Qd] [2c]
+Ben: bets $3.75
+K Bon: folds
+Uncalled bet ($3.75) returned to Ben
+Ben collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0
+Board [9c 3d Qd 2c]
+Seat 1: Ben (big blind) collected ($3.75)
+Seat 3: K Bon (button) folded on the Turn
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002391:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:01:33 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($244.19 in chips)
+Seat 3: K Bon ($78.25 in chips)
+Seat 9: Tiger ($240.85 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8s 2d]
+Tiger: folds
+Ben: raises $1.50 to $2.00
+K Bon: folds
+Uncalled bet ($1.50) returned to Ben
+Ben collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Ben (small blind) collected ($1.00)
+Seat 3: K Bon (big blind) folded before Flop
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002392:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:01:52 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($244.69 in chips)
+Seat 3: K Bon ($77.75 in chips)
+Seat 9: Tiger ($240.85 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ts 8d]
+Ben: raises $1.75 to $2.25
+K Bon: calls $2.00
+Tiger: calls $1.75
+*** FLOP *** [8s Ah 2s]
+K Bon: checks
+Tiger: checks
+Ben: bets $3.37
+K Bon: folds
+Tiger: calls $3.37
+*** TURN *** [8s Ah 2s] [Ks]
+Tiger: checks
+Ben: bets $13.49
+Tiger: calls $13.49
+*** RIVER *** [8s Ah 2s Ks] [4d]
+Tiger: checks
+Ben: bets $30.35
+Tiger: folds
+Uncalled bet ($30.35) returned to Ben
+Ben collected $40.47 from pot
+*** SUMMARY ***
+Total pot $40.47 | Rake $0
+Board [8s Ah 2s Ks 4d]
+Seat 1: Ben (button) collected ($40.47)
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 9: Tiger (big blind) folded on the River
+
+
+PokerStars Hand #250000002393:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:03:21 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($266.05 in chips)
+Seat 3: K Bon ($75.50 in chips)
+Seat 9: Tiger ($221.74 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Jd 6d]
+K Bon: raises $1.25 to $1.75
+Tiger: calls $1.50
+Ben: raises $5.25 to $7.00
+K Bon: calls $5.25
+Tiger: calls $5.25
+*** FLOP *** [Ad 9s 4h]
+Tiger: checks
+Ben: bets $10.50
+K Bon: folds
+Tiger: folds
+Uncalled bet ($10.50) returned to Ben
+Ben collected $21.00 from pot
+*** SUMMARY ***
+Total pot $21.00 | Rake $0
+Board [Ad 9s 4h]
+Seat 1: Ben (big blind) collected ($21.00)
+Seat 3: K Bon (button) folded on the Flop
+Seat 9: Tiger (small blind) folded on the Flop
+
+
+PokerStars Hand #250000002394:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:03:59 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($280.05 in chips)
+Seat 3: K Bon ($68.50 in chips)
+Seat 9: Tiger ($214.74 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2s 2c]
+Tiger: raises $1.75 to $2.25
+Ben: folds
+K Bon: folds
+Uncalled bet ($1.75) returned to Tiger
+Tiger collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) folded before Flop
+Seat 9: Tiger (button) collected ($1.25)
+
+
+PokerStars Hand #250000002395:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:04:15 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($279.80 in chips)
+Seat 3: K Bon ($68.00 in chips)
+Seat 9: Tiger ($215.49 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7d Td]
+Ben: raises $1.25 to $1.75
+K Bon: calls $1.50
+Tiger: calls $1.25
+*** FLOP *** [Ac 6d Kh]
+K Bon: checks
+Tiger: checks
+Ben: checks
+*** TURN *** [Ac 6d Kh] [Jd]
+K Bon: checks
+Tiger: bets $5.25
+Ben: folds
+K Bon: folds
+Uncalled bet ($5.25) returned to Tiger
+Tiger collected $5.25 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0
+Board [Ac 6d Kh Jd]
+Seat 1: Ben (button) folded on the Turn
+Seat 3: K Bon (small blind) folded on the Turn
+Seat 9: Tiger (big blind) collected ($5.25)
+
+
+PokerStars Hand #250000002396:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:04:51 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($278.05 in chips)
+Seat 3: K Bon ($66.25 in chips)
+Seat 9: Tiger ($218.99 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Kh 9d]
+K Bon: folds
+Tiger: calls $0.25
+Ben: folds
+Tiger collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) collected ($1.00)
+
+
+PokerStars Hand #250000002397:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:05:17 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($277.55 in chips)
+Seat 3: K Bon ($66.25 in chips)
+Seat 9: Tiger ($219.49 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8c Qs]
+Tiger: raises $1.25 to $1.75
+Ben: raises $4.50 to $6.25
+K Bon: calls $5.75
+Tiger: calls $4.50
+*** FLOP *** [5d 8s 3s]
+Ben: bets $9.37
+K Bon: folds
+Tiger: calls $9.37
+*** TURN *** [5d 8s 3s] [4d]
+Ben: bets $28.11
+Tiger: calls $28.11
+*** RIVER *** [5d 8s 3s 4d] [Qd]
+Ben: checks
+Tiger: bets $70.28
+Ben: folds
+Uncalled bet ($70.28) returned to Tiger
+Tiger collected $93.71 from pot
+*** SUMMARY ***
+Total pot $93.71 | Rake $0
+Board [5d 8s 3s 4d Qd]
+Seat 1: Ben (small blind) folded on the River
+Seat 3: K Bon (big blind) folded on the Flop
+Seat 9: Tiger (button) collected ($93.71)
+
+
+PokerStars Hand #250000002398:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:06:26 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($233.82 in chips)
+Seat 3: K Bon ($60.00 in chips)
+Seat 9: Tiger ($269.47 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5h 4d]
+Ben: raises $2.25 to $2.75
+K Bon: calls $2.50
+Tiger: folds
+*** FLOP *** [9s 7h 7d]
+K Bon: checks
+Ben: bets $3.00
+K Bon: folds
+Uncalled bet ($3.00) returned to Ben
+Ben collected $6.00 from pot
+*** SUMMARY ***
+Total pot $6.00 | Rake $0
+Board [9s 7h 7d]
+Seat 1: Ben (button) collected ($6.00)
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002399:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:07:04 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($237.07 in chips)
+Seat 3: K Bon ($57.25 in chips)
+Seat 9: Tiger ($268.97 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Tc 8c]
+K Bon: calls $0.50
+Tiger: raises $1.12 to $1.62
+Ben: calls $1.12
+K Bon: calls $1.12
+*** FLOP *** [Ah Jh 8d]
+Tiger: checks
+Ben: bets $3.64
+K Bon: folds
+Tiger: calls $3.64
+*** TURN *** [Ah Jh 8d] [6h]
+Tiger: checks
+Ben: bets $9.10
+Tiger: folds
+Uncalled bet ($9.10) returned to Ben
+Ben collected $12.14 from pot
+*** SUMMARY ***
+Total pot $12.14 | Rake $0
+Board [Ah Jh 8d 6h]
+Seat 1: Ben (big blind) collected ($12.14)
+Seat 3: K Bon (button) folded on the Flop
+Seat 9: Tiger (small blind) folded on the Turn
+
+
+PokerStars Hand #250000002400:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:07:41 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($243.95 in chips)
+Seat 3: K Bon ($55.63 in chips)
+Seat 9: Tiger ($263.71 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h Qd]
+Tiger: calls $0.50
+Ben: raises $1.50 to $2.00
+K Bon: calls $1.50
+Tiger: calls $1.50
+*** FLOP *** [Ac 9d 6s]
+Ben: checks
+K Bon: checks
+Tiger: checks
+*** TURN *** [Ac 9d 6s] [2c]
+Ben: checks
+K Bon: bets $4.50
+Tiger: folds
+Ben: folds
+Uncalled bet ($4.50) returned to K Bon
+K Bon collected $6.00 from pot
+*** SUMMARY ***
+Total pot $6.00 | Rake $0
+Board [Ac 9d 6s 2c]
+Seat 1: Ben (small blind) folded on the Turn
+Seat 3: K Bon (big blind) collected ($6.00)
+Seat 9: Tiger (button) folded on the Turn
+
+
+PokerStars Hand #250000002401:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:08:26 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($241.95 in chips)
+Seat 3: K Bon ($59.63 in chips)
+Seat 9: Tiger ($261.71 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5d Qd]
+Ben: folds
+K Bon: raises $1.00 to $1.50
+Tiger: calls $1.00
+*** FLOP *** [5h Jd Ad]
+K Bon: checks
+Tiger: bets $1.50
+K Bon: folds
+Uncalled bet ($1.50) returned to Tiger
+Tiger collected $3.00 from pot
+*** SUMMARY ***
+Total pot $3.00 | Rake $0
+Board [5h Jd Ad]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 9: Tiger (big blind) collected ($3.00)
+
+
+PokerStars Hand #250000002402:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:08:56 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($241.95 in chips)
+Seat 3: K Bon ($58.13 in chips)
+Seat 9: Tiger ($263.21 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9c 9h]
+K Bon: folds
+Tiger: raises $1.00 to $1.50
+Ben: raises $3.00 to $4.50
+Tiger: calls $3.00
+*** FLOP *** [7c 2h Js]
+Tiger: checks
+Ben: bets $4.00
+Tiger: calls $4.00
+*** TURN *** [7c 2h Js] [2d]
+Tiger: checks
+Ben: bets $12.75
+Tiger: calls $12.75
+*** RIVER *** [7c 2h Js 2d] [Ac]
+Tiger: checks
+Ben: bets $42.50
+Tiger: folds
+Uncalled bet ($42.50) returned to Ben
+Ben collected $42.50 from pot
+*** SUMMARY ***
+Total pot $42.50 | Rake $0
+Board [7c 2h Js 2d Ac]
+Seat 1: Ben (big blind) collected ($42.50)
+Seat 3: K Bon (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) folded on the River
+
+
+PokerStars Hand #250000002403:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:09:37 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($263.20 in chips)
+Seat 3: K Bon ($58.13 in chips)
+Seat 9: Tiger ($241.96 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ad 8d]
+Tiger: raises $1.25 to $1.75
+Ben: calls $1.50
+K Bon: calls $1.25
+*** FLOP *** [7h 8c 3h]
+Ben: bets $2.62
+K Bon: calls $2.62
+Tiger: calls $2.62
+*** TURN *** [7h 8c 3h] [4c]
+Ben: checks
+K Bon: bets $6.55
+Tiger: calls $6.55
+Ben: calls $6.55
+*** RIVER *** [7h 8c 3h 4c] [Kc]
+Ben: checks
+K Bon: checks
+Tiger: checks
+*** SHOW DOWN ***
+Ben: shows [5c 4h] (a pair of Fours)
+K Bon: shows [7s 8h] (two pair, Eights and Sevens)
+K Bon collected $32.76 from pot
+*** SUMMARY ***
+Total pot $32.76 | Rake $0
+Board [7h 8c 3h 4c Kc]
+Seat 1: Ben (small blind) showed [5c 4h] and lost with a pair of Fours
+Seat 3: K Bon (big blind) showed [7s 8h] and won ($32.76) with two pair, Eights and Sevens
+Seat 9: Tiger (button) mucked
+
+
+PokerStars Hand #250000002404:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:10:27 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($252.28 in chips)
+Seat 3: K Bon ($79.97 in chips)
+Seat 9: Tiger ($231.04 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7d Jd]
+Ben: raises $2.25 to $2.75
+K Bon: calls $2.50
+Tiger: calls $2.25
+*** FLOP *** [9d Qh 8d]
+K Bon: checks
+Tiger: bets $4.12
+Ben: folds
+K Bon: folds
+Uncalled bet ($4.12) returned to Tiger
+Tiger collected $8.25 from pot
+*** SUMMARY ***
+Total pot $8.25 | Rake $0
+Board [9d Qh 8d]
+Seat 1: Ben (button) folded on the Flop
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 9: Tiger (big blind) collected ($8.25)
+
+
+PokerStars Hand #250000002405:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:10:55 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($249.53 in chips)
+Seat 3: K Bon ($77.22 in chips)
+Seat 9: Tiger ($236.54 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2d 4d]
+K Bon: raises $1.25 to $1.75
+Tiger: calls $1.50
+Ben: raises $5.25 to $7.00
+K Bon: calls $5.25
+Tiger: folds
+*** FLOP *** [4h 4s 4c]
+Ben: bets $7.87
+K Bon: calls $7.87
+*** TURN *** [4h 4s 4c] [5h]
+Ben: checks
+K Bon: checks
+*** RIVER *** [4h 4s 4c 5h] [Ac]
+Ben: bets $15.74
+K Bon: folds
+Uncalled bet ($15.74) returned to Ben
+Ben collected $31.49 from pot
+*** SUMMARY ***
+Total pot $31.49 | Rake $0
+Board [4h 4s 4c 5h Ac]
+Seat 1: Ben (big blind) collected ($31.49)
+Seat 3: K Bon (button) folded on the River
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002406:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:11:51 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($266.15 in chips)
+Seat 3: K Bon ($62.35 in chips)
+Seat 9: Tiger ($234.79 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3d 3s]
+Tiger: raises $1.25 to $1.75
+Ben: calls $1.50
+K Bon: calls $1.25
+*** FLOP *** [4d Ts 9s]
+Ben: checks
+K Bon: bets $3.93
+Tiger: folds
+Ben: calls $3.93
+*** TURN *** [4d Ts 9s] [4s]
+Ben: checks
+K Bon: checks
+*** RIVER *** [4d Ts 9s 4s] [Ad]
+Ben: checks
+K Bon: checks
+*** SHOW DOWN ***
+Ben: shows [6c 7h] (a pair of Fours)
+K Bon: shows [Qd Jd] (a pair of Fours)
+K Bon collected $13.11 from pot
+*** SUMMARY ***
+Total pot $13.11 | Rake $0
+Board [4d Ts 9s 4s Ad]
+Seat 1: Ben (small blind) showed [6c 7h] and lost with a pair of Fours
+Seat 3: K Bon (big blind) showed [Qd Jd] and won ($13.11) with a pair of Fours
+Seat 9: Tiger (button) folded on the Flop
+
+
+PokerStars Hand #250000002407:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:12:18 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($260.47 in chips)
+Seat 3: K Bon ($69.78 in chips)
+Seat 9: Tiger ($233.04 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3s 7s]
+Ben: folds
+K Bon: folds
+Uncalled bet ($0.25) returned to Tiger
+Tiger collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 9: Tiger (big blind) collected ($0.50)
+
+
+PokerStars Hand #250000002408:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:12:31 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($260.47 in chips)
+Seat 3: K Bon ($69.53 in chips)
+Seat 9: Tiger ($233.29 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3h Th]
+K Bon: calls $0.50
+Tiger: calls $0.25
+Ben: checks
+*** FLOP *** [6h Ad Tc]
+Tiger: bets $0.75
+Ben: folds
+K Bon: raises $2.25 to $3.00
+Tiger: folds
+Uncalled bet ($2.25) returned to K Bon
+K Bon collected $3.00 from pot
+*** SUMMARY ***
+Total pot $3.00 | Rake $0
+Board [6h Ad Tc]
+Seat 1: Ben (big blind) folded on the Flop
+Seat 3: K Bon (button) collected ($3.00)
+Seat 9: Tiger (small blind) folded on the Flop
+
+
+PokerStars Hand #250000002409:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:13:00 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($259.97 in chips)
+Seat 3: K Bon ($71.28 in chips)
+Seat 9: Tiger ($232.04 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th Jc]
+Tiger: calls $0.50
+Ben: folds
+K Bon: checks
+*** FLOP *** [9s 3h 5h]
+K Bon: checks
+Tiger: checks
+*** TURN *** [9s 3h 5h] [Kd]
+K Bon: checks
+Tiger: checks
+*** RIVER *** [9s 3h 5h Kd] [Ac]
+K Bon: checks
+Tiger: checks
+*** SHOW DOWN ***
+K Bon: shows [4h Jd] (high card Ace)
+Tiger: shows [Th Jc] (high card Ace)
+Tiger collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Board [9s 3h 5h Kd Ac]
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) showed [4h Jd] and lost with high card Ace
+Seat 9: Tiger (button) showed [Th Jc] and won ($1.25) with high card Ace
+
+
+PokerStars Hand #250000002410:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:13:30 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($259.72 in chips)
+Seat 3: K Bon ($70.78 in chips)
+Seat 9: Tiger ($232.79 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h 9c]
+Ben: raises $2.25 to $2.75
+K Bon: calls $2.50
+Tiger: folds
+*** FLOP *** [2c 9s 5c]
+K Bon: bets $4.50
+Ben: raises $15.50 to $20.00
+K Bon: calls $15.50
+*** TURN *** [2c 9s 5c] [7s]
+K Bon: checks
+Ben: bets $236.97 and is all-in
+K Bon: calls $48.03 and is all-in
+Uncalled bet ($188.94) returned to Ben
+*** RIVER *** [2c 9s 5c 7s] [Kc]
+*** SHOW DOWN ***
+Ben: shows [Th Tc] (a pair of Tens)
+K Bon: shows [8c Ac] (a flush, Ace high)
+K Bon collected $142.06 from pot
+*** SUMMARY ***
+Total pot $142.06 | Rake $0
+Board [2c 9s 5c 7s Kc]
+Seat 1: Ben (button) showed [Th Tc] and lost with a pair of Tens
+Seat 3: K Bon (small blind) showed [8c Ac] and won ($142.06) with a flush, Ace high
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002411:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:14:27 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($188.94 in chips)
+Seat 3: K Bon ($142.06 in chips)
+Seat 9: Tiger ($232.29 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3c Ad]
+K Bon: raises $1.25 to $1.75
+Tiger: calls $1.50
+Ben: calls $1.25
+*** FLOP *** [2d 8h Ac]
+Tiger: bets $2.62
+Ben: folds
+K Bon: calls $2.62
+*** TURN *** [2d 8h Ac] [Th]
+Tiger: bets $5.24
+K Bon: calls $5.24
+*** RIVER *** [2d 8h Ac Th] [7c]
+Tiger: checks
+K Bon: bets $15.72
+Tiger: folds
+Uncalled bet ($15.72) returned to K Bon
+K Bon collected $20.97 from pot
+*** SUMMARY ***
+Total pot $20.97 | Rake $0
+Board [2d 8h Ac Th 7c]
+Seat 1: Ben (big blind) folded on the Flop
+Seat 3: K Bon (button) collected ($20.97)
+Seat 9: Tiger (small blind) folded on the River
+
+
+PokerStars Hand #250000002412:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:15:31 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($187.19 in chips)
+Seat 3: K Bon ($153.42 in chips)
+Seat 9: Tiger ($222.68 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ad 5d]
+Tiger: raises $1.25 to $1.75
+Ben: folds
+K Bon: folds
+Uncalled bet ($1.25) returned to Tiger
+Tiger collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) folded before Flop
+Seat 9: Tiger (button) collected ($1.25)
+
+
+PokerStars Hand #250000002413:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:15:45 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($186.94 in chips)
+Seat 3: K Bon ($152.92 in chips)
+Seat 9: Tiger ($223.43 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h 2h]
+Ben: folds
+K Bon: calls $0.25
+Tiger: checks
+*** FLOP *** [Ad 6d Qs]
+K Bon: checks
+Tiger: checks
+*** TURN *** [Ad 6d Qs] [2c]
+K Bon: checks
+Tiger: bets $0.50
+K Bon: folds
+Uncalled bet ($0.50) returned to Tiger
+Tiger collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Board [Ad 6d Qs 2c]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded on the Turn
+Seat 9: Tiger (big blind) collected ($1.00)
+
+
+PokerStars Hand #250000002414:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:16:18 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($186.94 in chips)
+Seat 3: K Bon ($152.42 in chips)
+Seat 9: Tiger ($223.93 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8d 6d]
+K Bon: calls $0.50
+Tiger: calls $0.25
+Ben: folds
+*** FLOP *** [9c 5s Jh]
+Tiger: checks
+K Bon: checks
+*** TURN *** [9c 5s Jh] [Qd]
+Tiger: checks
+K Bon: checks
+*** RIVER *** [9c 5s Jh Qd] [3c]
+Tiger: checks
+K Bon: checks
+*** SHOW DOWN ***
+Tiger: shows [8d 6d] (high card Queen)
+K Bon: shows [Jd 8h] (a pair of Jacks)
+K Bon collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0
+Board [9c 5s Jh Qd 3c]
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon (button) showed [Jd 8h] and won ($1.50) with a pair of Jacks
+Seat 9: Tiger (small blind) showed [8d 6d] and lost with high card Queen
+
+
+PokerStars Hand #250000002415:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:16:50 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($186.44 in chips)
+Seat 3: K Bon ($153.42 in chips)
+Seat 9: Tiger ($223.43 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ah Td]
+Tiger: raises $1.25 to $1.75
+Ben: calls $1.50
+K Bon: folds
+*** FLOP *** [5c 7s 3h]
+Ben: checks
+Tiger: checks
+*** TURN *** [5c 7s 3h] [6h]
+Ben: checks
+Tiger: bets $2.00
+Ben: calls $2.00
+*** RIVER *** [5c 7s 3h 6h] [8d]
+Ben: checks
+Tiger: checks
+*** SHOW DOWN ***
+Ben: shows [Ac 9s] (a straight, Nine high)
+Ben collected $8.00 from pot
+*** SUMMARY ***
+Total pot $8.00 | Rake $0
+Board [5c 7s 3h 6h 8d]
+Seat 1: Ben (small blind) showed [Ac 9s] and won ($8.00) with a straight, Nine high
+Seat 3: K Bon (big blind) folded before Flop
+Seat 9: Tiger (button) mucked
+
+
+PokerStars Hand #250000002416:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:17:34 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($190.69 in chips)
+Seat 3: K Bon ($152.92 in chips)
+Seat 9: Tiger ($219.68 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5c Th]
+Ben: raises $1.75 to $2.25
+K Bon: folds
+Tiger: folds
+Uncalled bet ($1.75) returned to Ben
+Ben collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (button) collected ($1.25)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002417:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:18:10 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($191.44 in chips)
+Seat 3: K Bon ($152.67 in chips)
+Seat 9: Tiger ($219.18 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9d Qs]
+K Bon: raises $1.25 to $1.75
+Tiger: folds
+Ben: folds
+Uncalled bet ($1.25) returned to K Bon
+K Bon collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon (button) collected ($1.25)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002418:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:18:30 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($190.94 in chips)
+Seat 3: K Bon ($153.42 in chips)
+Seat 9: Tiger ($218.93 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7s 2d]
+Tiger: folds
+Ben: folds
+Uncalled bet ($0.25) returned to K Bon
+K Bon collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) collected ($0.50)
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002419:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:18:53 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($190.69 in chips)
+Seat 3: K Bon ($153.67 in chips)
+Seat 9: Tiger ($218.93 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Th 7s]
+Ben: folds
+K Bon: raises $1.00 to $1.50
+Tiger: calls $1.00
+*** FLOP *** [9h Ac Td]
+K Bon: checks
+Tiger: bets $1.50
+K Bon: folds
+Uncalled bet ($1.50) returned to Tiger
+Tiger collected $3.00 from pot
+*** SUMMARY ***
+Total pot $3.00 | Rake $0
+Board [9h Ac Td]
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded on the Flop
+Seat 9: Tiger (big blind) collected ($3.00)
+
+
+PokerStars Hand #250000002420:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:19:42 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($190.69 in chips)
+Seat 3: K Bon ($152.17 in chips)
+Seat 9: Tiger ($220.43 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [3c 4c]
+K Bon: calls $0.50
+Tiger: raises $1.50 to $2.00
+Ben: calls $1.50
+K Bon: calls $1.50
+*** FLOP *** [Ad 2c Jc]
+Tiger: bets $6.00
+Ben: folds
+K Bon: folds
+Uncalled bet ($6.00) returned to Tiger
+Tiger collected $6.00 from pot
+*** SUMMARY ***
+Total pot $6.00 | Rake $0
+Board [Ad 2c Jc]
+Seat 1: Ben (big blind) folded on the Flop
+Seat 3: K Bon (button) folded on the Flop
+Seat 9: Tiger (small blind) collected ($6.00)
+
+
+PokerStars Hand #250000002421:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:20:29 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($188.69 in chips)
+Seat 3: K Bon ($150.17 in chips)
+Seat 9: Tiger ($224.43 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5d Ts]
+Tiger: folds
+Ben: raises $1.50 to $2.00
+K Bon: calls $1.50
+*** FLOP *** [Kd 8c 2s]
+Ben: bets $4.00
+K Bon: folds
+Uncalled bet ($4.00) returned to Ben
+Ben collected $4.00 from pot
+*** SUMMARY ***
+Total pot $4.00 | Rake $0
+Board [Kd 8c 2s]
+Seat 1: Ben (small blind) collected ($4.00)
+Seat 3: K Bon (big blind) folded on the Flop
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002422:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:21:06 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($190.69 in chips)
+Seat 3: K Bon ($148.17 in chips)
+Seat 9: Tiger ($224.43 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Tc 6s]
+Ben: raises $1.25 to $1.75
+K Bon: raises $4.00 to $5.75
+Tiger: folds
+Ben: calls $4.00
+*** FLOP *** [7d 3c Qc]
+K Bon: checks
+Ben: checks
+*** TURN *** [7d 3c Qc] [2h]
+K Bon: checks
+Ben: checks
+*** RIVER *** [7d 3c Qc 2h] [4c]
+K Bon: bets $12.00
+Ben: folds
+Uncalled bet ($12.00) returned to K Bon
+K Bon collected $12.00 from pot
+*** SUMMARY ***
+Total pot $12.00 | Rake $0
+Board [7d 3c Qc 2h 4c]
+Seat 1: Ben (button) folded on the River
+Seat 3: K Bon (small blind) collected ($12.00)
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002423:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:21:47 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($184.94 in chips)
+Seat 3: K Bon ($154.42 in chips)
+Seat 9: Tiger ($223.93 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9s 5h]
+K Bon: raises $2.75 to $3.25
+Tiger: folds
+Ben: raises $6.75 to $10.00
+K Bon: calls $6.75
+*** FLOP *** [7s 7c 4c]
+Ben: bets $10.12
+K Bon: folds
+Uncalled bet ($10.12) returned to Ben
+Ben collected $20.25 from pot
+*** SUMMARY ***
+Total pot $20.25 | Rake $0
+Board [7s 7c 4c]
+Seat 1: Ben (big blind) collected ($20.25)
+Seat 3: K Bon (button) folded on the Flop
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002424:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:22:20 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($195.19 in chips)
+Seat 3: K Bon ($144.42 in chips)
+Seat 9: Tiger ($223.68 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8c Qs]
+Tiger: calls $0.50
+Ben: raises $1.50 to $2.00
+K Bon: calls $1.50
+Tiger: calls $1.50
+*** FLOP *** [6h Jd 9c]
+Ben: bets $3.00
+K Bon: calls $3.00
+Tiger: folds
+*** TURN *** [6h Jd 9c] [Qd]
+Ben: bets $6.00
+K Bon: calls $6.00
+*** RIVER *** [6h Jd 9c Qd] [9s]
+Ben: bets $31.49
+K Bon: raises $101.93 to $133.42 and is all-in
+Ben: folds
+Uncalled bet ($101.93) returned to K Bon
+K Bon collected $86.98 from pot
+*** SUMMARY ***
+Total pot $86.98 | Rake $0
+Board [6h Jd 9c Qd 9s]
+Seat 1: Ben (small blind) folded on the River
+Seat 3: K Bon (big blind) collected ($86.98)
+Seat 9: Tiger (button) folded on the Flop
+
+
+PokerStars Hand #250000002425:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:24:42 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($152.70 in chips)
+Seat 3: K Bon ($188.91 in chips)
+Seat 9: Tiger ($221.68 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h 7c]
+Ben: folds
+K Bon: folds
+Uncalled bet ($0.25) returned to Tiger
+Tiger collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 9: Tiger (big blind) collected ($0.50)
+
+
+PokerStars Hand #250000002426:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:25:00 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($152.70 in chips)
+Seat 3: K Bon ($188.66 in chips)
+Seat 9: Tiger ($221.93 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [8s 6s]
+K Bon: folds
+Tiger: raises $1.00 to $1.50
+Ben: raises $3.00 to $4.50
+Tiger: calls $3.00
+*** FLOP *** [9c 5h 9s]
+Tiger: checks
+Ben: checks
+*** TURN *** [9c 5h 9s] [Qs]
+Tiger: bets $6.75
+Ben: raises $16.87 to $23.62
+Tiger: calls $16.87
+*** RIVER *** [9c 5h 9s Qs] [As]
+Tiger: bets $42.18
+Ben: calls $42.18
+*** SHOW DOWN ***
+Tiger: shows [8s 6s] (a flush, Ace high)
+Tiger collected $140.60 from pot
+*** SUMMARY ***
+Total pot $140.60 | Rake $0
+Board [9c 5h 9s Qs As]
+Seat 1: Ben (big blind) mucked
+Seat 3: K Bon (button) folded before Flop (didn't bet)
+Seat 9: Tiger (small blind) showed [8s 6s] and won ($140.60) with a flush, Ace high
+
+
+PokerStars Hand #250000002427:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:26:30 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($82.40 in chips)
+Seat 3: K Bon ($188.66 in chips)
+Seat 9: Tiger ($292.23 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qd Ks]
+Tiger: raises $1.25 to $1.75
+Ben: folds
+K Bon: folds
+Uncalled bet ($1.25) returned to Tiger
+Tiger collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) folded before Flop
+Seat 9: Tiger (button) collected ($1.25)
+
+
+PokerStars Hand #250000002428:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:27:20 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($82.15 in chips)
+Seat 3: K Bon ($188.16 in chips)
+Seat 9: Tiger ($292.98 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Ks 8h]
+Ben: raises $1.75 to $2.25
+K Bon: folds
+Tiger: calls $1.75
+*** FLOP *** [As 6d 2d]
+Tiger: checks
+Ben: bets $2.37
+Tiger: folds
+Uncalled bet ($2.37) returned to Ben
+Ben collected $4.75 from pot
+*** SUMMARY ***
+Total pot $4.75 | Rake $0
+Board [As 6d 2d]
+Seat 1: Ben (button) collected ($4.75)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 9: Tiger (big blind) folded on the Flop
+
+
+PokerStars Hand #250000002429:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:27:51 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($84.65 in chips)
+Seat 3: K Bon ($187.91 in chips)
+Seat 9: Tiger ($290.73 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qs 6d]
+K Bon: raises $1.25 to $1.75
+Tiger: folds
+Ben: folds
+Uncalled bet ($1.25) returned to K Bon
+K Bon collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon (button) collected ($1.25)
+Seat 9: Tiger (small blind) folded before Flop
+
+
+PokerStars Hand #250000002430:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:28:08 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($84.15 in chips)
+Seat 3: K Bon ($188.66 in chips)
+Seat 9: Tiger ($290.48 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [9h 6d]
+Tiger: folds
+Ben: raises $1.00 to $1.50
+K Bon: calls $1.00
+*** FLOP *** [Qs 9d 3d]
+Ben: checks
+K Bon: bets $2.25
+Ben: folds
+Uncalled bet ($2.25) returned to K Bon
+K Bon collected $3.00 from pot
+*** SUMMARY ***
+Total pot $3.00 | Rake $0
+Board [Qs 9d 3d]
+Seat 1: Ben (small blind) folded on the Flop
+Seat 3: K Bon (big blind) collected ($3.00)
+Seat 9: Tiger (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #250000002431:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:29:19 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($82.65 in chips)
+Seat 3: K Bon ($190.16 in chips)
+Seat 9: Tiger ($290.48 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [2s Kh]
+Ben: raises $1.25 to $1.75
+K Bon: folds
+Tiger: folds
+Uncalled bet ($1.25) returned to Ben
+Ben collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Seat 1: Ben (button) collected ($1.25)
+Seat 3: K Bon (small blind) folded before Flop
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002432:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:29:54 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($83.40 in chips)
+Seat 3: K Bon ($189.91 in chips)
+Seat 9: Tiger ($289.98 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Qd Qs]
+K Bon: calls $0.50
+Tiger: raises $1.50 to $2.00
+Ben: folds
+K Bon: calls $1.50
+*** FLOP *** [4h 5h 2d]
+Tiger: bets $3.37
+K Bon: folds
+Uncalled bet ($3.37) returned to Tiger
+Tiger collected $4.50 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0
+Board [4h 5h 2d]
+Seat 1: Ben (big blind) folded before Flop
+Seat 3: K Bon (button) folded on the Flop
+Seat 9: Tiger (small blind) collected ($4.50)
+
+
+PokerStars Hand #250000002433:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:30:57 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($82.90 in chips)
+Seat 3: K Bon ($187.91 in chips)
+Seat 9: Tiger ($292.48 in chips)
+Ben: posts small blind $0.25
+K Bon: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [Js 7c]
+Tiger: calls $0.50
+Ben: folds
+K Bon: checks
+*** FLOP *** [Jd 2d Ah]
+K Bon: checks
+Tiger: bets $1.25
+K Bon: folds
+Uncalled bet ($1.25) returned to Tiger
+Tiger collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0
+Board [Jd 2d Ah]
+Seat 1: Ben (small blind) folded before Flop
+Seat 3: K Bon (big blind) folded on the Flop
+Seat 9: Tiger (button) collected ($1.25)
+
+
+PokerStars Hand #250000002434:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:32:19 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #1 is the button
+Seat 1: Ben ($82.65 in chips)
+Seat 3: K Bon ($187.41 in chips)
+Seat 9: Tiger ($293.23 in chips)
+K Bon: posts small blind $0.25
+Tiger: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [5s Tc]
+Ben: folds
+K Bon: raises $12.71 to $13.21
+Tiger: folds
+Uncalled bet ($12.71) returned to K Bon
+K Bon collected $1.00 from pot
+*** SUMMARY ***
+Total pot $1.00 | Rake $0
+Seat 1: Ben (button) folded before Flop (didn't bet)
+Seat 3: K Bon (small blind) collected ($1.00)
+Seat 9: Tiger (big blind) folded before Flop
+
+
+PokerStars Hand #250000002435:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:32:37 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #3 is the button
+Seat 1: Ben ($82.65 in chips)
+Seat 3: K Bon ($187.91 in chips)
+Seat 9: Tiger ($292.73 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [7h 5c]
+K Bon: calls $0.50
+Tiger: calls $0.25
+Ben: checks
+*** FLOP *** [Jc 6s 7d]
+Tiger: checks
+Ben: checks
+K Bon: checks
+*** TURN *** [Jc 6s 7d] [Jh]
+Tiger: checks
+Ben: bets $1.50
+K Bon: folds
+Tiger: calls $1.50
+*** RIVER *** [Jc 6s 7d Jh] [2d]
+Tiger: checks
+Ben: bets $4.50
+Tiger: folds
+Uncalled bet ($4.50) returned to Ben
+Ben collected $4.50 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0
+Board [Jc 6s 7d Jh 2d]
+Seat 1: Ben (big blind) collected ($4.50)
+Seat 3: K Bon (button) folded on the Turn
+Seat 9: Tiger (small blind) folded on the River
+
+
+PokerStars Hand #250000002436:  Hold'em No Limit ($0.25/$0.50 USD) - 2026/11/05 22:35:06 ET
+Table 'PokerNow poker_now_log_pglDwYoTgxv_0_XEL1RQ6aCg_' 10-max Seat #9 is the button
+Seat 1: Ben ($85.15 in chips)
+Seat 9: Tiger ($290.73 in chips)
+Tiger: posts small blind $0.25
+Ben: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to Tiger [6d 9c]
+Tiger: folds
+Uncalled bet ($0.25) returned to Ben
+Ben collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0
+Seat 1: Ben (big blind) collected ($0.50)
+Seat 9: Tiger (button) (small blind) folded before Flop
+

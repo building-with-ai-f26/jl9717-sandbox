@@ -1,0 +1,684 @@
+{
+  "session": "80loss_11-5.txt",
+  "hands": 150,
+  "historical_hands": 2286,
+  "combined_hands": 2436,
+  "dedupe": "Historical IDs verified against hand_id_map.csv: 250000000001\u2013250000002286; new IDs 250000002287\u2013250000002436. No overlap. Rebuild uses immutable snapshots, so rerunning cannot double-count.",
+  "confirmed_aliases": {
+    "K Bon": "Alex",
+    "Crawfish": "Ruining"
+  },
+  "players": {
+    "Ben": {
+      "canonical_player": "Ben",
+      "new_hands": 150,
+      "seat_sum": 546,
+      "stats": {
+        "vpip": {
+          "num": 91,
+          "n": 150,
+          "pct": 60.7
+        },
+        "pfr": {
+          "num": 73,
+          "n": 150,
+          "pct": 48.7
+        },
+        "rfi": {
+          "num": 43,
+          "n": 69,
+          "pct": 62.3
+        },
+        "rfi_btn": {
+          "num": 19,
+          "n": 32,
+          "pct": 59.4
+        },
+        "rfi_sb": {
+          "num": 9,
+          "n": 12,
+          "pct": 75.0
+        },
+        "open_limp_when_first_in": {
+          "num": 2,
+          "n": 69,
+          "pct": 2.9
+        },
+        "iso_raise_vs_limp": {
+          "num": 14,
+          "n": 27,
+          "pct": 51.9
+        },
+        "bb_fold_vs_open": {
+          "num": 9,
+          "n": 30,
+          "pct": 30.0
+        },
+        "bb_3bet_vs_open": {
+          "num": 11,
+          "n": 30,
+          "pct": 36.7
+        },
+        "three_bet": {
+          "num": 16,
+          "n": 48,
+          "pct": 33.3
+        },
+        "fold_to_3bet": {
+          "num": 1,
+          "n": 8,
+          "pct": 12.5
+        },
+        "four_bet_vs_3bet": {
+          "num": 0,
+          "n": 8,
+          "pct": 0.0
+        },
+        "cbet_flop": {
+          "num": 28,
+          "n": 44,
+          "pct": 63.6
+        },
+        "barrel_turn": {
+          "num": 8,
+          "n": 10,
+          "pct": 80.0
+        },
+        "barrel_river": {
+          "num": 4,
+          "n": 6,
+          "pct": 66.7
+        },
+        "fold_to_cbet": {
+          "num": 6,
+          "n": 9,
+          "pct": 66.7
+        },
+        "raise_vs_cbet": {
+          "num": 0,
+          "n": 9,
+          "pct": 0.0
+        },
+        "fold_to_bet_flop": {
+          "num": 18,
+          "n": 29,
+          "pct": 62.1,
+          "benchmark_pct": 37.4
+        },
+        "fold_to_bet_turn": {
+          "num": 9,
+          "n": 17,
+          "pct": 52.9,
+          "benchmark_pct": 42.2
+        },
+        "fold_to_bet_river": {
+          "num": 5,
+          "n": 7,
+          "pct": 71.4,
+          "benchmark_pct": 52.3
+        },
+        "check_raise": {
+          "num": 0,
+          "n": 19,
+          "pct": 0.0
+        },
+        "wtsd": {
+          "num": 17,
+          "n": 81,
+          "pct": 21.0
+        },
+        "wsd": {
+          "num": 10,
+          "n": 17,
+          "pct": 58.8
+        },
+        "showdown_weak_hands": {
+          "num": 8,
+          "n": 15,
+          "pct": 53.3
+        },
+        "river_aggression_weak_at_showdown": {
+          "num": 0,
+          "n": 3,
+          "pct": 0.0
+        },
+        "all_in_hands": {
+          "num": 3,
+          "n": 150,
+          "pct": 2.0
+        },
+        "aggression_factor": {
+          "value": 4.33,
+          "n": 80,
+          "aggressive": 65,
+          "calls": 15
+        }
+      },
+      "sizing": {
+        "open_raise_bb_median": {
+          "value": 4.0,
+          "n": 57
+        },
+        "three_bet_bb_median": {
+          "value": 13.2,
+          "n": 16
+        },
+        "bet_pct_pot_median": {
+          "flop": 50.0,
+          "turn": 75.0,
+          "river": 87.5
+        },
+        "bets_counted": {
+          "flop": 32,
+          "turn": 17,
+          "river": 10
+        }
+      },
+      "net_cents": -1460
+    },
+    "K Bon": {
+      "canonical_player": "Alex",
+      "new_hands": 149,
+      "seat_sum": 544,
+      "stats": {
+        "vpip": {
+          "num": 98,
+          "n": 149,
+          "pct": 65.8
+        },
+        "pfr": {
+          "num": 41,
+          "n": 149,
+          "pct": 27.5
+        },
+        "rfi": {
+          "num": 35,
+          "n": 63,
+          "pct": 55.6
+        },
+        "rfi_btn": {
+          "num": 14,
+          "n": 27,
+          "pct": 51.9
+        },
+        "rfi_sb": {
+          "num": 7,
+          "n": 12,
+          "pct": 58.3
+        },
+        "open_limp_when_first_in": {
+          "num": 14,
+          "n": 63,
+          "pct": 22.2
+        },
+        "iso_raise_vs_limp": {
+          "num": 3,
+          "n": 11,
+          "pct": 27.3
+        },
+        "bb_fold_vs_open": {
+          "num": 13,
+          "n": 28,
+          "pct": 46.4
+        },
+        "bb_3bet_vs_open": {
+          "num": 0,
+          "n": 28,
+          "pct": 0.0
+        },
+        "three_bet": {
+          "num": 3,
+          "n": 74,
+          "pct": 4.1
+        },
+        "fold_to_3bet": {
+          "num": 1,
+          "n": 13,
+          "pct": 7.7
+        },
+        "four_bet_vs_3bet": {
+          "num": 0,
+          "n": 13,
+          "pct": 0.0
+        },
+        "cbet_flop": {
+          "num": 4,
+          "n": 16,
+          "pct": 25.0
+        },
+        "barrel_turn": {
+          "num": 1,
+          "n": 3,
+          "pct": 33.3
+        },
+        "barrel_river": {
+          "num": 0,
+          "n": 1,
+          "pct": 0.0
+        },
+        "fold_to_cbet": {
+          "num": 21,
+          "n": 28,
+          "pct": 75.0
+        },
+        "raise_vs_cbet": {
+          "num": 1,
+          "n": 28,
+          "pct": 3.6
+        },
+        "fold_to_bet_flop": {
+          "num": 34,
+          "n": 49,
+          "pct": 69.4,
+          "benchmark_pct": 40.2
+        },
+        "fold_to_bet_turn": {
+          "num": 14,
+          "n": 26,
+          "pct": 53.8,
+          "benchmark_pct": 43.5
+        },
+        "fold_to_bet_river": {
+          "num": 4,
+          "n": 8,
+          "pct": 50.0,
+          "benchmark_pct": 52.6
+        },
+        "check_raise": {
+          "num": 1,
+          "n": 28,
+          "pct": 3.6
+        },
+        "wtsd": {
+          "num": 22,
+          "n": 90,
+          "pct": 24.4
+        },
+        "wsd": {
+          "num": 12,
+          "n": 22,
+          "pct": 54.5
+        },
+        "showdown_weak_hands": {
+          "num": 8,
+          "n": 16,
+          "pct": 50.0
+        },
+        "river_aggression_weak_at_showdown": {
+          "num": 0,
+          "n": 2,
+          "pct": 0.0
+        },
+        "all_in_hands": {
+          "num": 3,
+          "n": 149,
+          "pct": 2.0
+        },
+        "aggression_factor": {
+          "value": 1.3,
+          "n": 62,
+          "aggressive": 35,
+          "calls": 27
+        }
+      },
+      "sizing": {
+        "open_raise_bb_median": {
+          "value": 3.5,
+          "n": 38
+        },
+        "three_bet_bb_median": {
+          "value": 11.5,
+          "n": 3
+        },
+        "bet_pct_pot_median": {
+          "flop": 75.0,
+          "turn": 74.9,
+          "river": 100.0
+        },
+        "bets_counted": {
+          "flop": 14,
+          "turn": 10,
+          "river": 7
+        }
+      },
+      "net_cents": 8741
+    },
+    "Tiger": {
+      "canonical_player": "Tiger",
+      "new_hands": 149,
+      "seat_sum": 543,
+      "stats": {
+        "vpip": {
+          "num": 74,
+          "n": 149,
+          "pct": 49.7
+        },
+        "pfr": {
+          "num": 25,
+          "n": 149,
+          "pct": 16.8
+        },
+        "rfi": {
+          "num": 15,
+          "n": 66,
+          "pct": 22.7
+        },
+        "rfi_btn": {
+          "num": 12,
+          "n": 34,
+          "pct": 35.3
+        },
+        "rfi_sb": {
+          "num": 2,
+          "n": 8,
+          "pct": 25.0
+        },
+        "open_limp_when_first_in": {
+          "num": 19,
+          "n": 66,
+          "pct": 28.8
+        },
+        "iso_raise_vs_limp": {
+          "num": 6,
+          "n": 17,
+          "pct": 35.3
+        },
+        "bb_fold_vs_open": {
+          "num": 14,
+          "n": 29,
+          "pct": 48.3
+        },
+        "bb_3bet_vs_open": {
+          "num": 2,
+          "n": 29,
+          "pct": 6.9
+        },
+        "three_bet": {
+          "num": 4,
+          "n": 70,
+          "pct": 5.7
+        },
+        "fold_to_3bet": {
+          "num": 0,
+          "n": 6,
+          "pct": 0.0
+        },
+        "four_bet_vs_3bet": {
+          "num": 0,
+          "n": 6,
+          "pct": 0.0
+        },
+        "cbet_flop": {
+          "num": 5,
+          "n": 11,
+          "pct": 45.5
+        },
+        "barrel_turn": {
+          "num": 1,
+          "n": 2,
+          "pct": 50.0
+        },
+        "barrel_river": {
+          "num": 0,
+          "n": 0,
+          "pct": 0
+        },
+        "fold_to_cbet": {
+          "num": 8,
+          "n": 14,
+          "pct": 57.1
+        },
+        "raise_vs_cbet": {
+          "num": 0,
+          "n": 14,
+          "pct": 0.0
+        },
+        "fold_to_bet_flop": {
+          "num": 19,
+          "n": 29,
+          "pct": 65.5,
+          "benchmark_pct": 40.8
+        },
+        "fold_to_bet_turn": {
+          "num": 9,
+          "n": 17,
+          "pct": 52.9,
+          "benchmark_pct": 44.6
+        },
+        "fold_to_bet_river": {
+          "num": 6,
+          "n": 8,
+          "pct": 75.0,
+          "benchmark_pct": 51.3
+        },
+        "check_raise": {
+          "num": 0,
+          "n": 24,
+          "pct": 0.0
+        },
+        "wtsd": {
+          "num": 17,
+          "n": 67,
+          "pct": 25.4
+        },
+        "wsd": {
+          "num": 8,
+          "n": 17,
+          "pct": 47.1
+        },
+        "showdown_weak_hands": {
+          "num": 11,
+          "n": 17,
+          "pct": 64.7
+        },
+        "river_aggression_weak_at_showdown": {
+          "num": 0,
+          "n": 1,
+          "pct": 0.0
+        },
+        "all_in_hands": {
+          "num": 2,
+          "n": 149,
+          "pct": 1.3
+        },
+        "aggression_factor": {
+          "value": 2.1,
+          "n": 62,
+          "aggressive": 42,
+          "calls": 20
+        }
+      },
+      "sizing": {
+        "open_raise_bb_median": {
+          "value": 3.5,
+          "n": 21
+        },
+        "three_bet_bb_median": {
+          "value": 11.8,
+          "n": 4
+        },
+        "bet_pct_pot_median": {
+          "flop": 50.0,
+          "turn": 50.0,
+          "river": 87.5
+        },
+        "bets_counted": {
+          "flop": 21,
+          "turn": 17,
+          "river": 4
+        }
+      },
+      "net_cents": -7952
+    },
+    "Crawfish": {
+      "canonical_player": "Ruining",
+      "new_hands": 98,
+      "seat_sum": 391,
+      "stats": {
+        "vpip": {
+          "num": 48,
+          "n": 98,
+          "pct": 49.0
+        },
+        "pfr": {
+          "num": 17,
+          "n": 98,
+          "pct": 17.3
+        },
+        "rfi": {
+          "num": 7,
+          "n": 33,
+          "pct": 21.2
+        },
+        "rfi_btn": {
+          "num": 2,
+          "n": 7,
+          "pct": 28.6
+        },
+        "rfi_sb": {
+          "num": 1,
+          "n": 1,
+          "pct": 100.0
+        },
+        "open_limp_when_first_in": {
+          "num": 5,
+          "n": 33,
+          "pct": 15.2
+        },
+        "iso_raise_vs_limp": {
+          "num": 2,
+          "n": 10,
+          "pct": 20.0
+        },
+        "bb_fold_vs_open": {
+          "num": 6,
+          "n": 21,
+          "pct": 28.6
+        },
+        "bb_3bet_vs_open": {
+          "num": 5,
+          "n": 21,
+          "pct": 23.8
+        },
+        "three_bet": {
+          "num": 8,
+          "n": 56,
+          "pct": 14.3
+        },
+        "fold_to_3bet": {
+          "num": 1,
+          "n": 4,
+          "pct": 25.0
+        },
+        "four_bet_vs_3bet": {
+          "num": 1,
+          "n": 4,
+          "pct": 25.0
+        },
+        "cbet_flop": {
+          "num": 7,
+          "n": 7,
+          "pct": 100.0
+        },
+        "barrel_turn": {
+          "num": 1,
+          "n": 2,
+          "pct": 50.0
+        },
+        "barrel_river": {
+          "num": 0,
+          "n": 0,
+          "pct": 0
+        },
+        "fold_to_cbet": {
+          "num": 10,
+          "n": 14,
+          "pct": 71.4
+        },
+        "raise_vs_cbet": {
+          "num": 0,
+          "n": 14,
+          "pct": 0.0
+        },
+        "fold_to_bet_flop": {
+          "num": 13,
+          "n": 26,
+          "pct": 50.0,
+          "benchmark_pct": 38.6
+        },
+        "fold_to_bet_turn": {
+          "num": 3,
+          "n": 13,
+          "pct": 23.1,
+          "benchmark_pct": 43.1
+        },
+        "fold_to_bet_river": {
+          "num": 4,
+          "n": 6,
+          "pct": 66.7,
+          "benchmark_pct": 42.7
+        },
+        "check_raise": {
+          "num": 1,
+          "n": 19,
+          "pct": 5.3
+        },
+        "wtsd": {
+          "num": 10,
+          "n": 46,
+          "pct": 21.7
+        },
+        "wsd": {
+          "num": 3,
+          "n": 10,
+          "pct": 30.0
+        },
+        "showdown_weak_hands": {
+          "num": 3,
+          "n": 6,
+          "pct": 50.0
+        },
+        "river_aggression_weak_at_showdown": {
+          "num": 0,
+          "n": 0,
+          "pct": 0
+        },
+        "all_in_hands": {
+          "num": 6,
+          "n": 98,
+          "pct": 6.1
+        },
+        "aggression_factor": {
+          "value": 1.55,
+          "n": 51,
+          "aggressive": 31,
+          "calls": 20
+        }
+      },
+      "sizing": {
+        "open_raise_bb_median": {
+          "value": 4.5,
+          "n": 9
+        },
+        "three_bet_bb_median": {
+          "value": 12.0,
+          "n": 8
+        },
+        "bet_pct_pot_median": {
+          "flop": 75.0,
+          "turn": 74.9,
+          "river": 188.8
+        },
+        "bets_counted": {
+          "flop": 13,
+          "turn": 9,
+          "river": 4
+        }
+      },
+      "net_cents": 671
+    }
+  },
+  "pot_reconciled_hands": 150,
+  "all_rake_zero": true,
+  "source_sha256": "252651dee4918010a291af9222bb0aa83e34ff4d38334f35558cbbb7cf0d7ce5"
+}

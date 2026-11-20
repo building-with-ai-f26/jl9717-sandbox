@@ -190,3 +190,8 @@ button.session-row{grid-template-columns:minmax(0,1fr) 18px;grid-template-areas:
 .landing-intro-top{display:flex;flex-direction:column;justify-content:space-between;flex:1;gap:18px}.landing-intro-top>*{margin-top:0;margin-bottom:0}
 @media(max-width:650px){.landing-intro-top{display:block}.landing-intro-top .eyebrow{margin-bottom:12px}.landing-intro-top h1{margin-bottom:14px}.landing-intro-top .landing-description{margin-bottom:14px}.landing-intro-top .landing-stats{margin-bottom:16px}}
 .landing-intro-top{justify-content:space-evenly;gap:12px}
+
+/* Opponent notes keep a comfortable inset on every profile. */
+.opponents .notebook>h3,.opponents .notebook>details{padding-inline:24px}.opponents .study-rule{padding:22px 24px!important}.opponents .study-rule p{line-height:1.65}
+.display-units{display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px;margin:8px 0;flex-shrink:0;font-size:12px}.display-units button{padding:7px 10px;min-height:40px}.display-units label{display:flex;align-items:center;gap:5px}.display-units input{width:70px;min-height:36px;padding:6px;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:4px}.display-units .source{font-size:10px}
+@media(max-width:650px){.opponents .study-rule{padding:18px!important}.opponents .notebook>h3,.opponents .notebook>details{padding-inline:18px}.display-units{gap:6px;font-size:11px}.display-units input{width:56px}.session:has(.display-units){height:auto;min-height:100dvh;overflow:visible}.session:has(.display-units) .feedback{max-height:none;overflow:visible}}
