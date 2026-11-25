@@ -27,8 +27,8 @@
 
 <h2>Product Showcase (Prototype / Live App / 2-Min Video)</h2>
 
-<p><strong>Current Status:</strong> Build 3: the app is live at
-<a href="https://potgeometry.com">potgeometry.com</a> (hosted through ChatGPT Sites; Squarespace holds only the domain's DNS), with the full security audit written up in
+<p><strong>Current Status:</strong> Build 4: the app is live at
+<a href="https://potgeometry.com">potgeometry.com</a> (hosted through ChatGPT Sites; Squarespace holds only the domain's DNS). Build 4 was a user-testing build (Track B): a first-time user test drove six fixes, listed in the Build 4 log below, all verified live after shipping. The full security audit is written up in
 <a href="https://github.com/building-with-ai-f26/jl9717-sandbox/blob/main/SECURITY.md">SECURITY.md</a> at the top of the repo. The app code in this repo sits under <code>app/</code>; the live site can be ahead of the repo, and the repo is the version history used for rollback. PostHog analytics and session replay are running in the app and on this page.</p>
 
 <p><strong>Demo:</strong></p>
@@ -79,6 +79,21 @@
   <li><strong>Security:</strong> No secret keys exist anywhere in the app, because there is no server for them to live on; a full search of the live code finds only the public PostHog project key, which is write-only by design. All content that comes from imported files is escaped before it is rendered, the progress-backup import validates structure before applying anything, and there is no dynamic code execution anywhere in the codebase. The full audit, check by check, is in SECURITY.md at the top of the repo. One accepted gap: edits publish straight to production with no review gate, mitigated by the GitHub rollback history and by there being no server-side user data at risk.</li>
 </ul>
 
+<h3>6. User Testing &amp; Feedback Decisions (PRD v4, Build 4)</h3>
+
+<p>Build 4 tested the app with a first-time user given no coaching and one goal: practice poker decisions. The test played a full Quick Drill session, Equity Lab exercises, and Villain Study hands. The findings changed the PRD in four places:</p>
+
+<ul>
+  <li><strong>Entry path is part of the product.</strong> The old landing page's "Start drilling" button only scrolled to a mode grid; the first decision took 3 clicks and 60-90 seconds. PRD v4 requirement: the primary call to action starts a drill session in one click. The mode grid remains as the secondary path. (Shipped and verified: 1 click to first decision.)</li>
+  <li><strong>Feedback must teach the reason, not restate the chart.</strong> Drill feedback previously restated the chart's action ("The chart uses Fold 100% when you hold this hand") with no reasoning a learner could generalize, and carried internal meta-text and a sourcing footnote on every panel. PRD v4 requirement: every drill feedback panel opens with one plain-language reason (hand strength, domination, position, or price); internal meta-text does not ship in user-facing feedback; the range-sourcing disclosure lives once on the Charts page, not under every answer. (Shipped and verified across a full 10-hand session.)</li>
+  <li><strong>Result copy must match the score.</strong> The results screen showed "STAGE CLEAR" and "A clean session. Nicely played." for a 40% session. PRD v4 requirement: results praise is gated on accuracy (praise at 80% or above; honest copy below 50% that points at the mistakes as the learning material). (Shipped and verified at a 20% session: "Tough session. The 8 mistakes below are where the learning is.")</li>
+  <li><strong>Decision screens show the stats the decision is graded on.</strong> Villain Study originally showed the villain's stats only in feedback, after the decision. The first fix shipped partially: the decision screen gained a stats region, but it showed a single stat (median open size) drawn from the wrong player's profile. PRD v4 requirement: the decision screen shows the spot's grading-driver stats, from the spot's villain only, each with its sample size, read from the grading rule itself so display and grading cannot drift; thin data is labeled, never backfilled with another stat or another player. (Shipped and verified live across two villains: right player, right stats, feedback consistent with the decision screen.)</li>
+</ul>
+
+<p><strong>What testing confirmed and the PRD now protects:</strong> Equity Lab feedback (exact out lists, Rule of 2 and 4 with adjustment, fully enumerated exact equity) is the app's strongest teaching surface and its math verified correct by hand; the 13x13 range grid and the Mistake Review retirement rule (two correct answers in a row) also tested well. These are not to be redesigned in later builds.</p>
+
+<p><strong>Accepted limitation, recorded openly:</strong> The baseline reason sentences in drill feedback are templated per spot type (the same wording recurs with the hand and position swapped). They satisfy the teach-the-reason requirement; varying them further is polish, deferred past Build 4.</p>
+
 <h2>Weekly Build Log</h2>
 
 <p class="meta">Build on at least two separate days each week outside class, including the November 3 break. All build deadlines are noon, New York time.</p>
@@ -109,13 +124,13 @@
   <li><strong>Cost &amp; time this week:</strong> $0.00 · .5 hours</li>
 </ul>
 
-<h3>Build 4 · Test.py: Choose Track A or Track B (Due Nov 30)</h3>
+<h3>Build 4 · Test &amp; Improve: Track B, User Experience (Due Nov 30)</h3>
 
 <ul>
-  <li><strong>Chosen track:</strong> [A: 10-case domain eval and one outside target-user review; OR B: 3–5 outside users and replay findings]</li>
-  <li><strong>Results and improvements:</strong> [Before/after evidence; for Track B, fixes to the top three friction points]</li>
-  <li><strong>PRD v4 changes:</strong> [What the evidence changed]</li>
-  <li><strong>Cost &amp; time this week:</strong> $[0.00] · [0] hours</li>
+  <li><strong>Chosen track:</strong> B: outside user testing and findings-driven fixes. (Track A did not apply: the app makes no model calls and generates no AI output to evaluate.)</li>
+  <li><strong>Results and improvements:</strong> A first-time user test (no coaching, one-sentence goal) played 15 decisions across Quick Drill, Equity Lab, Villain Study, and the Concept Quiz. Top friction points and the fixes shipped for each: (1) "Start drilling" did not start a drill (3 clicks, 60-90 seconds to a first decision); it now starts a Quick Drill in one click. (2) Drill feedback restated the chart without ever saying why an answer was right; feedback now opens with a plain-language reason per spot, and internal meta-text and the per-panel sourcing footnote were removed. (3) The results screen congratulated a 40% session ("STAGE CLEAR"); result copy is now gated on accuracy. Also fixed from the same test: the poker table graphic (jagged staircase outline, now a smooth oval with proper card backs), action labels ("Call" corrected to "Limp" when no bet is faced; a keyboard-shortcut tip added for sizing), the "Rebuild plan" control (now explains itself on hover), uniform sizing for the three Today cards, and Villain Study decision stats (see PRD v4 changes). Every fix was re-tested live after shipping; the Villain Study stats fix needed a second pass (first version showed the wrong player's stat) and was verified across two villains before being counted as done.</li>
+  <li><strong>PRD v4 changes:</strong> Four evidence-driven changes, recorded in Section 6 above: one-click entry path as a requirement; feedback must teach the reason, with internal text and per-panel footnotes banned from user-facing feedback; results praise gated on accuracy; Villain Study decision screens must show the grading-driver stats for the spot's villain, sourced from the grading rule itself. The test also confirmed Equity Lab feedback, the range grid, and Mistake Review as protected surfaces that later builds should not redesign.</li>
+  <li><strong>Cost &amp; time this week:</strong> $0.00 · 1 hour</li>
 </ul>
 
 <h3>Build 5 · Ship.installer: Launch Ops, Rollback Check &amp; 2-Min Video (Due Dec 7)</h3>
