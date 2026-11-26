@@ -1,0 +1,11 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+const s=fs.readFileSync('dist/study-plan.js','utf8'),listeners={};
+const ctx={document:{addEventListener:(n,f,c)=>(listeners[n]??=[]).push(f),activeElement:null}};
+vm.createContext(ctx);vm.runInContext(s.slice(s.indexOf('const rebuildPlanDescription'),s.indexOf('function studyPlanCardHTML')),ctx);
+const classes=new Set(),button={dataset:{},parentElement:{classList:{add:x=>classes.add(x),remove:x=>classes.delete(x)}}};
+const event=(detail=1)=>({target:{closest:()=>button},pointerType:'touch',detail,preventDefault(){this.prevented=true},stopImmediatePropagation(){this.stopped=true}});
+let e=event();listeners.pointerdown[0](e);listeners.click[0](e);assert(e.stopped&&classes.has('tooltip-open'),'first touch explains only');
+e=event();listeners.pointerdown[0](e);listeners.click[0](e);assert(!e.stopped&&!classes.has('tooltip-open'),'second touch reaches existing rebuild');
+e=event(0);listeners.pointerdown[0](e);listeners.click[0](e);assert(!e.stopped,'keyboard activation works normally');
+assert(s.includes("planRebuildControl('rebuild-panel-description')"));
+console.log('PASS: first-touch guard, second-touch activation, keyboard activation, both rebuild surfaces.');

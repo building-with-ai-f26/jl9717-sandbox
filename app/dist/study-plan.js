@@ -100,13 +100,35 @@ function planSummaryText(plan){
 function planStateText(plan){const n=plan.items.length;return plan.completed?'✓ Done today':plan.started?`${plan.done} of ${n} done`:`${plan.starter?'Starter plan':'Today’s plan'} · ${countLabel(n,'decision')}`}
 
 /* ---------- Part 1: entry points ---------- */
+const rebuildPlanDescription="Discard today's unstarted plan and build a new one from your current mistakes, leaks, and weakest concepts. Nothing else changes: your progress and history stay.";
+function planRebuildControl(id,cls=''){
+ return `<span class="plan-rebuild-control"><button class="${cls}" data-plan-rebuild aria-describedby="${id}">Rebuild plan</button><span id="${id}" role="tooltip" class="plan-rebuild-tooltip">${rebuildPlanDescription}</span></span>`;
+}
+// Touch opens the explanation first; a second tap invokes the existing action.
+let rebuildTouchButton=null;
+document.addEventListener('pointerdown',e=>{
+ const b=e.target.closest('[data-plan-rebuild]');
+ if(e.pointerType==='touch'&&b)b.dataset.touchRebuild='true';
+ else if(!b){rebuildTouchButton?.parentElement.classList.remove('tooltip-open');rebuildTouchButton=null}
+},true);
+document.addEventListener('click',e=>{
+ const b=e.target.closest('[data-plan-rebuild]');if(!b)return;
+ const touch=b.dataset.touchRebuild==='true';delete b.dataset.touchRebuild;
+ if(touch&&e.detail!==0&&rebuildTouchButton!==b){
+  rebuildTouchButton?.parentElement.classList.remove('tooltip-open');rebuildTouchButton=b;
+  b.parentElement.classList.add('tooltip-open');e.preventDefault();e.stopImmediatePropagation();return;
+ }
+ rebuildTouchButton=null;b.parentElement.classList.remove('tooltip-open');
+},true);
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){rebuildTouchButton?.parentElement.classList.remove('tooltip-open');rebuildTouchButton=null;document.activeElement?.closest('.plan-rebuild-control')?.classList.add('tooltip-dismissed')}});
+document.addEventListener('focusin',e=>{e.target.closest('.plan-rebuild-control')?.classList.remove('tooltip-dismissed')});
 function studyPlanCardHTML(){
  let plan;try{plan=todaysPlan()}catch{return ''}if(!plan)return '';const n=plan.items.length;
- return `<div class="plan-card-wrap"><button id="today-plan" class="mode plan-card ${plan.completed?'mode-done':''}" data-study-plan ${n?'':'disabled'}><h3>Study Plan</h3><p>One session built from your own data: missed spots, biggest leaks, weakest concepts.</p>${n?`<span class="mode-state ${plan.completed?'check-good':''}">${planStateText(plan)}</span><span class="source">${plan.completed?'Tap to see today’s results':plan.started?'Tap to pick up where you left off':esc(planSummaryText(plan))}</span>${plan.completed?mascotHTML('sleep','empty'):''}`:`<span class="mode-state">No ${settings.tableSize}-handed data loaded</span>`}</button>${n&&!plan.started?'<button class="text-link plan-rebuild" data-plan-rebuild>Rebuild plan</button>':''}</div>`;
+ return `<div class="plan-card-wrap"><button id="today-plan" class="mode plan-card ${plan.completed?'mode-done':''}" data-study-plan ${n?'':'disabled'}><h3>Study Plan</h3><p>One session built from your own data: missed spots, biggest leaks, weakest concepts.</p>${n?`<span class="mode-state ${plan.completed?'check-good':''}">${planStateText(plan)}</span><span class="source">${plan.completed?'Tap to see today’s results':plan.started?'Tap to pick up where you left off':esc(planSummaryText(plan))}</span>${plan.completed?mascotHTML('sleep','empty'):''}`:`<span class="mode-state">No ${settings.tableSize}-handed data loaded</span>`}</button>${n&&!plan.started?planRebuildControl('rebuild-card-description','text-link plan-rebuild'):''}</div>`;
 }
 function progressPlanHTML(){
  let plan;try{plan=todaysPlan()}catch{return ''}if(!plan||!plan.items.length)return '';
- return `<section class="panel plan-panel"><div class="stats-row"><h3>Study Plan</h3><span class="source">${planStateText(plan)}</span></div><p class="muted">${plan.completed?'Today’s plan is finished. A new one is built tomorrow from your updated mistakes and leaks.':esc(planSummaryText(plan))+'. Built once a day from your mistake queue, your two biggest leaks, and your weakest concepts.'}</p><div class="choices"><button class="primary" data-study-plan>${plan.completed?'See today’s plan results':plan.started?'Resume today’s plan':'Build today’s plan'}</button>${!plan.started?'<button data-plan-rebuild>Rebuild plan</button>':''}</div></section>`;
+ return `<section class="panel plan-panel"><div class="stats-row"><h3>Study Plan</h3><span class="source">${planStateText(plan)}</span></div><p class="muted">${plan.completed?'Today’s plan is finished. A new one is built tomorrow from your updated mistakes and leaks.':esc(planSummaryText(plan))+'. Built once a day from your mistake queue, your two biggest leaks, and your weakest concepts.'}</p><div class="choices"><button class="primary" data-study-plan>${plan.completed?'See today’s plan results':plan.started?'Resume today’s plan':'Build today’s plan'}</button>${!plan.started?planRebuildControl('rebuild-panel-description'):''}</div></section>`;
 }
 function rebuildStudyPlan(){const p=planStore();if(!p||p.started||p.date!==planDayKey())return;const alt=p.alt;planCache=generateStudyPlan(p.date);if(alt)planCache.alt=alt;savePlan();(screen==='progress'?showProgress:home)();toast('Plan rebuilt from your latest data.')}
 function planRows(plan){return plan.items.filter(i=>i.answered&&!i.skipped).map(i=>({score:i.score,kind:i.kind}))}

@@ -195,3 +195,245 @@ button.session-row{grid-template-columns:minmax(0,1fr) 18px;grid-template-areas:
 .opponents .notebook>h3,.opponents .notebook>details{padding-inline:24px}.opponents .study-rule{padding:22px 24px!important}.opponents .study-rule p{line-height:1.65}
 .display-units{display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px;margin:8px 0;flex-shrink:0;font-size:12px}.display-units button{padding:7px 10px;min-height:40px}.display-units label{display:flex;align-items:center;gap:5px}.display-units input{width:70px;min-height:36px;padding:6px;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:4px}.display-units .source{font-size:10px}
 @media(max-width:650px){.opponents .study-rule{padding:18px!important}.opponents .notebook>h3,.opponents .notebook>details{padding-inline:18px}.display-units{gap:6px;font-size:11px}.display-units input{width:56px}.session:has(.display-units){height:auto;min-height:100dvh;overflow:visible}.session:has(.display-units) .feedback{max-height:none;overflow:visible}}
+
+/* ==========================================================================
+   v30 restyle layer. Presentation only: no markup, logic, storage or layout
+   rules change. Flat surfaces, soft radius, one accent, no hard pixel shadows,
+   no lavender. Pixel face is kept for the wordmark and result banner only.
+   ========================================================================== */
+:root{
+  --bg:#0e1510;--felt:#0e1510;--panel:#141d17;--surface:#0f1712;--surface-2:#182319;
+  --line:#26352a;--line-strong:#37503c;--ink:#edf1ea;--muted:#9aa897;
+  --accent:#c7ef88;--accent-ink:#13200c;--accent-soft:#c7ef881f;--raise:#b6d87f;
+  --cyan:#79dce4;--magenta:#e0b473;--amber:#e0b473;--danger:#efad99;
+  --r-sm:8px;--r-md:12px;--r-lg:18px;
+  --ease:cubic-bezier(.2,.7,.2,1);--t:.16s;
+  --table:#1b3324;--table-edge:#2f4a37;
+}
+html{color-scheme:dark}
+body{background:var(--bg);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+::selection{background:#c7ef8840}
+
+/* ---- type: one sans, pixel face only on brand and result banner ---- */
+.eyebrow,.section-label,.section-title h2,.notebook-divider,.study-index,.mode .num,.landing-stats,
+.metric strong,.equity-figures strong,.equity-entry input,.number,.xp-panel .stats-row span:last-child,
+.grade,.sizes button,.import-metrics strong,.mode-subtitle,.menu-family>h2.eyebrow,.landing-modes .section-title h2,
+.table-mascot figcaption{font-family:var(--font-body);letter-spacing:0}
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.menu-family>h2.eyebrow{font-size:12px;letter-spacing:.14em}
+.section-title h2,.notebook-divider,.landing-modes .section-title h2{font-size:22px;font-weight:600;letter-spacing:-.3px}
+.notebook-divider{font-size:22px!important}
+.landing-stats{font-size:13px;font-weight:500;color:#b9c8b0;letter-spacing:0;font-variant-numeric:tabular-nums}
+.mode .num,.mode-subtitle{font-size:12px;font-weight:600;letter-spacing:.06em}
+.metric strong,.equity-figures strong,.import-metrics strong{font-weight:600;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.grade{font-size:12px;font-weight:600;padding:3px 10px;border-radius:999px;line-height:1.4}
+.study-index{font-size:13px;font-weight:600;min-width:30px;border-radius:var(--r-sm);padding:3px 6px;border-color:#3d5a38;background:#c7ef8812}
+.sizes button{font-size:13px;font-weight:600}
+.stage-banner{border-radius:var(--r-sm);box-shadow:none;border-width:1px;font-size:22px}
+h1,.landing-hero h1{letter-spacing:-.035em;font-weight:650}
+.brand,button.brand{letter-spacing:.06em}
+
+/* ---- header ---- */
+.top{border-bottom:1px solid var(--line);padding:18px 0}
+.nav button{border-radius:var(--r-sm);border:1px solid transparent;color:var(--muted)}
+.nav button:hover{color:var(--ink);background:#ffffff0d}
+.nav button.active{color:var(--accent);background:var(--accent-soft);border-color:#c7ef8833}
+.table-switch{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-sm);padding:3px;gap:2px}
+.table-switch button{border:0;border-radius:6px;background:transparent;color:var(--muted)}
+.table-switch button:hover{color:var(--ink);background:#ffffff0d}
+.table-switch button.selected,.table-switch button.selected:hover{background:var(--accent);color:var(--accent-ink)}
+.panel .table-switch{display:inline-flex}
+
+/* ---- surfaces: flat, bordered, soft radius ---- */
+.panel,.metrics,.notice,.modal-content,.grid-info,.import-report,.review-card,.stat-inline-panel,.equity-figures>div,
+.import-metrics>div,.comparison section,.range-miss,.xp-bar,.dirty-outs,.demo-options button,.hero-demo,
+.choices button,.quiz-options button,.study-list button,.setting select,.chart-pickers select,.villain-filters select,
+select,.display-units input,.import-inputs textarea,.import-inputs input[type=text],.equity-entry input,.mode{border-radius:var(--r-md)}
+.panel,.metrics,.mode,.modal-content,.hero-demo{background:var(--panel);border:1px solid var(--line);box-shadow:none}
+.mode.first{background:#18251a;border-color:#3f5c3b;box-shadow:none}
+.modal-content{background:#101912;box-shadow:0 24px 60px #0009}
+.modal{background:#05080aee;backdrop-filter:blur(3px)}
+.notice{background:#15241a;border-color:#2f4b34}
+.grid-info{background:var(--surface-2);border-left:3px solid var(--accent);border-radius:var(--r-sm)}
+.tag{border-radius:999px;font-size:12px;border-color:var(--line-strong)}
+.section-title>.tag{color:var(--cyan);border-color:#2f5557}
+.sample-badge{border-radius:999px;padding:2px 8px}
+.sample-badge.lean{color:var(--cyan)}
+.page>.panel:not(.notebook){border-top:1px solid var(--line)}
+.notebook,.notebook.panel{box-shadow:none;border-radius:0}
+.exploit{border-left:2px solid #c99a55}
+.dirty-outs{background:#241e12;border:1px solid #6e5630;border-left:3px solid var(--amber);border-radius:var(--r-sm)}
+.dirty-outs>strong{color:var(--amber)}
+.excluded-card{color:#f0c891}
+.hand-history ol{line-height:1.75}
+.opponent-stats th{color:var(--muted);font-weight:600;font-size:11px;letter-spacing:.05em;text-transform:uppercase}
+
+/* ---- landing hero ---- */
+.landing-hero{background:linear-gradient(180deg,#16251b 0%,#121d16 100%);border:1px solid var(--line);border-radius:var(--r-lg);box-shadow:none}
+.landing-description{color:#cbd6c4}
+.hero-demo{background:#0f1812;border-color:#2c4331;border-radius:var(--r-md);box-shadow:0 18px 40px #0006}
+.demo-options button{background:#1a2a1e;border-color:#35523a;border-radius:var(--r-sm)}
+.demo-options button:hover{background:#223626;border-color:#5b8a55}
+.demo-evidence{border-top-color:var(--line)}
+.landing-modes .section-title{margin-bottom:16px}
+.mode{min-height:132px;padding:20px}
+.mode h3{font-size:18px;font-weight:600;letter-spacing:-.01em}
+.mode p{color:var(--muted)}
+.mode .arrow{transition:transform var(--t) var(--ease)}
+.mode[data-mode="6"] .num{color:var(--cyan)}.mode[data-mode="4"] .num{color:var(--amber)}
+.today-strip .mode{min-height:140px}
+.xp-bar{padding:5px;gap:3px;height:28px}.xp-bar i{border-radius:2px}
+.statbar{border-radius:999px;overflow:hidden;height:6px}.statbar i{background:var(--accent)}
+.progress-track{border-radius:999px;overflow:hidden;height:4px;background:var(--line)}
+.progress-track i{border-radius:999px}
+
+/* ---- buttons: flat, step on hover, press on click ---- */
+button:not(.cell){border-radius:var(--r-sm);box-shadow:none;border:1px solid var(--line);background:var(--panel);
+  transition:background-color var(--t) var(--ease),border-color var(--t) var(--ease),color var(--t) var(--ease),transform var(--t) var(--ease)}
+button:not(.cell):hover{background:#1c2a20;border-color:var(--line-strong)}
+button:not(.cell):active{transform:translateY(1px) scale(.985);box-shadow:none}
+button.primary,.primary,.actions button.aggressive,.actions .aggressive{background:var(--accent);color:var(--accent-ink);border:1px solid var(--accent);
+  box-shadow:none!important;border-radius:10px;font-weight:650}
+button.primary:hover,.primary:hover,.actions .aggressive:hover{background:#d6f5a6;border-color:#d6f5a6}
+button.primary:active,.actions .aggressive:active{transform:translateY(1px) scale(.985);box-shadow:none}
+.landing-start .ui-icon{transition:transform var(--t) var(--ease)}.landing-start:hover .ui-icon{transform:translateX(3px)}
+.choices button.selected,.sizes button.selected,.quiz-options .picked{background:#1d3022;border-color:#86a65e;color:var(--accent);box-shadow:none}
+.choices button:not(.primary):hover,.sizes button:hover{background:#1c2a20}
+.actions button{border-radius:10px}
+.actions button:not(.aggressive):hover{background:#1c2a20}
+.quiz-options button{border-width:1px;border-left:3px solid #4b6a46}
+.quiz-options button.picked{border-left-color:var(--accent)}
+.quiz.exploit .quiz-options button{border-left-color:#c99a55}
+.study-list button{border-width:1px;background:var(--panel)}
+.nav button,.footer button,.back,.session-head button,.brand,.text-link,.demo-continue,.demo-why-toggle,button.review-row,button.session-row{border-radius:var(--r-sm)}
+.back,.session-head button,.footer button,.brand,.demo-continue{border:0;background:none}
+.back:hover,.session-head button:hover,.footer button:hover{background:#ffffff0d;color:var(--ink)}
+.brand:hover{background:none}
+.footer button{padding:4px 8px;margin:-4px -8px}
+.demo-continue:hover{background:none}
+.setting input[type=checkbox]{border:1px solid var(--line-strong);border-radius:6px;box-shadow:none;transition:background-color var(--t) var(--ease),border-color var(--t) var(--ease)}
+.setting input[type=checkbox]:hover{border-color:var(--accent)}
+select{background-color:var(--panel);border-color:var(--line);transition:border-color var(--t) var(--ease)}
+select:hover{border-color:var(--line-strong)}
+button:focus-visible,a:focus-visible,select:focus-visible,summary:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:var(--r-sm)}
+.equity-entry input{background:var(--surface);border:1px solid var(--line-strong)}
+.equity-entry input:focus{border-color:var(--accent);outline:2px solid #c7ef8855;outline-offset:2px}
+
+/* ---- linked cards lift 2px ---- */
+.mode,.study-list button,.plan-card-wrap .mode{transition:transform var(--t) var(--ease),border-color var(--t) var(--ease),background-color var(--t) var(--ease)}
+.mode:hover,.study-list button:hover{transform:translateY(-2px);background:#18241b;border-color:#4a7048}
+.mode:hover .arrow{transform:translate(2px,-2px)}
+.mode:active,.study-list button:active{transform:translateY(0) scale(.995)}
+.notebook .study-list button:hover{border-color:var(--raise)}
+.notebook.exploit .study-list button:hover{border-color:#c99a55}
+
+/* ---- links: underline draws on hover ---- */
+.hero-quick-anchors a,.text-link,a.link{text-decoration:none;
+  background:linear-gradient(currentColor,currentColor) 0 100%/0 1px no-repeat,linear-gradient(#c7ef8855,#c7ef8855) 0 100%/100% 1px no-repeat;
+  padding-bottom:2px;transition:background-size .24s var(--ease)}
+.hero-quick-anchors a:hover,.hero-quick-anchors a:focus-visible,.text-link:hover,a.link:hover{background-size:100% 1px,100% 1px}
+.text-link{border-radius:0}
+.opponent-stats button{text-decoration-color:#c7ef8866;transition:text-decoration-color var(--t) var(--ease)}
+.opponent-stats button:hover{text-decoration-color:currentColor}
+
+/* ---- table and cards ---- */
+.felt{clip-path:none;border:1px solid var(--table-edge);border-radius:999px;outline:0;
+  background:radial-gradient(ellipse at 50% 35%,#27452f 0%,var(--table) 70%);
+  box-shadow:inset 0 0 0 6px #14231a,inset 0 0 0 7px #2b4332,inset 0 12px 28px #0006}
+.felt:before,.felt:after{display:none}
+.equity-felt{background:linear-gradient(180deg,#16271c,#111e16);border:1px solid #29402f;border-radius:var(--r-md);box-shadow:none}
+.seat{background:var(--surface);border:1px solid var(--line-strong);border-radius:var(--r-sm);box-shadow:none}
+.seat.hero-seat{background:#1b2d1b;border-color:var(--accent);color:var(--accent)}
+.seat .you-marker,.you-marker{border-radius:5px;background:var(--accent);color:var(--accent-ink)}
+.card{border-radius:7px;border:1px solid #c5ccbd;background:#eef1e8;box-shadow:0 2px 6px #0007,0 1px 0 #fff inset}
+.board .card{border-radius:5px}
+.card-back{border-radius:5px}
+.pot{color:var(--accent);font-weight:600;font-variant-numeric:tabular-nums}
+.diamonds{color:#2a62b3}.two-color .diamonds{color:#bb303d}
+
+/* ---- feedback, charts ---- */
+.verdict{font-weight:650}.verdict.bad{color:var(--danger)}
+.freq{border-radius:6px}
+.cell{border-radius:4px;transition:transform .12s var(--ease),filter .12s var(--ease)}
+.cell:hover{filter:brightness(1.12)}
+.cell.highlight{outline-color:#fff}
+.reference-grid .cell:hover{transform:scale(1.04);z-index:2}
+.math-strip span{background:var(--surface-2);border:1px solid var(--line);border-radius:6px}
+.review-grade{border-radius:999px}
+.toast{border-radius:var(--r-sm);box-shadow:0 10px 30px #0008}
+.help{border-radius:50%}
+.legend i{border-radius:3px}
+button.review-row:hover,button.session-row:hover,button.review-row[aria-expanded="true"]{background:var(--surface-2)}
+
+/* ---- chrome buttons (after generic button rule, higher specificity) ---- */
+.top .nav button,.top button.brand,.footer button,button.back,.session-head button,button.demo-continue,.table-switch button{box-shadow:none}
+.top .nav button{border:1px solid transparent;background:transparent;color:var(--muted)}
+.top .nav button:hover{color:var(--ink);background:#ffffff0d;border-color:transparent}
+.top .nav button.active{color:var(--accent);background:var(--accent-soft);border-color:#c7ef8833}
+.top button.brand,.footer button,button.back,.session-head button,button.demo-continue,button.plan-rebuild-quiet{border:0;background:none}
+.top button.brand:hover,button.demo-continue:hover{background:none;border:0}
+.footer button:hover,button.back:hover,.session-head button:hover{background:#ffffff0d;color:var(--ink)}
+.table-switch button{border:0;background:transparent;color:var(--muted)}
+.table-switch button:hover{color:var(--ink);background:#ffffff0d}
+.table-switch button.selected,.table-switch button.selected:hover{background:var(--accent);color:var(--accent-ink)}
+.hero-demo .number{font-size:1em!important;font-weight:600}
+.section-label{font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.demo-heading .section-label{font-size:12px!important}
+.landing-hero{margin:0!important;padding:32px!important}
+@media(max-width:650px){.landing-hero{padding:20px 16px!important}}
+
+/* ---- polish ---- */
+.seat .you-marker,.you-marker{width:auto!important;height:auto!important;min-width:0;padding:1px 5px;font-size:10px!important;font-weight:700;letter-spacing:.04em;line-height:1.4;margin-left:4px}
+
+.table-switch{display:inline-flex;width:fit-content;max-width:100%}
+.header-table .table-switch{display:flex}
+.notice+button,.notice+.choices,.notice+a{margin-top:14px}
+button.plan-rebuild{border:0;background:none;color:var(--muted);padding:4px 2px;min-height:32px;font-size:12px}
+button.plan-rebuild:hover{background:none;color:var(--accent)}
+input[type=file]::file-selector-button{font:inherit;font-size:13px;color:var(--ink);background:var(--surface-2);border:1px solid var(--line-strong);border-radius:var(--r-sm);padding:7px 12px;margin-right:10px;cursor:pointer;transition:background-color var(--t) var(--ease)}
+input[type=file]::file-selector-button:hover{background:#223226}
+button:disabled,button:disabled:hover{transform:none;opacity:.4}
+.primary:disabled,.primary:disabled:hover{background:var(--accent);border-color:var(--accent)}
+
+/* ---- hero entrance: once on load ---- */
+@keyframes pg-enter{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.landing-hero .landing-intro-top>*,.landing-hero .landing-intro-bottom,.landing-hero .hero-demo{animation:pg-enter .55s var(--ease) both}
+.landing-hero .landing-intro-top>:nth-child(2){animation-delay:.05s}
+.landing-hero .landing-intro-top>:nth-child(3){animation-delay:.1s}
+.landing-hero .landing-intro-top>:nth-child(4){animation-delay:.15s}
+.landing-hero .landing-intro-bottom{animation-delay:.2s}
+.landing-hero .hero-demo{animation-delay:.12s}
+@media(prefers-reduced-motion:reduce){
+  *,*:before,*:after{animation:none!important;transition:none!important}
+  .mode:hover,.study-list button:hover,button:not(.cell):active,.reference-grid .cell:hover{transform:none!important}
+}
+
+/* Build 4: calm table rails, legible backs, neutral decisions. */
+.felt{clip-path:none!important;border-radius:999px!important}.felt:before,.felt:after{clip-path:none!important;border-radius:inherit!important}
+.seat .card-back{width:24px;height:34px;margin:5px 2px -3px;border:2px solid #a3bc81;border-radius:4px;background-color:#304b3b;background-image:repeating-linear-gradient(45deg,transparent 0 5px,#c7ef8830 5px 7px);box-shadow:inset 0 0 0 2px #14231a,0 2px 3px #0005}
+.actions .aggressive,.actions button,.villain-options button,.equity-decisions button{background:var(--surface)!important;color:var(--ink)!important;border-color:var(--line-strong)!important;box-shadow:none!important}
+.actions button:hover,.actions button:focus-visible,.villain-options button:hover,.villain-options button:focus-visible,.equity-decisions button:hover,.equity-decisions button:focus-visible{background:var(--accent)!important;color:var(--accent-ink)!important;border-color:var(--accent)!important}
+.sizes button.selected{background:var(--surface);color:var(--ink);border-color:var(--line-strong)}
+.sizing-tip{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;font-size:14px;margin:6px 0}.sizing-tip button{font-size:13px;padding:6px 9px;min-height:32px}
+.coverage-note{font-size:14px;line-height:1.5;color:var(--muted);margin:16px 0 8px}.decision-reason{font-size:15px!important;line-height:1.5}
+.villain-decision-stats{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0;flex:none}.villain-decision-stats>span{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px 10px;font-size:14px;line-height:1.4}.villain-decision-stats strong{display:block;font-size:13px}.villain-decision-stats small{font-size:12px}.logged-action-note{border-left:3px solid var(--accent);padding-left:10px}
+.result-mascot{float:none;display:inline-block;vertical-align:middle;margin:0 12px 12px 0}.mascot-quiz{display:none}
+.session:has(.villain-decision-stats){height:auto;min-height:100dvh;overflow:visible}.villain-session .feedback{max-height:none;overflow:visible}
+@media(max-width:650px){.seat .card-back{width:19px;height:27px}.display-units .source{flex-basis:100%;font-size:12px}.session:has(.sizing-tip){height:auto;min-height:100dvh;overflow:visible}}
+
+/* TODAY cards share one intrinsic-height row; rebuild stays below that row. */
+.today-strip .modes:has(.plan-card-wrap){grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch;row-gap:8px}
+.today-strip .plan-card-wrap{display:contents}
+.today-strip .modes>.mode,.today-strip .plan-card{grid-row:1;min-width:0;height:auto;margin:0;padding:24px;display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.today-strip .plan-card{grid-column:1}
+.today-strip #today-daily{grid-column:2}
+.today-strip #today-review{grid-column:3}
+.today-strip .plan-rebuild-control{grid-row:2;grid-column:1;justify-self:start}
+.plan-rebuild-control{position:relative;display:inline-flex;max-width:100%;scroll-margin:0;overflow-anchor:none}
+.plan-rebuild-tooltip{display:none;position:absolute;z-index:20;top:100%;left:0;width:360px;max-width:calc(100vw - 64px);padding:14px 16px;border:1px solid var(--line);background:var(--panel,#18281e);color:var(--text,#eef1e9);box-shadow:0 8px 24px #0005;font-family:var(--body-font, sans-serif);font-size:14px;line-height:1.5;text-align:left}
+.plan-rebuild-control:hover .plan-rebuild-tooltip,.plan-rebuild-control:focus-within:not(.tooltip-dismissed) .plan-rebuild-tooltip,.plan-rebuild-control.tooltip-open .plan-rebuild-tooltip{display:block}
+@media(max-width:900px){
+ .today-strip .modes:has(.plan-card-wrap){grid-template-columns:1fr}
+ .today-strip .modes>.mode,.today-strip .plan-card,.today-strip .plan-rebuild-control{grid-row:auto;grid-column:1;width:100%;box-sizing:border-box}
+ .today-strip .plan-rebuild-control{width:auto;margin-bottom:8px}
+}
